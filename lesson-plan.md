@@ -68,7 +68,7 @@ General Schedule for Classes:
       <td style="text-align:left">9/9</td>
       <td style="text-align:left">
         <p>Share/Critique:
-          <br /> <a href="weeklies/2.-fiber-exploration.md">weeklies 2</a>
+          <br /> <a href="weeklies/2-fiber-exploration.md">weeklies 2</a>
         </p>
         <p>Lecture:
           <br /><b>String and Filament</b>
@@ -80,7 +80,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">9/14</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>3</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>3</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">9/16</td>
@@ -92,7 +92,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">9/21</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>4</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>4</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">9/23</td>
@@ -104,7 +104,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">9/28</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>5</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>5</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">9/30</td>
@@ -116,7 +116,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">10/5</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>6</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>6</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">10/7</td>
@@ -128,7 +128,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">10/12</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>7</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>7</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">10/14</td>
@@ -153,7 +153,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">11/2</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>8</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>8</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">11/4</td>
@@ -165,7 +165,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">11/9</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>9</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>9</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">11/11</td>
@@ -177,7 +177,7 @@ General Schedule for Classes:
     <tr>
       <td style="text-align:left">11/16</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2.-fiber-exploration.md">weeklies </a>10</p>
+        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>10</p>
         <p>History of _______________</p>
       </td>
       <td style="text-align:left">11/18</td>
