@@ -67,7 +67,6 @@ USB Microscope, 23
 
 Kumihimo Disk
 
-{% embed url="https://www.amazon.com/Beadsmith-KD600-Kumihimo-English-Instructions/dp/B00337D5MC/ref=sr\_1\_4?dchild=1&keywords=kumihimo+disk&qid=1595184899&s=arts-crafts&sr=1-4" %}
 
 Craft Iron?
 
