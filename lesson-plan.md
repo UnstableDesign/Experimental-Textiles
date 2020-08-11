@@ -1,17 +1,8 @@
 ---
-description: What we need to cover by when
+description: This page describes what we will cover on each day of the class
 ---
 
 # Lesson Plan
-
-General Schedule for Classes: 
-
-| Monday | Wednesday |
-| :--- | :--- |
-| Soft Intro | Soft Intro |
-| Critique  | Lecture |
-| Break | Go Around |
-| History Of | Project Start |
 
 
 
@@ -20,195 +11,571 @@ General Schedule for Classes:
     <tr>
       <th style="text-align:left">Date</th>
       <th style="text-align:left">Monday</th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Date</th>
       <th style="text-align:left">Wednesday</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">8/24</td>
       <td style="text-align:left">
-        <p>Soft Intro: Getting to Know Each Other</p>
-        <p>Critique: How to Critique, Purpose
-          <br />History Of: Textiles (begin assigning histories?)</p>
-      </td>
-      <td style="text-align:left">8/26</td>
-      <td style="text-align:left">
-        <p>Soft Intro: Documentation,</p>
-        <p>Lecture:
-          <br />Design Philosophy &amp; Documentation
-          <br />Quick In Design Tutorial (15 mins)
-          <br />How to take photos...</p>
-        <p>Work:
-          <br />Review Weeklies Templates and begin first Weekly (change photo background)</p>
+        <p>8/24</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
         <p></p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">8/31</td>
       <td style="text-align:left">
-        <p>Soft Intro: ??</p>
-        <p>Share/Critique:
-          <br />Documentation Weeklies - share strategies, useful tools as a group, discuss
-          design process</p>
-        <p>History Of: Drizzling (?) as example</p>
-      </td>
-      <td style="text-align:left">9/2</td>
-      <td style="text-align:left">
-        <p>Lecture:
-          <br />Staple Fibers</p>
-        <p></p>
-        <p>Work:</p>
-        <p>Weeklies 2 Begin</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">9/7</td>
-      <td style="text-align:left">Labor Day, No Class</td>
-      <td style="text-align:left">9/9</td>
-      <td style="text-align:left">
-        <p>Share/Critique:
-          <br /> <a href="weeklies/2-fiber-exploration.md">weeklies 2</a>
+        <p><em>meets online only </em>
+          <br />
         </p>
-        <p>Lecture:
-          <br /><b>String and Filament</b>
+        <p><b>Class Intro</b>: How to Critique, Purpose of Class.
+          <br />
+        </p>
+        <p>History of Smart Textiles by Laura Devendorf</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p>8/26</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /></em>
+          <br
+          /><b>Design Philosophy &amp; Documentation</b> Lecture, Quick In Design Tutorial,
+          How to Take Good Photos
+          <br />
+        </p>
+        <p>Review Weeklies Templates and Begin <a href="weeklies/1-documentation-setup.md">First Weekly </a>
+        </p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>8/31</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /></em>
+        </p>
+        <p>Share/Critique: <a href="weeklies/1-documentation-setup.md">Weeklies 1: Documentation </a> 
+          <br
+          />
+        </p>
+        <p>History Of: Drizzling by Sasha De Koninck</p>
+      </td>
+      <td style="text-align:left">
+        <p>9/2</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
         <p>
-          <br />Begin Weeklies 3</p>
+          <br /><b>Staple Fibers </b>Lecture</p>
+        <p></p>
+        <p>Begin <a href="weeklies/2-fiber-exploration.md">Weekly 2: Fiber</a>
+        </p>
+        <p></p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/14</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>3</p>
-        <p>History of _______________</p>
+        <p>9/7</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">9/16</td>
       <td style="text-align:left">
-        <p><b>Ply and Braid</b> Lecture</p>
-        <p>Begin Weeklies 4</p>
+        <p>Labor Day, No Class</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p>9/9</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
+        <p>Share/Critique: <a href="weeklies/2-fiber-exploration.md">weeklies 2</a>
+        </p>
+        <p>
+          <br /><b>String and Filament </b>Lecture</p>
+        <p>
+          <br />Begin <a href="weeklies/3-string-exploration.md">Weeklies 3</a>
+        </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/21</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>4</p>
-        <p>History of _______________</p>
+        <p>9/14</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">9/23</td>
       <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
+        <p>Share/Critique <a href="weeklies/3-string-exploration.md">Weeklies 3</a>
+          <br
+          />
+        </p>
+        <p>History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>9/16</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
+        <p><b>Ply and Braid</b> Lecture
+          <br />
+        </p>
+        <p>Begin <a href="weeklies/4-ply-braid.md">Weeklies 4</a>
+        </p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>9/21</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
+        <p>Share/Critique <a href="weeklies/4-ply-braid.md">Weeklies 4</a>
+          <br />
+        </p>
+        <p>History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>9/23</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
         <p><b>Knits</b> Lecture</p>
-        <p>Begin Weeklies 5</p>
+        <p><b><br /></b>Begin <a href="weeklies/5-knit-exploration.md">Weeklies 5</a>
+        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9/28</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>5</p>
-        <p>History of _______________</p>
+        <p>9/28</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">9/30</td>
       <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p><b><br /></b>Share/Critique <a href="weeklies/5-knit-exploration.md">Weeklies 5</a>
+          <br
+          />
+        </p>
+        <p>History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>9/30</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
         <p><b>Wovens</b> Lecture</p>
-        <p>Begin Weeklies 6</p>
+        <p></p>
+        <p>Begin <a href="weeklies/6-weave-exploration.md">Weeklies 6</a>
+        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10/5</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>6</p>
-        <p>History of _______________</p>
+        <p>10/5</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">10/7</td>
       <td style="text-align:left">
-        <p><b>Non-Wovens</b> Lecture</p>
-        <p>Begin Weeklies 7</p>
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p>
+          <br />Share/Critique <a href="weeklies/6-weave-exploration.md">Weeklies 6</a>
+        </p>
+        <p>
+          <br />History of TBD by TBD</p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10/12</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>7</p>
-        <p>History of _______________</p>
+        <p>10/7</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">10/14</td>
-      <td style="text-align:left">Midterm Project Brainstorm</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10/19</td>
-      <td style="text-align:left">Midterm Project Intensive</td>
-      <td style="text-align:left">10/21</td>
-      <td style="text-align:left">Midterm Project Intensive</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10/26</td>
-      <td style="text-align:left"><a href="project/midterm-project-follow-the-materials.md">Midterm Swatches Due</a> /
-        Presentations</td>
-      <td style="text-align:left">10/28</td>
       <td style="text-align:left">
-        <p><b>Seaming and Surface</b> Lecture</p>
-        <p>Begin Weeklies 8</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">11/2</td>
-      <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>8</p>
-        <p>History of _______________</p>
-      </td>
-      <td style="text-align:left">11/4</td>
-      <td style="text-align:left">
-        <p><b>Volume</b> Lecture</p>
-        <p>Begin Weeklies 9</p>
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p><b><br />Non-Wovens</b> Lecture</p>
+        <p>
+          <br />Begin <a href="weeklies/7-non-woven-exploration.md">Weeklies 7</a>
+        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/9</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>9</p>
-        <p>History of _______________</p>
+        <p>10/12</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">11/11</td>
       <td style="text-align:left">
-        <p><b>Scale + Sustainability</b> Lecture</p>
-        <p>Begin Weeklies 10</p>
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
+        <p>Share/Critique <a href="weeklies/7-non-woven-exploration.md">Weeklies 7</a>
+          <br
+          />
+        </p>
+        <p>History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>10/14</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p>
+          <br />Midterm Project Brainstorm
+          <br />Guest Brainstormers TBD</p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/16</td>
       <td style="text-align:left">
-        <p>Share/Critique <a href="weeklies/2-fiber-exploration.md">weeklies </a>10</p>
-        <p>History of _______________</p>
+        <p>10/19
+          <br />
+        </p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
       </td>
-      <td style="text-align:left">11/18</td>
-      <td style="text-align:left">Guest Lecture</td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p></p>
+        <p>Midterm Project Intensive</p>
+        <p></p>
+        <p>History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>10/21
+          <br />
+          <br />
+        </p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p>
+          <br />
+          <br />Midterm Project Intensive</p>
+        <p></p>
+        <p></p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left">11/23</td>
       <td style="text-align:left">
-        <p>Final Project Checkin</p>
-        <p>Guest Lecture</p>
+        <p>10/26
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p><b><br /></b><a href="project/midterm-project-follow-the-materials.md">Midterm Swatches Due</a> 
+          <br
+          />Project Presentations</p>
+        <p>Guest Critics TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>10/28
+          <br />
+        </p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p><b><br />Routing</b> Lecture
+          <br />
+        </p>
+        <p>Begin <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
+        </p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>11/2</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences</em>
+        </p>
+        <p>
+          <br />Share/Critique <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
+        </p>
+        <p>
+          <br />History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>11/4</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em><b>Connecting</b> Lecture
+          <br
+          />
+        </p>
+        <p>Begin <a href="weeklies/9-connection-exploration.md">Weeklies 9</a>
+        </p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>11/9</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /></em>
+        </p>
+        <p>Share/Critique <a href="weeklies/9-connection-exploration.md">Weeklies 9</a>
+          <br
+          />
+        </p>
+        <p>History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>11/11</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em><b>Dynamics</b> Lecture
+          <br
+          />
+        </p>
+        <p>Begin <a href="weeklies/10-dynamics.md">Weeklies 10</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>11/16</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Share/Critique
+          <a
+          href="weeklies/10-dynamics.md">Weeklies 10</a>
+        </p>
+        <p>
+          <br />History of TBD by TBD</p>
+      </td>
+      <td style="text-align:left">
+        <p>11/18</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Final
+          Project Planning Day</p>
+        <p>Guest Planner TBD</p>
+        <p></p>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>11/23</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Guest
+          Lecture</p>
+        <p></p>
+        <p>History of TBD by TBD</p>
       </td>
       <td style="text-align:left">11/25</td>
-      <td style="text-align:left">Guest Lecture
+      <td style="text-align:left"><em>meets online with in person component TBD based on class preferences<br /><br /></em>Guest
+        Lecture
+        <br />
         <br />Workday</td>
     </tr>
     <tr>
       <td style="text-align:left">--</td>
-      <td style="text-align:left"><em>Course Moves Online</em>
+      <td style="text-align:left"><em>Course Moves Entirely Online</em>
       </td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">--</td>
     </tr>
     <tr>
       <td style="text-align:left">11/30</td>
-      <td style="text-align:left">
-        <p>Final Checkins</p>
-        <p>Guest Lecture</p>
-      </td>
+      <td style="text-align:left">Guest Lecture</td>
       <td style="text-align:left">12/2</td>
-      <td style="text-align:left">Guest Lecture
-        <br />Workday</td>
+      <td style="text-align:left">Workday</td>
     </tr>
     <tr>
       <td style="text-align:left">12/7</td>
@@ -222,34 +589,33 @@ General Schedule for Classes:
 
 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">--</th>
-      <th style="text-align:left"><em>Course Moves Online</em>
-      </th>
-      <th style="text-align:left">--</th>
-      <th style="text-align:left">--</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">11/30</td>
-      <td style="text-align:left">
-        <p>Final Checkins</p>
-        <p>Guest Lecture</p>
-      </td>
-      <td style="text-align:left">12/2</td>
-      <td style="text-align:left">Guest Lecture
-        <br />Workday</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">12/7</td>
-      <td style="text-align:left"><a href="project/final-project-adapt-to-application.md">Final Swatches Due</a> /
-        Presentations</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+## General Schedule for Classes
+
+Each class meeting will follow a general structure, with assignment critiques and reflection generally on Mondays and new material introduced. The "Soft Intro" is a 15 minute period where we log into class and share what we are working on in the moment. We may include prompts for changing your background and starting conversations. The "History Of" will be a 15 minute presentation led by a student on the history of a textile material, technique, or application of their interest. The schedule for history of Presentations will be assigned in week two. 
+
+| Monday | Wednesday |
+| :--- | :--- |
+| Soft Intro | Soft Intro |
+| Critique  | Lecture |
+| Break | Go Around |
+| History Of | Project Start |
+
+## History Of Schedule
+
+
+
+| Date | Topic | Presenter |
+| :--- | :--- | :--- |
+| 8/24 | Smart Textiles | Laura Devendorf |
+| 8/31 | Drizzling   | Sasha De Koninck |
+| 9/14 | TBD  | TBD |
+| 9/21 | TBD | TBD  |
+| 9/28 | TBD | TBD |
+| 10/5 | TBD | TBD |
+| 10/12 | TBD | TBD |
+| 10/19 | TBD | TBD |
+| 11/2 | TBD | TBD |
+| 11/9 | TBD | TBD |
+| 11/16 | TBD | TBD |
+| 11/23 | TBD | TBD |
 
