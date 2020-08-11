@@ -4,8 +4,6 @@ description: ATLAS 4519-010 / 5519-010
 
 # Syllabus: Soft Object
 
-## _published to Canvas 8/4/20_
-
 ## Instructors
 
 **Laura Devendorf**  
@@ -20,8 +18,8 @@ Responsible for in class critiques, instruction, grading input, feedback.
 
 ## Location and Timing 
 
-In person location: TBD  
-Zoom location: [https://cuboulder.zoom.us/j/93585982679](https://cuboulder.zoom.us/j/93585982679)
+In person location: ATLAS 113  
+Zoom location: see Canvas
 
 ## Hybrid Instruction Details
 
@@ -142,20 +140,25 @@ Please know that faculty and instructors have a responsibility to inform OIEC wh
 
 Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance.  Please contact me via email or office hours by the end of the second week of the course with specific dates that present conflicts so that I have an opportunity to make systemic adjustments to the course requirements that will benefit all students. See the [campus policy regarding religious observances](http://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details.
 
+### Requirements for COVID-19 
+
+As a matter of public health and safety due to the pandemic, all members of the CU Boulder community and all visitors to campus must follow university, department and building requirements, and public health orders in place to reduce the risk of spreading infectious disease. Required safety measures at CU Boulder relevant to the classroom setting include: 
+
+*  maintain 6-foot distancing when possible, 
+* wear a cloth face covering \(over nose and mouth\), especially when unable to maintain a distance of at least 12 feet, 
+* clean local work area, 
+* practice hand hygiene, 
+* follow public health orders, and 
+* if sick and 
+
+  * you live off campus, do not come onto campus \(unless instructed by a CU Healthcare professional\), or 
+  * you live on-campus, please alert [CU Boulder Medical Services](https://www.colorado.edu/healthcenter/coronavirus-updates/symptoms-and-what-do-if-you-feel-sick). 
+
+Students who fail to adhere to these requirements will be asked to leave class, and students who do not leave class when asked or who refuse to comply with these requirements will be referred to [Student Conduct and Conflict Resolution](https://www.colorado.edu/sccr/). For more information, see the policies on [COVID-19 Health and Safety](https://www.colorado.edu/policies/covid-19-health-and-safety-policy) and [classroom behavior](https://www.colorado.edu/policies/student-classroom-course-related-behavior) and the[ Student Code of Conduct](https://www.colorado.edu/sccr/). If you require accommodation because a disability  prevents you from fulfilling these safety measures, please see the “[Accommodation for Disabilities](./#accommodation-for-disabilities)” statement on this syllabus. Before returning to campus, all students must complete the [COVID-19 Student Health and Expectations Course](https://www.colorado.edu/protect-our-herd/how#anchor1). Before coming on to campus each day, all students are required to complete a [Daily Health Form](https://www.colorado.edu/protect-our-herd/daily-health-form).  
+
+Students who have tested positive for COVID-19, have symptoms of COVID-19, or have had close contact with someone who has tested positive for or had symptoms of COVID- 19 must stay home and complete the [Health Questionnaire and Illness Reporting Form](https://www.colorado.edu/protect-our-herd/daily-health-form) remotely. In this class, if you are sick or quarantined, please notify Professor Devendorf within 2-days of your illness so we can modify assignment deadlines and determine if it is possible for you to attend the lecture remotely. 
+
 ## **Acknowledgements**
 
-Thank you Sasha de Koninck for her time and effort developing the course and the many online resources.    
-
-
-
-
-\*\*\*\*
-
-
-
-
-
-
-
-
+Thank you Sasha de Koninck for her time and effort developing the course and the many online resources.  
 

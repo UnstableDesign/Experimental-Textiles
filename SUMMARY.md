@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Syllabus: Soft Object](README.md)
+* [Lesson Plan](lesson-plan.md)
 
 ## Weeklies
 
@@ -29,5 +30,4 @@
 ---
 
 * [Material List](material-list.md)
-* [Lesson Plan](lesson-plan.md)
 
