@@ -6,7 +6,7 @@
 
 ## Weeklies
 
-* [1. Documentation Setup](weeklies/1-documentation-setup.md)
+* [1. Documentation Exploration](weeklies/1-documentation-setup.md)
 * [2. Fiber Exploration](weeklies/2-fiber-exploration.md)
 * [3. String / Filament Explorations](weeklies/3-string-exploration.md)
 * [4. Ply / Braid Exploration](weeklies/4-ply-braid.md)

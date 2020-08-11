@@ -11,6 +11,7 @@ Essential materials are those required to complete the course assignments. We wi
 | Multimeter | X |  |  |
 | 36" Conductive Copper |  | X |  |
 | 36" Conductive Silver |  | X |  |
+| more coming soon |  |  |  |
 
 ## Other Useful Materials 
 
