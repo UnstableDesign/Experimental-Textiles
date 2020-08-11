@@ -2,6 +2,7 @@
 
 * [Syllabus: Soft Object](README.md)
 * [Lesson Plan](lesson-plan.md)
+* [Material List](material-list.md)
 
 ## Weeklies
 
@@ -16,18 +17,15 @@
 * [9: Connecting](weeklies/9-connection-exploration.md)
 * [10: Dynamics](weeklies/10-dynamics.md)
 
+## Projects/Assignments <a id="project"></a>
+
+* [History Of](project/history-of.md)
+* [Midterm Project: Follow the Materials](project/midterm-project-follow-the-materials.md)
+* [Final Project: Adapt to Application](project/final-project-adapt-to-application.md)
+
 ## Templates
 
 * [History Of Template](templates/history-of-template.md)
 * [Weeklies Template](templates/weeklies-template.md)
 * [Midterm Project Template](templates/assignment-tempate.md)
-
-## Project
-
-* [Midterm Project: Follow the Materials](project/midterm-project-follow-the-materials.md)
-* [Final Project: Adapt to Application](project/final-project-adapt-to-application.md)
-
----
-
-* [Material List](material-list.md)
 
