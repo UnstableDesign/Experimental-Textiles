@@ -406,7 +406,7 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
-        <p><b><br /></b><a href="project/midterm-project-follow-the-materials.md">Midterm Swatches Due</a> 
+        <p><b><br /></b><a href="projects-assignments/midterm-project-follow-the-materials.md">Midterm Swatches Due</a> 
           <br
           />Project Presentations</p>
         <p>Guest Critics TBD</p>
@@ -579,7 +579,7 @@ description: This page describes what we will cover on each day of the class
     </tr>
     <tr>
       <td style="text-align:left">12/7</td>
-      <td style="text-align:left"><a href="project/final-project-adapt-to-application.md">Final Swatches Due</a> /
+      <td style="text-align:left"><a href="projects-assignments/final-project-adapt-to-application.md">Final Swatches Due</a> /
         Presentations</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>

@@ -1,10 +1,11 @@
-# Summary
+# Table of contents
 
 * [Syllabus: Soft Object](README.md)
 * [Lesson Plan](lesson-plan.md)
 * [Material List](material-list.md)
 
 ## Weeklies
+
 * [1. Documentation Exploration](weeklies/1-documentation-setup.md)
 * [2. Fiber Exploration](weeklies/2-fiber-exploration.md)
 * [3. String / Filament Explorations](weeklies/3-string-exploration.md)
@@ -16,11 +17,11 @@
 * [9: Connecting](weeklies/9-connection-exploration.md)
 * [10: Dynamics](weeklies/10-dynamics.md)
 
-## Projects/Assignments 
+## Projects/Assignments
 
-* [History Of](project/history-of.md)
-* [Midterm Project: Follow the Materials](project/midterm-project-follow-the-materials.md)
-* [Final Project: Adapt to Application](project/final-project-adapt-to-application.md)
+* [History Of](projects-assignments/history-of.md)
+* [Midterm Project: Follow the Materials](projects-assignments/midterm-project-follow-the-materials.md)
+* [Final Project: Adapt to Application](projects-assignments/final-project-adapt-to-application.md)
 
 ## Templates
 
