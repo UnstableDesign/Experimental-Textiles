@@ -43,7 +43,7 @@ you may find it useful to have other materials accessible. These are products yo
 
 ## Library
 
-you may find it useful to have other materials accessible. These are products you may wish to purchase yourself or will be accessible \(on a first come first served bases\) through the course materials library. 
+you may find it useful to have other materials accessible. These are products you may wish to purchase yourself or will be accessible \(on a first come first served bases\) through the course materials library. If you would like to get a better sense of the material and quantity, you can see all of the materials [in this shared photo library](https://photos.app.goo.gl/vKVDvacFFzdoT92RA) 
 
 | Item | Amount? | Loaned To |
 | :--- | :--- | :--- |
