@@ -2,12 +2,22 @@
 
 Select a topic related to the class \(a textile material, process, or application\) that you would like to explore the history of. You will present this to the class in the form of a 10 minute presentation \(followed by 5 minutes of questions\) about the material and its history. Please include at least 100 years within your history, even if you think your material is "new" - what came before it? what was the material source? etc.
 
+Laura and Sasha will give example presentations in weeks 1 and 2 to help you develop a better sense of what such a presentation can look like. 
+
 The purpose of this activity is to: 
 
 * become deeply familiar with the historical context of at least one material/process/application
 * to generate possible inspiration and inquiry for the other class members
 * to be able to investigate and source reliable archival materials related to textile histories 
 * demonstrate critical thinking that links history to the present and future. 
+
+### Suggested Resources: 
+
+* Victoria and Albert Museum
+* Metropolitan Museum of Art
+* Art Institute of Chicago
+* LACMA
+* Kyoto Costume Institute  
 
 ### Rubric: 
 
