@@ -17,7 +17,8 @@ The purpose of this activity is to:
 * Metropolitan Museum of Art
 * Art Institute of Chicago
 * LACMA
-* Kyoto Costume Institute  
+* Kyoto Costume Institute 
+* [Decentering Whiteness in Design Readings List](https://docs.google.com/document/d/1KiW2ULDFeIm_OuvwhM2lygxwhoNddrEFk5tYI9zbldw/edit?fbclid=IwAR21LMyao9rvkccwG97nplMLwuAdzWgcGOduaePvpbBgfD9_dVm0FK4eaQw#heading=h.tmxp8rjigxll) 
 
 ### Rubric: 
 
