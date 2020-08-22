@@ -18,6 +18,11 @@ The purpose of this activity is to:
 * Art Institute of Chicago
 * LACMA
 * Kyoto Costume Institute 
+* Berg Fashion Library
+* [https://www.fashionandtextilemuseums.com/digital-collections/](https://www.fashionandtextilemuseums.com/digital-collections/)
+* [https://www.europeana.eu/en/collections/topic/55-fashion](https://www.europeana.eu/en/collections/topic/55-fashion)
+* [http://fashionmuseum.fitnyc.edu/](http://fashionmuseum.fitnyc.edu/)
+* [https://www.technical-textiles.net/](https://www.technical-textiles.net/)
 * [Decentering Whiteness in Design Readings List](https://docs.google.com/document/d/1KiW2ULDFeIm_OuvwhM2lygxwhoNddrEFk5tYI9zbldw/edit?fbclid=IwAR21LMyao9rvkccwG97nplMLwuAdzWgcGOduaePvpbBgfD9_dVm0FK4eaQw#heading=h.tmxp8rjigxll) 
 
 ### Rubric: 
