@@ -10,11 +10,11 @@ We have assembled kits for each student to give them most necessary supplies for
 
 ### How to Pick up Your Kit
 
-Our hope is to have your kits available beginning of **August 26**. The kits will have your name written on them and will be accessible by a shelf on the 2nd floor of ATLAS. Details are still being determined. 
+Our hope is to have your kits available beginning of **August 26**. The kits will have your name written on them and will be accessible by a shelf in room 207 on the 2nd floor of ATLAS. 
 
 ### How to Check Out from the Class Library
 
-The exact process is still to be determined but we expect to have a locked cabinet accessible to students that will contain supplies they are welcome to take. We are using the honor system so please take only what you need, especially with materials that are limited in supply. Other items will need to be formally checked out \(and later returned\) from the instructor and we can coordinate those checkouts through email and the instructor can place them at a pick up location. 
+There is a locked cabinet on the first floor of ATLAS that will contain supplies that you welcome to take for the purposes of completing class projects \(no personal projects please\). We are using the honor system so please take only what you need, especially with materials that are limited in supply. Other items will need to be formally checked out \(and later returned\) from the instructor and we can coordinate those checkouts [through this checkout form](https://forms.gle/QtsD814CHaysVYbd7). 
 
 ### Shop Local
 
