@@ -10,7 +10,7 @@ We have assembled kits for each student to give them most necessary supplies for
 
 ### How to Pick up Your Kit
 
-Our hope is to have your kits available beginning in the week of August 17. The kits will have your name written on them and will be accessible by a shelf on the 2nd floor of ATLAS. Details are still being determined. 
+Our hope is to have your kits available beginning of **August 26**. The kits will have your name written on them and will be accessible by a shelf on the 2nd floor of ATLAS. Details are still being determined. 
 
 ### How to Check Out from the Class Library
 
