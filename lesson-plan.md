@@ -25,20 +25,13 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
         <p><em>meets online only </em>
           <br />
         </p>
-        <p><b>Class Intro</b>: Setting Community Norms, Questions about How it Will
-          Take Place</p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
+        <p><b>Class Intro</b>: Setting Community Norms, Questions about How Class
+          Will Take Place</p>
       </td>
       <td style="text-align:left">
         <p>8/26</p>
@@ -48,19 +41,13 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
         <p><em>meets online only <br /></em>
-          <br /><b>Design Philosophy &amp; Documentation</b> Lecture, Quick In Design Tutorial,
-          How to Take Good Photos
-          <br />
-        </p>
+          <br /><b>Design Philosophy &amp; Documentation</b> In Design Tutorial,
+          <br />How to Take Good Photos</p>
         <p>Review Weeklies Templates and Begin <a href="weeklies/1-documentation-setup.md">First Weekly </a>
         </p>
-        <p></p>
       </td>
     </tr>
     <tr>
@@ -80,8 +67,6 @@ description: This page describes what we will cover on each day of the class
           <br />
         </p>
         <p>Share/Critique: <a href="weeklies/1-documentation-setup.md">Weeklies 1: Documentation </a> 
-          <br
-          />
         </p>
         <p>History Of: Drizzling by Sasha De Koninck</p>
       </td>
@@ -99,8 +84,9 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online only </em>
           <br />
-          <br /><b>Staple Fibers </b>Lecture</p>
-        <p></p>
+          <br /><b>Staple Fibers </b>Lecture
+          <br />Using a Multi-meter and
+          <br />Understanding Resistance</p>
         <p>Begin <a href="weeklies/2-fiber-exploration.md">Weekly 2: Fiber</a>
         </p>
         <p></p>
