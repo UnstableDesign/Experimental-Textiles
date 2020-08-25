@@ -10,11 +10,11 @@ We have assembled kits for each student to give them most necessary supplies for
 
 ### How to Pick up Your Kit
 
-Our hope is to have your kits available beginning of **August 26**. The kits will have your name written on them and will be accessible by a shelf in room 207 on the 2nd floor of ATLAS. 
+Our hope is to have your kits available beginning of **August 25**. The kits will have your name written on them and will be accessible by a shelf in room 207 on the 2nd floor of ATLAS. 
 
 ### How to Check Out from the Class Library
 
-There is a locked cabinet on the first floor of ATLAS that will contain supplies that you welcome to take for the purposes of completing class projects \(no personal projects please\). We are using the honor system so please take only what you need, especially with materials that are limited in supply. Other items will need to be formally checked out \(and later returned\) from the instructor and we can coordinate those checkouts [through this checkout form](https://forms.gle/QtsD814CHaysVYbd7). 
+There is a locked cabinet on the first floor of ATLAS that will contain supplies that you welcome to take for the purposes of completing class projects \(no personal projects please\). We are using the honor system so please take only what you need, especially with materials that are limited in supply. Other items will need to be formally checked out \(and later returned\) from the instructor and we can coordinate those checkouts [**through this checkout form**](https://forms.gle/QtsD814CHaysVYbd7)**.** 
 
 ### Shop Local
 
@@ -101,7 +101,7 @@ you may find it useful to have other materials accessible. These are products yo
 | Circular Knitting Needles, Size 9 | 1 | Check Out |  |
 | 12"  Tapestry Loom | 1 | Check Out |  |
 | 10" Rigid Heddle Loom | 1 | Check Out |  |
-| Kumihimo Disk | 3 | Check Out |  |
+| Kumihimo Disk | 3 | Cabinet |  |
 | Fringe Twister \(4-ply twister\) | 1 | Check Out |  |
 | Elastic, Fine \(deep blue\) | Limited | Cabinet |  |
 | Acrylic Hollow Knitted Yarn \(Gold\) | Enough | Cabinet |  |

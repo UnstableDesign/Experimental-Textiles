@@ -9,7 +9,8 @@ description: ATLAS 4519-010 / 5519-010
 **Laura Devendorf**  
 Assistant Professor, ATLAS Institute & Dept. of Information Science  
 laura.devendorf@colorado.edu  
-Responsible for grading, participation and course administration.
+Responsible for grading, participation and course administration.  
+Office Hours: [Sign Up at this Link](https://calendar.google.com/calendar/selfsched?sstoken=UUlSdzlqbmRSY0dPfGRlZmF1bHR8MTZhYjY5YzBiODhlNWZkY2Q4ZDBmZjM3ZjQ0ZWJmYTQ)
 
 **Sasha De Koninck**  
 PhD student, Intermedia Art, Writing, and Performance  

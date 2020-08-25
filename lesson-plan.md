@@ -33,10 +33,8 @@ description: This page describes what we will cover on each day of the class
         <p><em>meets online only </em>
           <br />
         </p>
-        <p><b>Class Intro</b>: How to Critique, Purpose of Class.
-          <br />
-        </p>
-        <p>History of Smart Textiles by Laura Devendorf</p>
+        <p><b>Class Intro</b>: Setting Community Norms, Questions about How it Will
+          Take Place</p>
         <p></p>
         <p></p>
         <p></p>
@@ -55,9 +53,8 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /></em>
-          <br
-          /><b>Design Philosophy &amp; Documentation</b> Lecture, Quick In Design Tutorial,
+        <p><em>meets online only <br /></em>
+          <br /><b>Design Philosophy &amp; Documentation</b> Lecture, Quick In Design Tutorial,
           How to Take Good Photos
           <br />
         </p>
@@ -79,7 +76,8 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /></em>
+        <p><em>meets online only </em>
+          <br />
         </p>
         <p>Share/Critique: <a href="weeklies/1-documentation-setup.md">Weeklies 1: Documentation </a> 
           <br
@@ -99,9 +97,8 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
-        </p>
-        <p>
+        <p><em>meets online only </em>
+          <br />
           <br /><b>Staple Fibers </b>Lecture</p>
         <p></p>
         <p>Begin <a href="weeklies/2-fiber-exploration.md">Weekly 2: Fiber</a>
@@ -145,10 +142,11 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
+          <br />
         </p>
-        <p></p>
-        <p>Share/Critique: <a href="weeklies/2-fiber-exploration.md">weeklies 2</a>
+        <p>Share/Critique:
+          <br /><a href="weeklies/2-fiber-exploration.md">weeklies 2</a>
         </p>
         <p>
           <br /><b>String and Filament </b>Lecture</p>
