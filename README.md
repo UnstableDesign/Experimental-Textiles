@@ -24,9 +24,37 @@ Zoom location: see Canvas
 
 ## Hybrid Instruction Details
 
-Students will have the option to attend some in person sessions or take the course entirely online. In person sessions will be held particularly for class presentations and/or material demonstrations and will be limited in the amount of students depending on room size. In the event there are more students who wish to attend in person than the room can support, we will alternate in-person days between students \(half students for one week, half students the other\). The class has been designed to facilitate making and documenting in an entirely remote fashion. 
+Students will have the option to attend some in person sessions or take the course entirely online. In person sessions will be held particularly for class presentations and/or material demonstrations and will be limited in the amount of students depending on room size. The class has been designed to facilitate making and documenting in an entirely remote fashion. Please view the [Lesson Plan](lesson-plan.md) for details on which lectures will be held online and which in person. 
 
-Online videos will take place at class time and will not be recorded for later viewing. 
+### Online Instruction Values and Commitments  as described by the class on the first day\*
+
+#### Be Present: 
+
+being present was seen to mean having your camera on, not getting distracted by your phone \(putting it in another room if needed\), being responsive within the Zoom chat window. 
+
+#### Lets Stay Together:
+
+we agreed that staying together was building communication and community through shared spaces. In response, [we set up a slack channel for the class](https://app.slack.com/client/T0197GVSCKY/C018ZGHGDQX). We also agreed that we would all need to bring some vulnerability to the group, sharing our successes as well as the things we are struggling with. The space should be a kind space to listen and provide support to each other. 
+
+#### Differences of Opinion:
+
+we agreed that we need to be respectful and empathetic when listening to and responding to each other. A "yes, and...." strategy should be used when providing feedback. We also recognize that perception is different for everyone and we come from different lenses and experiences. 
+
+#### Everyone Belongs: 
+
+we interpreted this to mean that we should be interested in put in effort to the work in the class; that everyone is learning \(and ought to be learning given the unfamiliar-ness of the space\). We should attempt to treat others equally regardless of background, skills or knowledge. We should also build each other up when at all possible. 
+
+#### Step Up, Step Back:
+
+we agreed that we should be reflective  of how much "space" we are taking in the class and step up if we have a relevant experience or expertise. Laura noted that self-evaluations of expertise vary social category and encouraged us to be generous with our own evaluations of our expertise and offer up what we know. Be wanted to create a space where we could take risks exploring something we don't know well \(textiles or otherwise\). We acknowledged that the willingness to step up tends to come from a position of privilege and how that becomes present in the classroom. Ask yourself how you can swing privilege to make space for others. 
+
+#### Privacy
+
+we agreed that activities and narratives of what happens in class should stay in class because we need to build a culture of trust to ensure that each of us feels ok being vulnerable about the things we are thinking and making \(acknowledging that a creative practice is rooted in vulnerability and not-knowing\). Our work may be personal and each of us, via Zoom, can see into a slice of everyone else's' personal life, we can keep the personal things we learn about people to ourselves. 
+
+
+
+
 
 ## Course Description
 
@@ -61,7 +89,7 @@ The last half of the course will be devoted to integrating your midterm swatch i
 
 We will meet at our assigned finals slot for a final critique. 
 
-## Course Materials \(to be updated\)
+## Course Materials 
 
 ### Prototyping Materials
 
@@ -71,7 +99,7 @@ Documentation will be a critical part of the class, so you may want to invest in
 
 ### Reading Materials
 
-All reading materials for the course will be provided by the instructors. With so many resources available on the internet, we are relying on students to begin from our resources but begin their own pathways of inquiry.  
+All reading materials for the course will be provided by the instructors. With so many resources available on the internet, we are relying on students to begin from [our resources](https://unstable.design/prototyping-smart-textiles/_book/) but begin their own pathways of inquiry.  
 
 ## **Grading Rubric & Assignment Types**
 
@@ -105,7 +133,7 @@ Because this is a small class, participation will be measured by your involvemen
 
 **Attendance** 
 
-All students will have 2 absences excused automatically. Any additional absences and make up points will need to be coordinated with the instructor. ****  
+All students will have 2 absences excused automatically. Any additional absences and make up points will need to be coordinated with the instructor. ****Due to COVID, we are willing to make additional exceptions in conversation with students. Please do not hesitate to contact us if you need an alternative schedule.   
 
 
 ## **Research Activities**
@@ -114,7 +142,7 @@ This course has been developed as part of a larger grant studying smart textiles
 
 ## **Contacting Prof. Devendorf**
 
-I  prefer that students utilize my office hours with questions or comments about the class. Please send all email inquiries to laura.devendorf@colorado.edu. Please also put “\[**SO**\]” in the subject line so that I can easily recognize and respond to your email. I will do my best to respond to emails within one “business” day. For instance, if your message is sent during a regular school day \(weekday/non-holiday\), I will do my best to get back to you by the next regular school day. Due to my parenting duties, I check my email infrequently in the evenings and weekends. If you email me the night before an assignment is due, I am unlikely to be able to respond in time.
+I  prefer that students utilize my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUlSdzlqbmRSY0dPfGRlZmF1bHR8MTZhYjY5YzBiODhlNWZkY2Q4ZDBmZjM3ZjQ0ZWJmYTQ) with questions or comments about the class. Please send all email inquiries to laura.devendorf@colorado.edu. Please also put “\[**SO**\]” in the subject line so that I can easily recognize and respond to your email. I will do my best to respond to emails within one “business” day. For instance, if your message is sent during a regular school day \(weekday/non-holiday\), I will do my best to get back to you by the next regular school day. Due to my parenting duties, I check my email infrequently in the evenings and weekends. If you email me the night before an assignment is due, I am unlikely to be able to respond in time.
 
 ## **Additional Policies**
 
@@ -162,4 +190,6 @@ Students who have tested positive for COVID-19, have symptoms of COVID-19, or ha
 ## **Acknowledgements**
 
 Thank you Sasha de Koninck for her time and effort developing the course and the many online resources.  
+
+\*The values and commitments activity that generated the content in this syllabus \(specifically the main points of presence, differences of opinion, ....\) was directly inspired by the organization of an online workshop led by the [OpEd project](https://www.theopedproject.org/). 
 
