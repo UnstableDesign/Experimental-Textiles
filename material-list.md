@@ -10,7 +10,7 @@ We have assembled kits for each student to give them most necessary supplies for
 
 ### How to Pick up Your Kit
 
-Our hope is to have your kits available beginning of **August 25**. The kits will have your name written on them and will be accessible by a shelf in room 207 on the 2nd floor of ATLAS. 
+Our hope is to have your kits available beginning of **August 25**. The kits will have your name written on them and will be accessible by **a shelf in room 208 on the 2nd floor of ATLAS**. Room 208 is the room directly across from the main 2nd floor staircase. 
 
 ### How to Check Out from the Class Library
 
