@@ -37,8 +37,6 @@ Rather than marking down, we'll calculate grades by adding up what the assignmen
 
 ##  Example Weekly \(Blog Format\)
 
-_one of us should provide an example here of a weekly that earns 10 points. It should be really specific about the findings and the photos captured._ 
-
 Laura Devendorf  
 Sample Weekly
 
