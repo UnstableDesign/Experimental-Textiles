@@ -22,6 +22,7 @@
 * [Final Project: Adapt to Application](projects-assignments/final-project-adapt-to-application.md)
 
 ## Templates
+* [In Class Critique Structure](templates/in-class-critique-structure.md)
 * [History Of Template](templates/history-of-template.md)
 * [Weeklies Template](templates/weeklies-template.md)
 * [Midterm Project Template](templates/assignment-tempate.md)
