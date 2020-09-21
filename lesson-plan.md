@@ -68,7 +68,7 @@ description: This page describes what we will cover on each day of the class
         </p>
         <p>Share/Critique: <a href="weeklies/1-documentation-setup.md">Weeklies 1: Documentation </a> 
         </p>
-        <p>History Of: Drizzling by Sasha De Koninck</p>
+        <p>History Of: Metal Thread by Sasha De Koninck</p>
       </td>
       <td style="text-align:left">
         <p>9/2</p>
@@ -190,13 +190,11 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
         <p><em>meets online only </em>
           <br />
         </p>
-        <p></p>
         <p>Share/Critique <a href="weeklies/4-ply-braid.md">Weeklies 4</a>
           <br />
         </p>
@@ -209,11 +207,9 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
         <p><em>meets online only </em>
-          <br />
         </p>
         <p></p>
         <p><b>Knits</b> Lecture</p>
@@ -590,8 +586,7 @@ Each class meeting will follow a general structure, with assignment critiques an
 
 | Date | Topic | Presenter |
 | :--- | :--- | :--- |
-| 8/24 | Smart Textiles | Laura Devendorf |
-| 8/31 | Drizzling   | Sasha De Koninck |
+| 8/31 | Metal Thread   | Sasha De Koninck |
 | 9/14 | Guitar String | Torin |
 | 9/21 | Denim | Sandra  |
 | 9/28 | TBD \(weaving? weave patterns?\) | Minso  |
