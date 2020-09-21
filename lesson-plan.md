@@ -410,6 +410,8 @@ description: This page describes what we will cover on each day of the class
         <p>Begin <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
         </p>
         <p></p>
+        <p>(Laura @ ACADIA)</p>
+        <p></p>
       </td>
     </tr>
     <tr>
