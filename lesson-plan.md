@@ -152,14 +152,14 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
+          <br />
         </p>
-        <p></p>
         <p>Share/Critique <a href="weeklies/3-string-exploration.md">Weeklies 3</a>
           <br
           />
         </p>
-        <p>History of TBD by TBD</p>
+        <p>History of Guitar String by Torin</p>
       </td>
       <td style="text-align:left">
         <p>9/16</p>
@@ -171,9 +171,9 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
+          <br />
         </p>
-        <p></p>
         <p><b>Ply and Braid</b> Lecture
           <br />
         </p>
@@ -193,13 +193,14 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
+          <br />
         </p>
         <p></p>
         <p>Share/Critique <a href="weeklies/4-ply-braid.md">Weeklies 4</a>
           <br />
         </p>
-        <p>History of TBD by TBD</p>
+        <p>History of Denim by Sandra</p>
       </td>
       <td style="text-align:left">
         <p>9/23</p>
@@ -211,7 +212,8 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
+          <br />
         </p>
         <p></p>
         <p><b>Knits</b> Lecture</p>
@@ -228,16 +230,15 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
         </p>
         <p><b><br /></b>Share/Critique <a href="weeklies/5-knit-exploration.md">Weeklies 5</a>
           <br
           />
         </p>
-        <p>History of TBD by TBD</p>
+        <p>History of Woven Patterns by Minso</p>
       </td>
       <td style="text-align:left">
         <p>9/30</p>
@@ -246,10 +247,9 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
         </p>
         <p></p>
         <p><b>Wovens</b> Lecture</p>
@@ -270,13 +270,13 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
         </p>
         <p>
           <br />Share/Critique <a href="weeklies/6-weave-exploration.md">Weeklies 6</a>
         </p>
         <p>
-          <br />History of TBD by TBD</p>
+          <br />History of Natural Fibers by Netta</p>
       </td>
       <td style="text-align:left">
         <p>10/7</p>
@@ -288,7 +288,7 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only </em>
         </p>
         <p><b><br />Non-Wovens</b> Lecture</p>
         <p>
@@ -315,7 +315,7 @@ description: This page describes what we will cover on each day of the class
           <br
           />
         </p>
-        <p>History of TBD by TBD</p>
+        <p>History of Lace by Casey</p>
       </td>
       <td style="text-align:left">
         <p>10/14</p>
@@ -354,7 +354,7 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p>Midterm Project Intensive</p>
         <p></p>
-        <p>History of TBD by TBD</p>
+        <p>History of Non-Wovens by Mary</p>
       </td>
       <td style="text-align:left">
         <p>10/21
@@ -433,7 +433,7 @@ description: This page describes what we will cover on each day of the class
           <br />Share/Critique <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
         </p>
         <p>
-          <br />History of TBD by TBD</p>
+          <br />History of Biodegradable Fabrics by Fiona</p>
       </td>
       <td style="text-align:left">
         <p>11/4</p>
@@ -471,7 +471,7 @@ description: This page describes what we will cover on each day of the class
           <br
           />
         </p>
-        <p>History of TBD by TBD</p>
+        <p>History of Textured Yarns by Annika</p>
       </td>
       <td style="text-align:left">
         <p>11/11</p>
@@ -507,7 +507,7 @@ description: This page describes what we will cover on each day of the class
           href="weeklies/10-dynamics.md">Weeklies 10</a>
         </p>
         <p>
-          <br />History of TBD by TBD</p>
+          <br />History of Fiber Reinforced Elastomers by Colin</p>
       </td>
       <td style="text-align:left">
         <p>11/18</p>
@@ -540,7 +540,7 @@ description: This page describes what we will cover on each day of the class
         <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Guest
           Lecture</p>
         <p></p>
-        <p>History of TBD by TBD</p>
+        <p>History of Tapestries by Liza</p>
       </td>
       <td style="text-align:left">11/25</td>
       <td style="text-align:left"><em>meets online with in person component TBD based on class preferences<br /><br /></em>Guest
@@ -592,14 +592,14 @@ Each class meeting will follow a general structure, with assignment critiques an
 | :--- | :--- | :--- |
 | 8/24 | Smart Textiles | Laura Devendorf |
 | 8/31 | Drizzling   | Sasha De Koninck |
-| 9/14 | TBD  | TBD |
-| 9/21 | TBD | TBD  |
-| 9/28 | TBD | TBD |
-| 10/5 | TBD | TBD |
-| 10/12 | TBD | TBD |
-| 10/19 | TBD | TBD |
-| 11/2 | TBD | TBD |
-| 11/9 | TBD | TBD |
-| 11/16 | TBD | TBD |
-| 11/23 | TBD | TBD |
+| 9/14 | Guitar String | Torin |
+| 9/21 | Denim | Sandra  |
+| 9/28 | TBD \(weaving? weave patterns?\) | Minso  |
+| 10/5 | Natural Fibers | Netta  |
+| 10/12 | Lace | Casey  |
+| 10/19 | Non-Wovens | Mary  |
+| 11/2 | Biodegradable Fabrics | Fiona  |
+| 11/9 | Textured Yarns | Annika |
+| 11/16 | Fiber reinforced elastomers | Colin |
+| 11/23 | Tapestries / Weaving / Loom | Liza  |
 
