@@ -20,13 +20,15 @@
 ## Projects/Assignments
 
 * [History Of](projects-assignments/history-of.md)
-* [Midterm Project: Follow the Materials](projects-assignments/midterm-project-follow-the-materials.md)
+* [Midterm Project: Follow the Materials](projects-assignments/midterm-project-follow-the-materials/README.md)
+  * [Deliverable 2: Swatch + Documentation](projects-assignments/midterm-project-follow-the-materials/deliverable-2-swatch-+-documentation.md)
+  * [Deliverable 1: Concept](projects-assignments/midterm-project-follow-the-materials/deliverable-1-concept.md)
+  * [Deliverable 3: Presentation](projects-assignments/midterm-project-follow-the-materials/deliverable-3-presentation.md)
 * [Final Project: Adapt to Application](projects-assignments/final-project-adapt-to-application.md)
 
 ## Templates
 
 * [In Class Critique Structure](templates/in-class-critique-structure.md)
-* [History Of Template](templates/history-of-template.md)
 * [Weeklies Template](templates/weeklies-template.md)
 * [Midterm Project Template](templates/assignment-tempate.md)
 
