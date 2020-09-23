@@ -4,20 +4,60 @@ description: Develop a textile swatch focusing on texture and behavior.
 
 # Midterm Project: Follow the Materials
 
-**Taking into consideration all of the ways you have learned to create a substrate, create a swatch for the course swatch book. Your substrate should function as some kind of sensor \(stretch, bend, force, etc\) or have a unique property \(changing shape, biodegradable, etc\). For your swatch book page, you must title your swatch and write a description of its function. You must include a list of the materials and tools used to create it. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. You must also include an illustrated diagram. The illustrated diagram should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references.** 
+Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality that you discovered in our earlier weeklies. We take inspiration in this assignment from the [e-textiles swatch exchange](http://etextile-summercamp.org/2013/?cat=12), where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
 
-**Maximum swatch dimensions: 5.5" x 7.75" x 0.25"**
+**The Assignment Description:**   
+Taking into consideration all of the ways you have learned to create a substrate, create a swatch for the course swatch book \(yes! we will be making physical books\). You should make 3 copies of the same swatch. 
 
-\*\*\*\*
+Your substrate should function as some kind of sensor \(stretch, bend, force, etc\) or have a unique property \(changing shape, biodegradable, etc\). 
 
-| **Item** | Max Point Value |  |
+For your swatch book page, you must [use this template](../templates/assignment-tempate.md)  \(in addition to any of your own documentation you might like to keep\) title your swatch and write a description of its function. You must include a list of the materials and tools used to create your swatch. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. You must also include an illustrated diagram. The illustrated diagram should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references. 
+
+Maximum swatch dimensions: 5.5" x 7.75" x 0.25"  
+Quantity: 3 copies of the same swatch  
+  
+**You will keep one copy and send the other two to the instructors for grading \(**[**details below**]()**\)**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
+
+Please review the deadlines and phases of the project in the table below for details on each phase: 
+
+Below, you will 
+
+| **Item** | Percent of Midterm Grade | Date Due |
 | :--- | :--- | :--- |
-| Swatch | +50 |  |
-| Description | +10 |  |
-| Title | +5 |  |
-| References | +5 |  |
-| Illustration | +10 |  |
-| Materials | +5 |  |
-| Tools | +5 |  |
-| Diagram OR Instructions | +10 |  |
+| Deliverable 1: [Concept](midterm-project-follow-the-materials.md#deliverable-1-concept-due-10-7) | 10% | 10/7 |
+| In Class Development with Guests | 0% | 10/14 |
+| Deliverable 2: [Swatch and Documentation](midterm-project-follow-the-materials.md#deliverable-2-swatch-and-documentation-due-10-26) | 80% | 10/26 |
+| Deliverable 3: [Presentation](midterm-project-follow-the-materials.md#deliverable-2-swatch-and-documentation-due-10-26) | 10% | 10/26 |
+| \*Submit to [TEI Swatch Competition](https://tei.acm.org/2021/participate/student-design-challenge/) \(Optional\) | 0% | 11/20 |
+
+\*We have timed the midterm so you have the option to submit your project to the [Student Design Competition](https://tei.acm.org/2021/participate/student-design-challenge/)  at this year's TEI - which is being curated by [Hannah Perner-Wilson](https://www.plusea.at/?page_id=1605) and [Irene Posch](http://www.ireneposch.net/).  
+
+### Deliverable 1: Concept - Due 10/7
+
+What do you think you might make? Submit your idea for your swatch to use via canvas by 10/7. Your submission should be inventive and feasible and you must include details on how you plan to implement your swatches within the 2 weeks you will have to complete it. The instructors will provide feedback and resources based on your concept. If your concept is unsuitable, we may ask you to revise and resubmit. 
+
+### Deliverable 2: Swatch and Documentation - Due 10/26
+
+Make 3 physical copies of your swatch. Keep 1 and send the other 2 to the instructor by mail or delivery \(to Prof. Devendorf's house - will be listed on Canvas\) on or before 3pm on 10/26. They must be received by 3pm on 10/26.
+
+Turn in your documentation page via Canvas. [You must turn in the documentation on the provided template](../templates/assignment-tempate.md) but are also welcome to submit any additional materials you added to a personal blog or project page. 
+
+We will grade according to the following template
+
+| **Item** | Max Point Value |
+| :--- | :--- |
+| Two Working Physical Swatches | +50 |
+| Description | +10 |
+| Title | +5 |
+| References | +5 |
+| Illustration | +10 |
+| Materials | +5 |
+| Tools | +5 |
+| Diagram OR Instructions | +10 |
+
+### Deliverable 3: Presentation - Due 10/26
+
+You will present your swatch to the class on 10/26. Each student will have ~10 minutes for presentation and feedback. Prepare a short \(about 3 minute\) presentation that explains what you have made and how you developed the concept. Please submit this presentation via Canvas as a Google Slides Presentation so professor Devendorf can load them all, and present them all,  Please also prepare one question for the class so we can provide you feedback on your idea. 
+
+
 

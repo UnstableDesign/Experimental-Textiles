@@ -347,8 +347,8 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
-        <p></p>
-        <p>Midterm Project Intensive</p>
+        <p>
+          <br /><a href>Midterm Concepts Due</a> - Concept Critique</p>
         <p></p>
         <p>History of Non-Wovens by Mary</p>
       </td>
@@ -366,8 +366,8 @@ description: This page describes what we will cover on each day of the class
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
         <p>
-          <br />
-          <br />Midterm Project Intensive</p>
+          <br />Midterm Project Intensive
+          <br />Related Links to Concepts Presented and/or Troubleshooting Time</p>
         <p></p>
         <p></p>
       </td>
@@ -386,9 +386,10 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
-        <p><b><br /></b><a href="projects-assignments/midterm-project-follow-the-materials/">Midterm Swatches Due</a> 
-          <br
-          />Project Presentations</p>
+        <p><b><br /></b><a href>Midterm Swatches Due</a> 
+          <br /><a href>Midterm Project Presentations </a>
+          <br />
+        </p>
         <p>Guest Critics TBD</p>
       </td>
       <td style="text-align:left">

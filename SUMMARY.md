@@ -20,10 +20,7 @@
 ## Projects/Assignments
 
 * [History Of](projects-assignments/history-of.md)
-* [Midterm Project: Follow the Materials](projects-assignments/midterm-project-follow-the-materials/README.md)
-  * [Deliverable 2: Swatch + Documentation](projects-assignments/midterm-project-follow-the-materials/deliverable-2-swatch-+-documentation.md)
-  * [Deliverable 1: Concept](projects-assignments/midterm-project-follow-the-materials/deliverable-1-concept.md)
-  * [Deliverable 3: Presentation](projects-assignments/midterm-project-follow-the-materials/deliverable-3-presentation.md)
+* [Midterm Project: Follow the Materials](projects-assignments/midterm-project-follow-the-materials.md)
 * [Final Project: Adapt to Application](projects-assignments/final-project-adapt-to-application.md)
 
 ## Templates
