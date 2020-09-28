@@ -4,10 +4,10 @@ description: Develop a textile swatch focusing on texture and behavior.
 
 # Midterm Project: Follow the Materials
 
-Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality that you discovered in our earlier weeklies. We take inspiration in this assignment from the [e-textiles swatch exchange](http://etextile-summercamp.org/2013/?cat=12), where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
+Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered in our earlier weeklies. We take inspiration in this assignment from the [e-textiles swatch exchange](http://etextile-summercamp.org/2013/?cat=12), where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
 
 **The Assignment Description:**   
-Taking into consideration all of the ways you have learned to create a substrate, create a swatch for the course swatch book \(yes! we will be making physical books\). You should make 3 copies of the same swatch. 
+Taking into consideration all of the ways you have learned to create a textile/substrate, create a swatch for the course swatch book \(yes! we will be making physical books\). Each student **should make 3 copies of the same swatch.** 
 
 Your substrate should function as some kind of sensor \(stretch, bend, force, etc\) or have a unique property \(changing shape, biodegradable, etc\). 
 
@@ -16,7 +16,7 @@ For your swatch book page, you must [use this template](../templates/assignment-
 Maximum swatch dimensions: 5.5" x 7.75" x 0.25"  
 Quantity: 3 copies of the same swatch  
   
-**You will keep one copy and send the other two to the instructors for grading \(**[**details below**]()**\)**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
+**You will keep one copy and send the other two to the instructors for grading \(**[**details below**](midterm.md#deliverable-2-swatch-and-documentation-due-10-26)**\)**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
 
 Please review the deadlines and phases of the project in the table below for details on each phase: 
 
@@ -24,17 +24,21 @@ Below, you will
 
 | **Item** | Percent of Midterm Grade | Date Due |
 | :--- | :--- | :--- |
-| Deliverable 1: [Concept](midterm-project-follow-the-materials.md#deliverable-1-concept-due-10-7) | 10% | 10/7 |
+| Deliverable 1: [Concept](midterm.md#deliverable-1-concept-due-10-7) | 10% | 10/5 |
 | In Class Development with Guests | 0% | 10/14 |
-| Deliverable 2: [Swatch and Documentation](midterm-project-follow-the-materials.md#deliverable-2-swatch-and-documentation-due-10-26) | 80% | 10/26 |
-| Deliverable 3: [Presentation](midterm-project-follow-the-materials.md#deliverable-2-swatch-and-documentation-due-10-26) | 10% | 10/26 |
+| Deliverable 2: [Swatch and Documentation](midterm.md#deliverable-2-swatch-and-documentation-due-10-26) | 80% | 10/26 |
+| Deliverable 3: [Presentation](midterm.md#deliverable-2-swatch-and-documentation-due-10-26) | 10% | 10/26 |
 | \*Submit to [TEI Swatch Competition](https://tei.acm.org/2021/participate/student-design-challenge/) \(Optional\) | 0% | 11/20 |
 
 \*We have timed the midterm so you have the option to submit your project to the [Student Design Competition](https://tei.acm.org/2021/participate/student-design-challenge/)  at this year's TEI - which is being curated by [Hannah Perner-Wilson](https://www.plusea.at/?page_id=1605) and [Irene Posch](http://www.ireneposch.net/).  
 
-### Deliverable 1: Concept - Due 10/7
+### Deliverable 1: Concept - Due Monday 10/5
 
-What do you think you might make? Submit your idea for your swatch to use via canvas by 10/7. Your submission should be inventive and feasible and you must include details on how you plan to implement your swatches within the 2 weeks you will have to complete it. The instructors will provide feedback and resources based on your concept. If your concept is unsuitable, we may ask you to revise and resubmit. 
+What do you think you might make? Submit your idea for your swatch to use via canvas by 10/5. 
+
+Your submission should use words, diagrams and/or found internet imagery to describe what you'd like to make. The idea should be inventive and feasible and you must include details on how you plan to implement your swatches within the 2 weeks you will have to complete it. 
+
+The instructors will provide feedback and resources based on your concept. If your concept is unsuitable, we may ask you to revise and resubmit. 
 
 ### Deliverable 2: Swatch and Documentation - Due 10/26
 
@@ -46,7 +50,7 @@ We will grade according to the following template
 
 | **Item** | Max Point Value |
 | :--- | :--- |
-| Two Working Physical Swatches | +50 |
+| Physical Swatches | +50 |
 | Description | +10 |
 | Title | +5 |
 | References | +5 |
@@ -57,7 +61,11 @@ We will grade according to the following template
 
 ### Deliverable 3: Presentation - Due 10/26
 
-You will present your swatch to the class on 10/26. Each student will have ~10 minutes for presentation and feedback. Prepare a short \(about 3 minute\) presentation that explains what you have made and how you developed the concept. Please submit this presentation via Canvas as a Google Slides Presentation so professor Devendorf can load them all, and present them all,  Please also prepare one question for the class so we can provide you feedback on your idea. 
+You will present your swatch to the class on 10/26. Each student will have ~10 minutes for presentation and feedback. Prepare a short \(about 3 minute\) presentation that explains what you have made and how you developed the concept. 
+
+Please submit this presentation via Canvas as a Google Slides Presentation so professor Devendorf can load them all, and present them all,  Please also prepare one question for the class so we can provide you feedback on your idea. 
+
+Turn in a link to your presentation on Canvas by 3pm on 10/26
 
 
 

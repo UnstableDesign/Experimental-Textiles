@@ -20,7 +20,7 @@
 ## Projects/Assignments
 
 * [History Of](projects-assignments/history-of.md)
-* [Midterm Project: Follow the Materials](projects-assignments/midterm-project-follow-the-materials.md)
+* [Midterm Project: Follow the Materials](projects-assignments/midterm.md)
 * [Final Project: Adapt to Application](projects-assignments/final-project-adapt-to-application.md)
 
 ## Templates
