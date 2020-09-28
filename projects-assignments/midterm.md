@@ -26,7 +26,7 @@ Below, you will
 | :--- | :--- | :--- |
 | Deliverable 1: [Concept](midterm.md#deliverable-1-concept-due-monday-10-5) | 10% | 10/5 |
 | In Class Development with Guests | 0% | 10/14 |
-| Deliverable 2: [Physical Swatches](midterm.md#d2) | 40% | 10/26 |
+| Deliverable 2: [Physical Swatches](midterm.md#d2) | 40% | 10/25 |
 | Deliverable 3: [Documentation](midterm.md#d3) | 40% | 10/26 |
 | Deliverable 4: [Presentation](midterm.md#deliverable-2-swatch-and-documentation-due-10-26) | 10% | 10/26 |
 | \*Submit to [TEI Swatch Competition](https://tei.acm.org/2021/participate/student-design-challenge/) \(Optional\) | 0% | 11/20 |
@@ -41,9 +41,9 @@ Your submission should use words, diagrams and/or found internet imagery to desc
 
 The instructors will provide feedback and resources based on your concept. If your concept is unsuitable, we may ask you to revise and resubmit. 
 
-### Deliverable 2: Physical Swatches - Due 10/26 <a id="d2"></a>
+### Deliverable 2: Physical Swatches - Due 10/25 <a id="d2"></a>
 
-Make 3 physical copies of your swatch. Keep 1 and send the other 2 to the instructor by mail or delivery \(to Prof. Devendorf's house - will be listed on Canvas\) on or before 3pm on 10/26. They must be received by 3pm on 10/26.
+Make 3 physical copies of your swatch. Keep 1 and send the other 2 to the instructor by mail or delivery \(to Prof. Devendorf's house - will be listed on Canvas\).  The swatches must be received by the end of day on Sunday 10/25.
 
 ### Deliverable 3: Documentation - Due 10/26 <a id="d3"></a>
 
