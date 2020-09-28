@@ -27,5 +27,4 @@
 
 * [In Class Critique Structure](templates/in-class-critique-structure.md)
 * [Weeklies Template](templates/weeklies-template.md)
-* [Midterm Project Template](templates/assignment-tempate.md)
 
