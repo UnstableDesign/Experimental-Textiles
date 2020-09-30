@@ -271,6 +271,9 @@ description: This page describes what we will cover on each day of the class
         <p>
           <br />Share/Critique <a href="weeklies/6-weave-exploration.md">Weeklies 6</a>
         </p>
+        <p></p>
+        <p><a href="projects-assignments/midterm.md">Midterm Concepts Due</a>
+        </p>
         <p>
           <br />History of Natural Fibers by Netta</p>
       </td>
@@ -311,7 +314,7 @@ description: This page describes what we will cover on each day of the class
           <br
           />
         </p>
-        <p>History of Lace by Casey</p>
+        <p>History of Navajo Textiles by Casey</p>
       </td>
       <td style="text-align:left">
         <p>10/14</p>
@@ -326,8 +329,9 @@ description: This page describes what we will cover on each day of the class
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
         <p>
-          <br />Midterm Project Brainstorm
-          <br />Guest Brainstormers TBD</p>
+          <br /><a href="projects-assignments/midterm.md">Midterm Project Brainstorm</a>
+          <br
+          />Guest Brainstormers TBD</p>
         <p></p>
         <p></p>
         <p></p>
@@ -347,8 +351,9 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
-        <p>
-          <br /><a href>Midterm Concepts Due</a> - Concept Critique</p>
+        <p>&lt;em&gt;&lt;/em&gt;</p>
+        <p>Midterm Project Intensive</p>
+        <p>(Focus of Material Techniques)</p>
         <p></p>
         <p>History of Non-Wovens by Mary</p>
       </td>
@@ -366,9 +371,9 @@ description: This page describes what we will cover on each day of the class
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
         <p>
-          <br />Midterm Project Intensive
-          <br />Related Links to Concepts Presented and/or Troubleshooting Time</p>
-        <p></p>
+          <br />Midterm Project Intensive (Focus on Documentation Techniques)
+          <br />
+        </p>
         <p></p>
       </td>
     </tr>
@@ -386,9 +391,12 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online with in person component TBD based on class preferences</em>
         </p>
-        <p><b><br /></b><a href>Midterm Swatches Due</a> 
-          <br /><a href>Midterm Project Presentations </a>
-          <br />
+        <p><b><br /></b><a href="projects-assignments/midterm.md#d2">Midterm Swatches Due</a>  <em>10/25</em>
+        </p>
+        <p><a href="projects-assignments/midterm.md#d3">Midterm Documentation Due<br /></a>
+          <a
+          href="projects-assignments/midterm.md#d4">Midterm Project Presentations</a>
+            <br />
         </p>
         <p>Guest Critics TBD</p>
       </td>
@@ -536,8 +544,8 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Guest
-          Lecture</p>
+        <p><em>meets online<br /><br /></em>Guest Lecture by <a href="https://harnettlab.org/">Cindy Harnett </a>on
+          Automated Assembly with Fibers for Wearables and Robots</p>
         <p></p>
         <p>History of Tapestries by Liza</p>
       </td>
@@ -556,7 +564,8 @@ description: This page describes what we will cover on each day of the class
     </tr>
     <tr>
       <td style="text-align:left">11/30</td>
-      <td style="text-align:left">Guest Lecture</td>
+      <td style="text-align:left">Guest Lecture by <a href="https://www.draper.com/news-releases/big-breakthrough-give-us-connected-garments-weve-been-asking">Katya Arquilla </a>on
+        Where Engineering Design meets Materials-Led Design</td>
       <td style="text-align:left">12/2</td>
       <td style="text-align:left">Workday</td>
     </tr>
