@@ -8,7 +8,7 @@
       <th style="text-align:left">Active Materials</th>
       <th style="text-align:left">Support Materials</th>
       <th style="text-align:left">Techniques</th>
-      <th style="text-align:left">Topography</th>
+      <th style="text-align:left">Topology</th>
     </tr>
   </thead>
   <tbody>
@@ -22,7 +22,7 @@
       <td style="text-align:left">eco-flex</td>
       <td style="text-align:left">mixing +
         <br />molding</td>
-      <td style="text-align:left">flexible/flat</td>
+      <td style="text-align:left">flat</td>
     </tr>
     <tr>
       <td style="text-align:left">Fiona</td>
