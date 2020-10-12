@@ -24,7 +24,8 @@ Below, you will
 
 | **Item** | Percent of Midterm Grade | Date Due |
 | :--- | :--- | :--- |
-| Deliverable 1: [Concept](midterm.md#deliverable-1-concept-due-monday-10-5) | 10% | 10/5 |
+| Deliverable 1a: [Concept](midterm.md#deliverable-1-concept-due-monday-10-5) | 5% | 10/5 |
+| Deliverable 1b: Concept Update | 5% | 10/14 |
 | In Class Development with Guests | 0% | 10/14 |
 | Deliverable 2: [Physical Swatches](midterm.md#d2) | 40% | 10/25 |
 | Deliverable 3: [Documentation](midterm.md#d3) | 40% | 10/26 |
@@ -40,6 +41,21 @@ What do you think you might make? Submit your idea for your swatch to use via ca
 Your submission should use words, diagrams and/or found internet imagery to describe what you'd like to make. The idea should be inventive and feasible and you must include details on how you plan to implement your swatches within the 2 weeks you will have to complete it. 
 
 The instructors will provide feedback and resources based on your concept. If your concept is unsuitable, we may ask you to revise and resubmit. 
+
+### Deliverable 1b: Concept - Due Wednesday 10/14 <a id="d1"></a>
+
+We will be hosting guest brainstormers in class on October 14. 
+
+Please review the feedback from your original concept and come to class prepared with a description of the swatch you are planning to develop. Your description should include: 
+
+* a list of materials you are going to use and/or test in order to create your swatch
+* a list of textile techniques you are going to experiment with \(and be prepared to explain why those techniques\)
+* a list of any accompanying hardware the instructors will need to test that the swatch works.
+* a list of the steps you will need to perform to realize your concept. At each step, consider your backup plan.
+
+Overall - tell us less about what you think its going to look like or do, but what specific things you will need to study and test to get there.
+
+Please submit your assignment in whatever format you think is best. We will use this submission in class during the brainstorming session with our guests. 
 
 ### Deliverable 2: Physical Swatches - Due 10/25 <a id="d2"></a>
 
