@@ -3,6 +3,7 @@
 * [Syllabus: Soft Object](README.md)
 * [Lesson Plan](lesson-plan.md)
 * [Material List](material-list.md)
+* [Midterm Projects](midterm-projects.md)
 
 ## Weeklies
 

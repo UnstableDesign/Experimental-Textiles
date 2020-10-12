@@ -81,7 +81,8 @@ We will grade according to the following template
 
 | **Item** | Max Point Value |
 | :--- | :--- |
-| **Concept \(Deliverable 1\)** | **+10** |
+| **Concept \(Deliverable 1\)** | **+5** |
+| **Concept \(Deliverable 1b\)** | **+5** |
 | **Working Physical Swatches \(Deliverable 2\)** | **+40** |
 | **Documentation Sheet \(Deliverable 3\)** | **+40** |
 | -- _Description_ | _+10_ |
