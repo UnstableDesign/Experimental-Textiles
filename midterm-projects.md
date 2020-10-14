@@ -4,7 +4,7 @@
   <thead>
     <tr>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Concept</th>
+      <th style="text-align:left">Behavior</th>
       <th style="text-align:left">Active Materials</th>
       <th style="text-align:left">Support Materials</th>
       <th style="text-align:left">Techniques</th>
@@ -14,7 +14,8 @@
   <tbody>
     <tr>
       <td style="text-align:left">Sandra</td>
-      <td style="text-align:left">color change</td>
+      <td style="text-align:left">heat triggered
+        <br />color change</td>
       <td style="text-align:left">
         <p>thermochromics</p>
         <p>heating source?</p>
@@ -26,51 +27,54 @@
     </tr>
     <tr>
       <td style="text-align:left">Fiona</td>
-      <td style="text-align:left">self cleaning</td>
+      <td style="text-align:left">light triggered
+        <br />self cleaning</td>
       <td style="text-align:left">
         <p>doped material</p>
-        <p>fiberoptics</p>
+        <p>fairy lights</p>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">kumihimo</td>
-      <td style="text-align:left">tubular/flat</td>
+      <td style="text-align:left">cotton</td>
+      <td style="text-align:left">kumihimo/ woven</td>
+      <td style="text-align:left">tubular yarn,
+        <br />flat woven</td>
     </tr>
     <tr>
       <td style="text-align:left">Torin</td>
-      <td style="text-align:left">guitar string</td>
-      <td style="text-align:left">metals</td>
-      <td style="text-align:left">nylon</td>
-      <td style="text-align:left">kumihimo</td>
+      <td style="text-align:left">modified sound via custom guitar string</td>
+      <td style="text-align:left">
+        <p>stainless roving</p>
+        <p>brass roving</p>
+      </td>
+      <td style="text-align:left">nylon guitar string</td>
+      <td style="text-align:left">kumihimo / plying</td>
       <td style="text-align:left">tubular</td>
     </tr>
     <tr>
       <td style="text-align:left">Casey</td>
-      <td style="text-align:left">thermocouple</td>
-      <td style="text-align:left">metals</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>plying +</p>
-        <p>weaving</p>
-      </td>
-      <td style="text-align:left">spun/flat</td>
+      <td style="text-align:left">thermocouple - heat produces voltage</td>
+      <td style="text-align:left">nichrome and nickel</td>
+      <td style="text-align:left">wool/cotton</td>
+      <td style="text-align:left">weaving</td>
+      <td style="text-align:left">flat</td>
     </tr>
     <tr>
       <td style="text-align:left">Minso</td>
-      <td style="text-align:left">color/shape change</td>
+      <td style="text-align:left">heat induced color and shape change</td>
       <td style="text-align:left">
         <p>nitinol</p>
-        <p>heating wire</p>
+        <p>magnet wire</p>
+        <p>thermochromics</p>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">knitting / painting</td>
       <td style="text-align:left">flat?</td>
     </tr>
     <tr>
       <td style="text-align:left">Annika</td>
-      <td style="text-align:left">fidget knits</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">knitting?</td>
+      <td style="text-align:left">fidget knits - haptic feel + shape change</td>
+      <td style="text-align:left">conductive yarn</td>
+      <td style="text-align:left">fine yarn</td>
+      <td style="text-align:left">knitting/weaving/braiding</td>
       <td style="text-align:left">variable</td>
     </tr>
     <tr>
@@ -92,9 +96,9 @@
     <tr>
       <td style="text-align:left">Liza</td>
       <td style="text-align:left">pressure sensing</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">knitting</td>
+      <td style="text-align:left">steel roving</td>
+      <td style="text-align:left">wool</td>
+      <td style="text-align:left">knitting/felting</td>
       <td style="text-align:left">tubular</td>
     </tr>
     <tr>
@@ -108,10 +112,10 @@
     <tr>
       <td style="text-align:left">Destin</td>
       <td style="text-align:left">shape changing</td>
-      <td style="text-align:left">bi-metal assemblies</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">weaving</td>
-      <td style="text-align:left">variable</td>
+      <td style="text-align:left">aluminum tape, copper tape, stainless tape</td>
+      <td style="text-align:left">wool/acrylic yarn</td>
+      <td style="text-align:left">weaving/felting</td>
+      <td style="text-align:left">flat</td>
     </tr>
   </tbody>
 </table>
