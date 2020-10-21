@@ -14,9 +14,9 @@
 * [5. Knit Exploration](weeklies/5-knit-exploration.md)
 * [6. Weave Exploration](weeklies/6-weave-exploration.md)
 * [7. Non-Woven Exploration](weeklies/7-non-woven-exploration.md)
-* [8: Routing Exploration](weeklies/8-routing-exploration.md)
+* [8: Scavenging Materials](weeklies/8-routing-exploration.md)
 * [9: Connecting](weeklies/9-connection-exploration.md)
-* [10: Dynamics](weeklies/10-dynamics.md)
+* [10: Routing](weeklies/10-dynamics.md)
 
 ## Projects/Assignments
 

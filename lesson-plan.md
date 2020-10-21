@@ -303,11 +303,9 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only</em>
         </p>
         <p></p>
         <p>Share/Critique <a href="weeklies/7-non-woven-exploration.md">Weeklies 7</a>
@@ -322,18 +320,15 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only</em>
         </p>
         <p>
           <br /><a href="projects-assignments/midterm.md">Midterm Project Brainstorm</a>
           <br
-          />Guest Brainstormers TBD</p>
-        <p></p>
-        <p></p>
+          />Guest Brainstormer:
+          <br />Ella Schauss</p>
         <p></p>
       </td>
     </tr>
@@ -349,7 +344,7 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only</em>
         </p>
         <p>&lt;em&gt;&lt;/em&gt;</p>
         <p>Midterm Project Intensive</p>
@@ -365,13 +360,11 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
+        <p><em>meets online only<br /></em>
         </p>
-        <p>
-          <br />Midterm Project Intensive (Focus on Documentation Techniques)
+        <p>Midterm Project Intensive (Focus on Documentation Techniques)
           <br />
         </p>
         <p></p>
@@ -398,7 +391,10 @@ description: This page describes what we will cover on each day of the class
           href="projects-assignments/midterm.md#d4">Midterm Project Presentations</a>
             <br />
         </p>
-        <p>Guest Critics TBD</p>
+        <p>Guest Critics: <a href="https://www.colorado.edu/atlas/arielle-hein">Arielle Hein</a>,
+          <a
+          href="https://www.stevenfrost.com/">Steven Frost</a>
+        </p>
       </td>
       <td style="text-align:left">
         <p>10/28
@@ -411,15 +407,11 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
-        </p>
-        <p><b><br />Routing</b> Lecture
-          <br />
-        </p>
-        <p>Begin <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
+        <p>no meeting - we suggest that you use this time to start <a href="weeklies/8-routing-exploration.md">weekly 8</a>
         </p>
         <p></p>
-        <p>(Laura @ ACADIA)</p>
+        <p>Laura @ <a href="http://2020.acadia.org/">ACADIA</a>
+        </p>
         <p></p>
       </td>
     </tr>
@@ -430,15 +422,13 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences</em>
-        </p>
-        <p>
+        <p><em>meets online</em>
           <br />Share/Critique <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
         </p>
+        <p></p>
+        <p>Sign up for 1 on 1s to discuss final project vision</p>
         <p>
           <br />History of Biodegradable Fabrics by Fiona</p>
       </td>
@@ -448,17 +438,13 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em><b>Connecting</b> Lecture
-          <br
-          />
+        <p><em>meets online<br /><br /></em><b>Connecting</b> Lecture
+          <br />
         </p>
         <p>Begin <a href="weeklies/9-connection-exploration.md">Weeklies 9</a>
         </p>
-        <p></p>
       </td>
     </tr>
     <tr>
@@ -472,7 +458,7 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /></em>
+        <p><em>meets online<br /></em>
         </p>
         <p>Share/Critique <a href="weeklies/9-connection-exploration.md">Weeklies 9</a>
           <br
@@ -490,9 +476,8 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em><b>Dynamics</b> Lecture
-          <br
-          />
+        <p><em>meets online<br /><br /></em><b>Routing</b> Lecture
+          <br />
         </p>
         <p>Begin <a href="weeklies/10-dynamics.md">Weeklies 10</a>
         </p>
@@ -502,41 +487,46 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p>11/16</p>
         <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
+        <p>
+          <br />
+          <br />
+          <br />
+        </p>
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Share/Critique
-          <a
-          href="weeklies/10-dynamics.md">Weeklies 10</a>
+        <p><em>meets online<br /><br /></em>Share/Critique <a href="weeklies/10-dynamics.md">Weeklies 10</a>
         </p>
         <p>
           <br />History of Fiber Reinforced Elastomers by Colin</p>
+        <p></p>
+        <p></p>
       </td>
       <td style="text-align:left">
         <p>11/18</p>
         <p></p>
         <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
+        <p>
+          <br />
+          <br />
+          <br />
+        </p>
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online with in person component TBD based on class preferences<br /><br /></em>Final
-          Project Planning Day</p>
-        <p>Guest Planner TBD</p>
-        <p></p>
-        <p></p>
+        <p><em>meets online<br /><br /></em>Final Project Concept Presentations
+          <br
+          />
+        </p>
+        <p>Guest Brainstormers:
+          <br /> <a href="https://www.anettemillington.com/">Anette Millington</a>, <a href="https://www.linkedin.com/in/katya-arquilla-797026101">Katya Arquilla</a><em>, </em>
+          <a
+          href="http://www.olwal.com/">Alex Olwal</a>*</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>11/23</p>
-        <p></p>
         <p></p>
         <p></p>
         <p></p>
@@ -549,11 +539,22 @@ description: This page describes what we will cover on each day of the class
         <p></p>
         <p>History of Tapestries by Liza</p>
       </td>
-      <td style="text-align:left">11/25</td>
-      <td style="text-align:left"><em>meets online with in person component TBD based on class preferences<br /><br /></em>Guest
-        Lecture
-        <br />
-        <br />Workday</td>
+      <td style="text-align:left">
+        <p>11/25</p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <p><em>meets online</em>
+        </p>
+        <p><em><br /></em>Guest Lecture by<em> </em><a href="http://www.annetcouwenberg.com/">Annet Couwenberg</a> on
+          TBD</p>
+        <p></p>
+        <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">--</td>
@@ -572,8 +573,19 @@ description: This page describes what we will cover on each day of the class
     <tr>
       <td style="text-align:left"><b>12/11 From<br />1:30-4:00pm</b>
       </td>
-      <td style="text-align:left"><a href="projects-assignments/final-project-adapt-to-application.md">Final Swatches Due</a> /
-        Presentations</td>
+      <td style="text-align:left">
+        <p><a href="projects-assignments/final-project-adapt-to-application.md">Final Swatches Due</a> /
+          Presentations
+          <br />
+        </p>
+        <ul>
+          <li>Guest Critics: <a href="http://www.annetcouwenberg.com/">Annet Couwenberg</a>,
+            <a
+            href="https://www.instructables.com/member/MaddyMaxey/">Madison Maxey</a>, <a href="http://www.olwal.com/">Alex Olwal</a>*</li>
+          <li>We will also invite others to join as audience members so tell your friends/family
+            &amp; zoom link via Canvas :)</li>
+        </ul>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
