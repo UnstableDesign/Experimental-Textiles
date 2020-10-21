@@ -428,7 +428,8 @@ description: This page describes what we will cover on each day of the class
           <br />Share/Critique <a href="weeklies/8-routing-exploration.md">Weeklies 8</a>
         </p>
         <p></p>
-        <p>Sign up for 1 on 1s to discuss final project vision</p>
+        <p><a href="projects-assignments/final-project-adapt-to-application.md#deliverable-1-one-on-one-planning-meeting-with-professors">One-on-One Meetings</a> -
+          Part 1</p>
         <p>
           <br />History of Biodegradable Fabrics by Fiona</p>
       </td>
@@ -464,6 +465,9 @@ description: This page describes what we will cover on each day of the class
           <br
           />
         </p>
+        <p><a href="projects-assignments/final-project-adapt-to-application.md#deliverable-1-one-on-one-planning-meeting-with-professors">One-on-One Meetings</a> -
+          Part 2</p>
+        <p></p>
         <p>History of Textured Yarns by Annika</p>
       </td>
       <td style="text-align:left">
@@ -497,6 +501,8 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left">
         <p><em>meets online<br /><br /></em>Share/Critique <a href="weeklies/10-dynamics.md">Weeklies 10</a>
         </p>
+        <p></p>
+        <p>Final Concept Presentation Prep</p>
         <p>
           <br />History of Fiber Reinforced Elastomers by Colin</p>
         <p></p>
@@ -514,7 +520,7 @@ description: This page describes what we will cover on each day of the class
         <p></p>
       </td>
       <td style="text-align:left">
-        <p><em>meets online<br /><br /></em>Final Project Concept Presentations
+        <p><em>meets online<br /><br /></em><a href="projects-assignments/final-project-adapt-to-application.md#deliverable-2-concept-presentation">Final Project Concept Presentations</a>
           <br
           />
         </p>
@@ -574,9 +580,11 @@ description: This page describes what we will cover on each day of the class
       <td style="text-align:left"><b>12/11 From<br />1:30-4:00pm</b>
       </td>
       <td style="text-align:left">
-        <p><a href="projects-assignments/final-project-adapt-to-application.md">Final Swatches Due</a> /
-          Presentations
-          <br />
+        <p><a href="projects-assignments/final-project-adapt-to-application.md#deliverable-4-final-project-presentation">Final Documentation Due</a>
+          <br
+          /><a href="projects-assignments/final-project-adapt-to-application.md#deliverable-4-final-project-presentation">Final  Presentations</a>
+          <br
+          />
         </p>
         <ul>
           <li>Guest Critics: <a href="http://www.annetcouwenberg.com/">Annet Couwenberg</a>,

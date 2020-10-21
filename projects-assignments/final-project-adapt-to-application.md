@@ -25,11 +25,19 @@ Requirements:
 
 ### Deliverable 1: One on One Planning Meeting with Professors
 
+We will hold 10 minute meetings with each student during class on 11/2 and 11/9 to discuss their final concept and provide any additional direction and resources. These meetings will take place during class and we will distribute a sign up form via Canvas. 
+
 ### Deliverable 2: Concept Presentation
+
+Create a 3 minute presentation about your final concept emphasizing the look and feel, the functionality, and the techniques you will be employing. You will be presenting these concepts for feedback from guests with expertise in smart textiles across engineering and art. The goal of the presentation is to learn how to refine your idea and/or avenues for the concept beyond the class. The guest experts are: [Anette Millington](https://www.anettemillington.com/), [Katya Arquilla](https://www.linkedin.com/in/katya-arquilla-797026101)_,_ [Alex Olwal](http://www.olwal.com/)\*
 
 ### Deliverable 3: Final Prototype Documentation
 
-### Deliverable 4: Final Project Presentation
+Document your final including a video of the object, photos that demonstrate its form and functionality, and diagrams describing its construction. Please prepare these webpages that the instructors can embed and share in a collection of class projects. More details to follow. 
+
+### Deliverable 4: Final Project Presentation and Critique
+
+Create a 5-minute presentation that describes your concept, the techniques employed, and the way in which the object functions \(e.g. as an art object, wearable, robotic thing, etc.\). Guest experts will be critiquing your project. More details to follow. The guest experts are:  [Annet Couwenberg](http://www.annetcouwenberg.com/), [Madison Maxey](https://www.instructables.com/member/MaddyMaxey/),  [Alex Olwal](http://www.olwal.com/)\*
 
 
 
