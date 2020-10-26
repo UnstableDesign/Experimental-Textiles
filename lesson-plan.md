@@ -557,7 +557,7 @@ description: This page describes what we will cover on each day of the class
         <p><em>meets online</em>
         </p>
         <p><em><br /></em>Guest Lecture by<em> </em><a href="http://www.annetcouwenberg.com/">Annet Couwenberg</a> on
-          TBD</p>
+          The Intersection between Craft and Digital Technology</p>
         <p></p>
         <p></p>
       </td>
