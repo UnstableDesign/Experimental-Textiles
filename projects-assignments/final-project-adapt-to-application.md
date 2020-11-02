@@ -76,7 +76,88 @@ Human Antenna
 
 [http://www.kraeutli.com/index.php/2009/09/01/human-antenna/](http://www.kraeutli.com/index.php/2009/09/01/human-antenna/)
 
-  
-  
+More Portfolios and Inspiration: 
 
+* [https://www.stitchingworlds.net/](https://www.stitchingworlds.net/)
+* [https://www.dinacon.org/](https://www.dinacon.org/)
+* [https://datapaulette.org/](https://datapaulette.org/)
+* [http://www.nerding.at/](http://www.nerding.at/)
+* [https://ebrukurbak.net/](https://ebrukurbak.net/)
+* [http://afroditipsarra.com/](http://afroditipsarra.com/)
+* [http://laurasplan.com](http://laurasplan.com) 
+* [https://chrissyglover.com/](https://chrissyglover.com/) 
+* [https://www.ganitgoldstein.com](https://www.ganitgoldstein.com) 
+* [http://www.jacquelinelefferts.com](http://www.jacquelinelefferts.com) 
+* [http://www.milouvoorwinden.com](http://www.milouvoorwinden.com)
+* [https://www.roselinefiatuse.com/](https://www.roselinefiatuse.com/) 
+* [https://cargocollective.com/SamiraAkh](https://cargocollective.com/SamiraAkh) 
+* [http://www.teuberkohlhoff.com/](http://www.teuberkohlhoff.com/)
+* [https://www.sophiezajicek.com/](https://www.sophiezajicek.com/)
+* [http://www.victoriamanganiello.com](http://www.victoriamanganiello.com/)
+* [https://gitomasello.com/](https://gitomasello.com/)
+* [http://www.berzowska.com/](http://www.berzowska.com/)
+* [https://subtela.hexagram.ca/](https://subtela.hexagram.ca/)
+* [https://smarttextiles.se/en/](https://smarttextiles.se/en/)
+* [http://go.affoa.org/](http://go.affoa.org/)
+* [http://www.ireneposch.net/](http://www.ireneposch.net/)
+* [http://ayo.io/](http://ayo.io/)
+* [http://behnazfarahi.com/](http://behnazfarahi.com/)
+* [http://www.anoukwipprecht.nl/bio](http://www.anoukwipprecht.nl/bio)
+* [http://lea.zone/](http://lea.zone/)
+* [https://morphingmatter.cs.cmu.edu/lining-yao/](https://morphingmatter.cs.cmu.edu/lining-yao/)
+* [https://textiles-lab.github.io/](https://textiles-lab.github.io/)
+* [https://www.jennysabin.com/](https://www.jennysabin.com/)
+* [http://www.sangww.net/p/research.html](http://www.sangww.net/p/research.html)
+* [http://www.by-wire.net/](http://www.by-wire.net/)
+* [https://chalayan.com/](https://chalayan.com/)
+* [https://www.irisvanherpen.com/](https://www.irisvanherpen.com/)
+* [https://sandradeberduccy.com/](https://sandradeberduccy.com/)
+* [https://www.madisonmaxey.com/](https://www.madisonmaxey.com/)
+* [https://www.anettemillington.com/](https://www.anettemillington.com/)
+* [https://www.llucyllong.com/](https://www.llucyllong.com/)
+* [https://hollymcquillan.com/](https://hollymcquillan.com/)
+* [https://bioartsociety.fi/](https://bioartsociety.fi/)
+* [https://tamaraefrat.com/](https://tamaraefrat.com/)
+* [https://lisamarks.com/Work](https://lisamarks.com/Work)
+
+## Collections of Techniques and Examples <a id="collections-of-techniques-and-examples"></a>
+
+#### Kobakant: How to Get What you Want <a id="kobakant-how-to-get-what-you-want"></a>
+
+a collection of how to's, resources, and inspirations for all kinds of soft making. Compiled from examples created by Hannah Perner Wilson and Mika Satomi.  
+[https://www.kobakant.at/DIY/](https://www.kobakant.at/DIY/)
+
+#### Stitching Worlds <a id="stitching-worlds"></a>
+
+Stitching Worlds "connects the shared artistic research territory between arts, design, open culture, digital fabrication, information technology and electronics to the engineering and scientific methodologies of textile technology." Their website contains a series of publications and well documented examples of techniques.  
+[https://www.stitchingworlds.net/category/experimentation/](https://www.stitchingworlds.net/category/experimentation/)
+
+#### Chimera Wearables Database <a id="chimera-wearables-database"></a>
+
+a collection of research articles and industry wearables projects organized by metrics such as patents and/or application areas.  
+[https://chimerawearables.com/](https://chimerawearables.com/)
+
+#### e-textile swatch exchange <a id="e-textile-swatch-exchange"></a>
+
+a digital/physical collection of inspirations and techniques created at e-textiles summer camp.  
+[http://etextile-summercamp.org/swatch-exchange/](http://etextile-summercamp.org/swatch-exchange/)
+
+#### e-Textile Lounge <a id="e-textile-lounge"></a>
+
+a collection of techniques and material reviews with a focus on sewing. [https://lbruning.com/etextilelounge/](https://lbruning.com/etextilelounge/)
+
+#### Design Research Lab Database <a id="design-research-lab-database"></a>
+
+A knit sensor & actuator database created by folks at the Design Research Lab  
+[interactex.de/](http://interactex.de/)
+
+#### WEAR Sustain Knowledge Platform <a id="wear-sustain-knowledge-platform"></a>
+
+To quote their about page, this resource "provides guidelines and best practices for design, materials circularity, and product life-cycle development**"**  
+[https://wearsustain.eu/dashboards/home](https://wearsustain.eu/dashboards/home)
+
+#### Textiel Lab Sample Studio <a id="textiel-lab-sample-studio"></a>
+
+A collection of new fabrication techniques and outcomes for woven and knitted textiles.  
+[https://samplestudio.textiellab.nl/](https://samplestudio.textiellab.nl/)
 
