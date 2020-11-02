@@ -620,14 +620,14 @@ Each class meeting will follow a general structure, with assignment critiques an
 | Date | Topic | Presenter |
 | :--- | :--- | :--- |
 | 8/31 | Metal Thread   | Sasha De Koninck |
-| 9/14 | Guitar String | Torin |
-| 9/21 | Denim | Sandra  |
-| 9/28 | TBD \(weaving? weave patterns?\) | Minso  |
-| 10/5 | Natural Fibers | Netta  |
-| 10/12 | Lace | Casey  |
+| 9/14 | Guitar String  | Torin |
+| 9/21 | Denim | Sandra |
+| 9/28 | Weave Patterns | Minso |
+| 10/5 | Natural Fibers | Netta |
+| 10/12 | Lace | Casey |
 | 10/19 | Non-Wovens | Mary  |
-| 11/2 | Biodegradable Fabrics | Fiona  |
+| 11/2 | Biodegradable Fabics | Fiona |
 | 11/9 | Textured Yarns | Annika |
-| 11/16 | Fiber reinforced elastomers | Colin |
-| 11/23 | Tapestries / Weaving / Loom | Liza  |
+| 11/16 | Fiber Reinforced Elastomers | Colin |
+| 11/23 | Tapestries | Liza |
 
