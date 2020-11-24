@@ -33,92 +33,57 @@ Create a 3 minute presentation about your final concept emphasizing the look and
 
 ### Deliverable 3: Final Prototype Documentation
 
-Document your final including a video of the object, photos that demonstrate its form and functionality, and diagrams describing its construction. Please prepare these webpages that the instructors can embed and share in a collection of class projects. More details to follow. 
+Documentation of your final prototype will be due by the end of day on 12/11 and will be submitted via Canvas. 
+
+Your documentation should take the form of a document or webpage that includes the following: 
+
+\(1\) A title
+
+\(2\) a "hero" image that captures the essence of your project and that you would use if it was included in a print publication. This should be a high quality image that is formatted for print media, particularly at 300 dpi.  
+
+\(3\) a short \(no more than 5 minute\) video that depicts your prototype in action and clearly demonstrates each of its features in action.  If you are going to use any "wizard of oz" or after-effects techniques to demonstrate a functionality that is not yet implemented, please add text describing what is being simulated so we know what you have, indeed, implemented and what you are simulating for the purposes of visualizing the application. Please do your best to show the application working exactly as it has been implemented. 
+
+\(4\) "instructable"-like text describing the materials used in the project as well as a written/pictorial description of how you developed the project. This is like a long weekly devoted to your project and you may re-use text and photos from your previous weeklies in its construction. You may also reference other students' weeklies with their permission. Consider this as instructions for someone else to learn how to replicate or modify your project. Examples that would get an A+ would include: 
+
+-- [https://www.kobakant.at/KOBA/storytelling-vest/](https://www.kobakant.at/KOBA/storytelling-vest/) 
+
+-- [http://lara-grant.com/portfolio/heirloom-electronic-jacket/](http://lara-grant.com/portfolio/heirloom-electronic-jacket/)
+
+| Requirement | Points \(45pts total\) |
+| :--- | :--- |
+| **Title** | + 2 |
+| **Hero Image** |  |
+| -- does the image make me want to read more? | + 5  |
+| **Video** | \*\*\*\* |
+| -- are the core dynamic features of this design captured by the video? | + 10 |
+| **Process Details** | \*\*\*\* |
+| -- one paragraph **description** of the concept and vision. | + 5 |
+| -- a **list of the dynamic features** you implemented | + 2 |
+| --  **list of required materials and tools**  | + 2 |
+| -- **instructions and diagrams of how you implemented any of these features:** could Laura/Sasha sufficiently understand how to replicate your project based on the information provided? | +15 |
+| -- **links** to any required supporting code, fabrication files, etc.  | + 2 |
+| -- **acknowledgements and references**: honor those who you inspired you, whose materials you borrowed from, etc. Be generous here :\) | + 2 |
+
+
 
 ### Deliverable 4: Final Project Presentation and Critique
 
-Create a 5-minute presentation that describes your concept, the techniques employed, and the way in which the object functions \(e.g. as an art object, wearable, robotic thing, etc.\). Guest experts will be critiquing your project. More details to follow. The guest experts are:  [Annet Couwenberg](http://www.annetcouwenberg.com/), [Madison Maxey](https://www.instructables.com/member/MaddyMaxey/),  [Alex Olwal](http://www.olwal.com/)\*
+Due 12/11 \(before class\)  
+\*If you submit by 12/8 I will distribute your presentations to our guests for them to take an early review. 
+
+Create a 5-minute presentation that describes your concept, the techniques employed, and the way in which the object functions \(e.g. as an art object, wearable, robotic thing, etc.\). Guest experts will be critiquing your project. 
+
+We will devote a class to collectively determining the flow and content of these presentations like we did for the final concept pitches. 
+
+The guest experts are:  [Annet Couwenberg](http://www.annetcouwenberg.com/), [Madison Maxey](https://www.instructables.com/member/MaddyMaxey/),  [Alex Olwal](http://www.olwal.com/)\*
 
 
 
 ## Inspiration
 
-Below are a list of people/projects that give you a sense of what final projects could look like: 
+Link to the class compiled and annotated list of portfolios:
 
-Fabricademy Projects  
-[https://vimeo.com/channels/1502134/page:1](https://vimeo.com/channels/1502134/page:1)
-
-Woven Signals  
-[http://emeteuz.com/woven-signals](http://emeteuz.com/woven-signals)
-
-Chromosonic  
-[http://ejtech.cc/?page\_id=801](http://ejtech.cc/?page_id=801)
-
-Maggie Orth Portfolio:  
-[http://www.maggieorth.com/](http://www.maggieorth.com/)  
-  
-Plusea  
-[https://www.plusea.at/?category\_name=years](https://www.plusea.at/?category_name=years)  
-  
-Di Mainstone  
-[https://dimainstone.com/](https://dimainstone.com/)  
-  
-Contre Choc  
-[https://www.flickr.com/photos/contrechoc/albums](https://www.flickr.com/photos/contrechoc/albums)  
-  
-NEFFA  
-[https://neffa.nl/projects/](https://neffa.nl/projects/)
-
-Meg Grant  
-[http://www.meggrant.com/](http://www.meggrant.com/)
-
-Human Antenna
-
-[http://www.kraeutli.com/index.php/2009/09/01/human-antenna/](http://www.kraeutli.com/index.php/2009/09/01/human-antenna/)
-
-More Portfolios and Inspiration: 
-
-* [https://www.stitchingworlds.net/](https://www.stitchingworlds.net/)
-* [https://www.dinacon.org/](https://www.dinacon.org/)
-* [https://datapaulette.org/](https://datapaulette.org/)
-* [http://www.nerding.at/](http://www.nerding.at/)
-* [https://ebrukurbak.net/](https://ebrukurbak.net/)
-* [http://afroditipsarra.com/](http://afroditipsarra.com/)
-* [http://laurasplan.com](http://laurasplan.com) 
-* [https://chrissyglover.com/](https://chrissyglover.com/) 
-* [https://www.ganitgoldstein.com](https://www.ganitgoldstein.com) 
-* [http://www.jacquelinelefferts.com](http://www.jacquelinelefferts.com) 
-* [http://www.milouvoorwinden.com](http://www.milouvoorwinden.com)
-* [https://www.roselinefiatuse.com/](https://www.roselinefiatuse.com/) 
-* [https://cargocollective.com/SamiraAkh](https://cargocollective.com/SamiraAkh) 
-* [http://www.teuberkohlhoff.com/](http://www.teuberkohlhoff.com/)
-* [https://www.sophiezajicek.com/](https://www.sophiezajicek.com/)
-* [http://www.victoriamanganiello.com](http://www.victoriamanganiello.com/)
-* [https://gitomasello.com/](https://gitomasello.com/)
-* [http://www.berzowska.com/](http://www.berzowska.com/)
-* [https://subtela.hexagram.ca/](https://subtela.hexagram.ca/)
-* [https://smarttextiles.se/en/](https://smarttextiles.se/en/)
-* [http://go.affoa.org/](http://go.affoa.org/)
-* [http://www.ireneposch.net/](http://www.ireneposch.net/)
-* [http://ayo.io/](http://ayo.io/)
-* [http://behnazfarahi.com/](http://behnazfarahi.com/)
-* [http://www.anoukwipprecht.nl/bio](http://www.anoukwipprecht.nl/bio)
-* [http://lea.zone/](http://lea.zone/)
-* [https://morphingmatter.cs.cmu.edu/lining-yao/](https://morphingmatter.cs.cmu.edu/lining-yao/)
-* [https://textiles-lab.github.io/](https://textiles-lab.github.io/)
-* [https://www.jennysabin.com/](https://www.jennysabin.com/)
-* [http://www.sangww.net/p/research.html](http://www.sangww.net/p/research.html)
-* [http://www.by-wire.net/](http://www.by-wire.net/)
-* [https://chalayan.com/](https://chalayan.com/)
-* [https://www.irisvanherpen.com/](https://www.irisvanherpen.com/)
-* [https://sandradeberduccy.com/](https://sandradeberduccy.com/)
-* [https://www.madisonmaxey.com/](https://www.madisonmaxey.com/)
-* [https://www.anettemillington.com/](https://www.anettemillington.com/)
-* [https://www.llucyllong.com/](https://www.llucyllong.com/)
-* [https://hollymcquillan.com/](https://hollymcquillan.com/)
-* [https://bioartsociety.fi/](https://bioartsociety.fi/)
-* [https://tamaraefrat.com/](https://tamaraefrat.com/)
-* [https://lisamarks.com/Work](https://lisamarks.com/Work)
+[https://docs.google.com/document/d/1ru3J1zBApZlmG0iO9v2i3RQWZZWTH9XOJJGIe-aAs\_g/edit](https://docs.google.com/document/d/1ru3J1zBApZlmG0iO9v2i3RQWZZWTH9XOJJGIe-aAs_g/edit)
 
 ## Collections of Techniques and Examples <a id="collections-of-techniques-and-examples"></a>
 
