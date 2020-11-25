@@ -49,18 +49,22 @@ Your documentation should take the form of a document or webpage that includes t
 
 -- [http://lara-grant.com/portfolio/heirloom-electronic-jacket/](http://lara-grant.com/portfolio/heirloom-electronic-jacket/)
 
+#### Grading Rubric:
+
 | Requirement | Points \(45pts total\) |
 | :--- | :--- |
 | **Title** | + 2 |
 | **Hero Image** |  |
-| -- does the image make me want to read more? | + 5  |
+| -- does the image make me want to read more? | + 3  |
 | **Video** | \*\*\*\* |
-| -- are the core dynamic features of this design captured by the video? | + 10 |
+| -- are the core dynamic features of this design captured by the video? | + 6 |
+| -- does the video demonstrate the "soft" qualities of the design? | + 4 |
 | **Process Details** | \*\*\*\* |
-| -- one paragraph **description** of the concept and vision. | + 5 |
+| -- one paragraph **description** of the concept and vision. | + 2 |
 | -- a **list of the dynamic features** you implemented | + 2 |
-| --  **list of required materials and tools**  | + 2 |
-| -- **instructions and diagrams of how you implemented any of these features:** could Laura/Sasha sufficiently understand how to replicate your project based on the information provided? | +15 |
+| --  **list of required materials, tools and techniques.** Make sure it includes at least one instance of plying, braiding, knitting, weaving, felting, or paper-making. | + 7 |
+| -- **instructions and diagrams of how you implemented any of these features:** could Laura/Sasha sufficiently understand how to replicate your project based on the information provided? | +10 |
+| -- additional images depicting features of the application that will help us answer the question: was the application **well crafted** with an attention to detail? | + 5 |
 | -- **links** to any required supporting code, fabrication files, etc.  | + 2 |
 | -- **acknowledgements and references**: honor those who you inspired you, whose materials you borrowed from, etc. Be generous here :\) | + 2 |
 
