@@ -21,7 +21,7 @@ Requirements:
 | [Deliverable 1: One-on-one meetings](final-project-adapt-to-application.md#deliverable-1-one-on-one-planning-meeting-with-professors) | 0% | 11/9 |
 | [Deliverable 2: Concept Presentation](final-project-adapt-to-application.md#deliverable-2-concept-presentation) | 20% | 11/18 |
 | [Deliverable 3: Final Prototype Documentation](final-project-adapt-to-application.md#deliverable-3-final-prototype-documentation) | 45% | 12/11 |
-| [Deliverable 4: Final Project Presentation](final-project-adapt-to-application.md#deliverable-4-final-project-presentation) | 35% | 12/11 |
+| [Deliverable 4: Final Project Presentation](final-project-adapt-to-application.md#deliverable-4-final-project-presentation-and-critique) | 35% | 12/11 |
 
 ### Deliverable 1: One on One Planning Meeting with Professors
 
