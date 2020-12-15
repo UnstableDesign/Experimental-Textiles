@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Syllabus: Soft Object](README.md)
+* [Student Projects](student-projects.md)
 * [Lesson Plan](lesson-plan.md)
 * [Material List](material-list.md)
 
