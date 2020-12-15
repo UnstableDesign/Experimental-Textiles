@@ -50,13 +50,15 @@ Documentation: [Description and Instructions](https://korkimminso.wixsite.com/mi
 
 
 
-{% embed url="https://www.youtube.com/watch?v=Hb50PEdRaGw&feature=emb\_logo" %}
+\*\*\*\*
+
+![](.gitbook/assets/fidget.png)
 
 **Fidget Sweater  
 Annika Muehlbradt**  
 Input:  Fidgeting with Knit Bobbles  
 Output: Shape Change, Color Change  
-Documentation: [Description and Instructions](https://www.annika.co/fidget-sweater)
+Documentation: [Description and Instructions](https://www.annika.co/fidget-sweater), [Video](https://www.youtube.com/watch?time_continue=20&v=Hb50PEdRaGw&feature=emb_logo)
 
 
 
