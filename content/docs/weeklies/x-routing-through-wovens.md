@@ -1,6 +1,7 @@
 ---
 title: 6 - Weave a Sensing Circuit
 weight: 6
+draft: true
 ---
 # 6. Weave a Sensing Circuit
 

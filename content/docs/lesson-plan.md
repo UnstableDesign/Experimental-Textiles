@@ -7,14 +7,15 @@ weight: 1
 
 **What to Bring**
 
-Each day in class bring Scissors, Multimeter, Masking Tape, Pencil, Folder for Paper and Samples, Arduino Kit. Also have your loom (or whatever weaving accessories you need for the day)
+Each day in class bring Scissors, Multimeter, Masking Tape, Pencil, Folder for Paper and Samples. Also have your loom (or whatever weaving accessories you need for the day)
+
+
 
 ---
-
 ## Week 1 - Welcome
-The goals for this week are to help you gain an embodied sense of what weaving is and how it works, particularly when working with heddle/frame style looms. We'll also do the administrative work of getting class setup. 
+The goals for this week are to help you gain an embodied sense of what weaving is, what a (string) heddle is and how it can help scaffold a tabby structure. We'll also do the administrative work of getting class setup. 
 
-### 8/28 - Class Introduction
+### 8/26 - Class Introduction
 
 #### In class
 - Setting Community Norms 
@@ -23,9 +24,9 @@ The goals for this week are to help you gain an embodied sense of what weaving i
 - Review [Required Supplies](../material-list)
 
 #### Begin Assignments
-- *Due 8/30 - Read Annie Albers, On Weaving, "Weaving, Hand", pp 20-22* 
+- *Due 8/28 - Read Annie Albers, On Weaving, "Weaving, Hand", pp 20-22* 
 
-### 8/30 - Design Philosophy & Documentation
+### 8/28 - Design Philosophy & Documentation
 
 #### In class
 - Discussion of Sampling and Materials-Led Design
@@ -34,94 +35,98 @@ The goals for this week are to help you gain an embodied sense of what weaving i
 - Equipment Checkout
 
 #### Begin Assignments
-- *Due 9/6 - [Begin First Weekly, Make a Book Loom](../weeklies/1-make-a-book-loom)*
-- *Due 9/6 - Read Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89*
+- *Due 9/4 - [Begin First Weekly, Make a Book Loom](../weeklies/1-make-a-book-loom)*
+- *Due 9/4 - Read Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89*
 
 ---
 
-## Week 2 - Tools
-The goal this week is to introduce the first of the fundamental tools with which we will be working this semester, a *Multimeter* the apparatus used for measuring electronic behaviors within materials.
+## Week 2 - Yarn
+Our goal this week is to get to know a bit more about yarn and how it behaves. We'll place a specific focus on conductive yarns and using a multimeter to understand their properties. The worksheet and activities will help you understand the electrical and mechanical properties of different yarns in order to understand how you can leverage those properties towards different applications. 
 
 ### 9/4 - Labor Day, No Class
 
-### 9/6 -  Laura Out Sick
-#### Assignments Due
+### 9/6 - Lively Yarn
+
+#### Assignments Due 
 - [Weekly 1 - Make a Book Loom](../weeklies/1-make-a-book-loom)
 
 #### In Class
-Laura Out sick
+- Review Book Looms
+- What is Yarn? Which Yarns to Pick?
+- Wires vs. Metallic Yarns
+- Understanding Multi-meters and Resistance
 
 #### Begin Assignments
-- Read Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89
+- Due 9/9 - [Worksheet - Understanding Resistance](../worksheets/conductive-yarn-worksheet)
+- Review [Loom Parts](../worksheets/parts-of-the-loom) for 9/9 Loom Parts Quiz
 
 ---
 
-## Week 3 - Loom and Warp
-The goal this week is to introduce the second of the fundamental tools with which we will be working this semester, the *Loom*: the apparatus used for weaving. The goal this week is to understand the electrical and mechanical properties of different yarns in order to understand how you can leverage those properties towards different applications. 
+## Week 3 - Warp
+The goal this week is to introduce the *Loom*: the apparatus used for weaving. Specifically, we'll learn how to select a warp material, how to wind out the warp and transfer it to your Cricket Loom for weaving. 
 
-### 9/11 - Intro to Warping
+### 9/9 - Intro to Warping
 
+#### Assignments Due
+- Turn in [Understanding Resistance Worksheet](../worksheets/conductive-yarn-worksheet)
 #### In Class
-- Review Book Looms
-- Evolution and Sociology of Looms + [Loom Parts](../worksheets/parts-of-the-loom)
+- [Loom Parts](../worksheets/parts-of-the-loom) Quiz
 - Intro to Warping
 - Choose Your Warp Materials 
+- Wind the Warp
 
-### 9/13 - Warp
+### 9/11 - Warp
 #### In Class
 - [Warp your Cricket Loom](../worksheets/warp)
 - Weave Tabby
 
 #### Begin Assignments
-- *Due 9/18 - [Begin Weekly 3](../weeklies/3-warp-and-weave)*
+- *Due 9/16 - [Begin Weekly 2](../weeklies/2-warp-and-weave)*
 
 ---
 
-## Week 4 - Finishing Weaves and Intro to Electronics
+## Week 4 - Finishing Weaves and Connectors
 
-### 9/18 - Finishing Techniques
+### 9/16 - Finishing Techniques
 
 #### Assignments Due 
-- [Weekly 3 - Warp and Weave](../weeklies/3-warp-and-weave)
+- [Weekly 2 - Warp and Weave](../weeklies/2-warp-and-weave)
 
 #### In Class
-- Weekly 3 - Warp and Weave Share out
-- Cutting off and Finishing Samples
-- Loom Parts Quiz
+- Cutting off the Loom
+- Sobo Glue 
+- Sewing Ends
+- Decorative Finishing Techniques
 
-### 9/20 - Multimeters, Resistance, and Making Connectors
+### 9/18 - Making Connectors
 
 #### In Class
 - Routing and Connecting
-- Begin Weekly 2
 
 #### Begin Assignments
-- [Begin Weekly 2 - Connectors](../weeklies/2-make-connectors)
+- [Begin Weekly 3 - Connectors](../weeklies/3-make-connectors)
 
 ---
-## Week 5 - Tabby, Overshot and Supplemental Wefts
-This week we'll talk more about weaving and variations on the tabby structure. 
+## Week 5 - Tabby and Supplemental Wefts
+This week we'll talk more about weaving and variations on the tabby structure. We'll also talk about supplemental weft techniques, which can be especially useful for integrating conductive materials.  
 
-### 9/25 - Supplemental Wefts
+### 9/23 - Supplemental Wefts
 
 #### Assignments Due 
-- *Due 9/25 - Read: Mastering Weave Structure, chapter 1 (plain weave)*
-- [Share Weekly 2 - Connectors](../weeklies/2-make-connectors)
+- [Share Weekly 3 - Connectors](../weeklies/3-make-connectors)
 
 #### In Class
 - Tabby
-- Conductive Yarn Testing
 - Supplemental Wefts
-- Overshot, Brocade
 
-### 9/27 - Winding Coils and Routing through Wovens
+### 9/25 - Winding Coils and Routing through Wovens
 
 - Electromagnets
 - Winding Coils for Integration
-- Experimental Weaving Talk: Elizabeth Meiklejohn
+- Experimental Weaving Talk: TBD
 
 #### Begin Assignments
-- [Review Weekly 4 - Make a One Bit Textile](../weeklies/4-one-bit)
+- [Weekly 4 - Make a One Bit Textile](../weeklies/4-one-bit)
 
 ---
 
@@ -129,7 +134,7 @@ This week we'll talk more about weaving and variations on the tabby structure.
 The goal this week is to add another dimension to our cricket loom weaving: color. We'll focus on different color effect and dye techniques used to bring patterning and dynamism to cloth. 
 
 
-### 10/2 - Electromagnetics and Coils
+### 9/30 - Electromagnetics and Coils
 
 #### Assignments Due 
 - [Review Weekly 4 - Make a One Bit Textile](../weeklies/4-one-bit)
@@ -138,7 +143,7 @@ The goal this week is to add another dimension to our cricket loom weaving: colo
 - Making Flip Dots
 - Broader Applications of Electromagnetism in Cloth
 
-### 10/4 - Color Work and Dynamic Color
+### 10/2 - Color Work and Dynamic Color
 
 #### In Class
 - Pigments and Dyes
@@ -154,88 +159,73 @@ The goal this week is to add another dimension to our cricket loom weaving: colo
 ---
 
 ## Week 7 - Drafting
-This week we'll take the embodied understandings of weaving and electronics that we developed in the prior weeks, and discuss the additional design opportunities afforded by different kinds of looms and structures. We'll also begin work on drafting, the way that we can document and share our patterns as well as translate them across looms
+This week we'll take the embodied understandings of weaving and electronics that we developed in the prior weeks, and discuss the additional design opportunities afforded by different kinds of looms and abstractions of weaving. We'll also begin work on drafting, the way that we can document and share our patterns as well as translate them across looms
 
-### 10/9 - Types of Looms and Drafting
+### 10/7 - Types of Looms and Drafting
 
 #### Assignments Due 
 - [Review Weekly 5 - Color Change](../weeklies/5-changecolor)
 
 #### In Class 
-- Introducing Harness, Dobby, Jacquard style Looms. 
+- Introducing Shaft Looms. 
 - Introduction To Drafting, Drawdown
-- Drafting for Harness Looms
+- Drafting by Hand for Harness Looms
 
+### 10/9 - Twills
 
-### 10/11 - Cloth Analysis
-
-#### In Class 
-- [Reverse Drafting](../worksheets/reverse_drafting/) 
+#### In Class
+- Introduction to Twills + Unbalanced Structures
+- Complex Twills + Undulating Twills
+- Shading
+- Weaving with a Floating Selvedge
+- [AdaCAD](http://adacad-4-1.web.app)
 
 #### Begin Assignments
-- *[Begin Weekly 7 - Reverse Drafting ](../weeklies/7-reverse-drafting)*
+- [Begin Weekly 6 - Album Weave ](../weeklies/6-album-weave)
+
 
 ---
 
 ## Week 8 - More Shafts = More Structures
 We'll take a look beyond basic textile structures to explore different structural possibilities of wovens as well as helpful techniques and software for weaving such structures for floor looms. 
 
-### 10/16 - Adapting Drafts From Books to Your Loom
-
-#### Assignments Due 
-- *[Weekly 7 - Reverse Drafting ](../weeklies/7-reverse-drafting)*
+### 10/14 - Drafting by Cross-Section and Color Effects 
 
 #### In Class
-- Weaving on 8-Shafts
-- Translating Lift Plans and Tie-ups
-- Introduction to Block Drafting
-- Weaving with a Floating Selvedge
+- Introduction to Drafting by Cross-Section
+- Double-Faced Cloth
 
-
-### 10/18 - Twills
+### 10/16 - Decomposing Drawdown to Threading and Treadling
 
 #### In Class
-- Drafting by Cross-Section
-- Introduction to Twills + Unbalanced Structures
-- Shading
-- Floats and Interlacements Doing Wild Things
-- [AdaCAD](http://adacad.org)
+- Understanding Layers in Weaving
+- Drafting Multi-Layer Structures
 
 #### Begin Assignments
-- *[Begin Weekly 8 - Album Weave ](../weeklies/8-album-weave)*
+none- keep working on [Weekly 6 - Album Weave ](../weeklies/6-album-weave)
 
 
----
-
-<!-- ## Week 9 - Layers
-This week we begin to get into more complex structures, specifically, the ability to weave multiple layers at once. We'll introduce layers alongside the idea of capacitance in electrical circuits and explore how layers can be utilized and designed for different looms. 
- -->
-
-## Week 9 - Routing and Resistive Sensing
-This week we begin to get into more complex structures, specifically, the ability to weave multiple layers at once.
+## Week 9 - Layers
+This week we begin to get into more complex structures, specifically, the ability to weave multiple layers at once. 
 
 
-### 10/23 - Maintenance, Finishing, Routing, Soft-Hard Connections
+### 10/21 - Layers
 
 #### Assignments Due 
-- *[Weekly 8 - Album Weave ](../weeklies/8-album-weave)*
+- [Weekly 6 - Album Weave ](../weeklies/6-album-weave)
 
 #### In Class 
-- Finishing Album Weave Swatches
-- Soft to Hard Connections 
-- Overview of Patterns and Structures
 - Intro to Weaving with Two Layers
 
 
-### 10/25 - Layers
+### 10/25 - Layers, Again
 
 #### In Class 
-- Experimental Weaving Talk Series: Patrice George 
+- Experimental Weaving Talk Series: TBD
 - Thinking In Multiple Layers 
 
 #### Begin Assignments
 - *[Begin Weekly 11 - Put it in a Pocket ](../weeklies/11-put-it-in-a-pocket)*
-- *[Final Proposal](../weeklies/final_proposal)*
 
 
 ---
@@ -244,11 +234,10 @@ This week we begin to get into more complex structures, specifically, the abilit
 The goal this week is to shift focus from isolated experiments to synthesize what we have learned and start planning a final project. 
 
 
-### 10/30 - Introducing Final Project and Surveying Contemporary Weaving
+### 10/28 - Introducing Final Project and Surveying Contemporary Weaving
 
 #### Assignments Due 
 - *[Weekly 11 -  Put it in a Pocket ](../weeklies/11-put-it-in-a-pocket)*
-- *[Final Proposal](../weeklies/final_proposal)*
 
 
 #### In Class 
@@ -258,51 +247,61 @@ The goal this week is to shift focus from isolated experiments to synthesize wha
 - - structure
 - - on the loom decisions
 
-### 11/1 - Inlay and Electrodes
+### 10/30 - Inlay and Electrodes
 
 #### In Class 
 - Learning inlay techniques 
 - Customizing inlay in the context of electrodes. 
 
+#### Begin Assignments
+- *[Final Proposal](../weeklies/final_proposal)*
 
 ---
 
 ## Week 11 - Materials
 The goal this week is to bring back materials into the formation of structure. Specifically, looking at materials that exhibit different forms of state change, such as elastics, shrinking, or dissolvability to see how they might bring new functionality to woven structures. 
 
+### 11/4 - Weaving with Elastics
 
 #### Assignments Due 
-- - *Final Samples, Set 1*
-
-
-### 11/6 - Weaving with Elastics
+- *[Final Proposal](../weeklies/final_proposal)*
 
 #### In Class 
 - Present the first set of samples produced for the final project
 - Customizing Conductive Yarn
 
-<!-- #### Assignments Due 
-- *[Begin Weekly 10 - Layers ](../weeklies/10-functional-yarns)* -->
+#### Begin Assignments
+- *Final Samples, Set 1*
 
-
-### 11/8 - Sampling and Refining Samples
+### 11/6 - Sampling and Refining Samples
 
 #### In Class
-- Experimental Weaving Talk Series: Lucy Smyth
+- Experimental Weaving Talk Series: TBD
 - Weaving with Elastics
 
 ---
 
+## Week 12 - Final Check In - Sample Set 1
 
-## Week 11 - Final Check In - Sample Set 2
+### 11/11 - Laura Out
 
-### 11/13 - Materials Deep Dive
-#### Assignments Due 
+### 11/13 - Sample Crits
+
+#### Assignments Due
+- *Final Samples, Set 1*
+---
+
+## Week 13 - Final Check in - Sample Set 2
+
+### 11/25 - Sample Crits / In-House Play
+
+### 11/27 - Sample Crits / In-House Play
+
+#### Assignments Due
 - *Final Samples, Set 2*
 
-
-
-### 11/15 - Structure Deep Dive
+#### In Class
+- Experimental Weaving Talk Series: TBD
 
 ---
 
@@ -311,27 +310,17 @@ The goal this week is to bring back materials into the formation of structure. S
 
 
 ---
-## Week 13 - Final Sample Development 
+## Week 14 - Refine & Repeat 
 
-### 11/27 - In-House Play
- - by this point, each student should have at least 4 samples, and will select the sample they would like to refine for the final. 
+### 12/2 - TBD
 
-
-### 11/29 - In-House Play
-Experimental Weaving Talk Series: Lars Shimabukuro
-
----
-## Week 14 - Community Weaving in B2, Refinement
-
-### 12/4 - Different Loom Configurations
-
-### 12/6 - Materiality of Weaving
+### 12/4 - TBD
 
 ---
 
 ## Week 15 - Final Presentations
 
-### 12/11
+### 12/9
 
 #### Assignments Due 
 - *[Final Deliverables 1, 2, and 3 ](../docs/projects-assignments/final.md)*
@@ -339,7 +328,7 @@ Experimental Weaving Talk Series: Lars Shimabukuro
 #### In class
 - First set of students present about their sampling process and final outcome
 
-### 12/13
+### 12/11
 
 #### Assignments Due 
 - *[Final Deliverables 4 ](../docs/projects-assignments/final.md)*
@@ -350,3 +339,4 @@ Experimental Weaving Talk Series: Lars Shimabukuro
 # Guest Lecture Bios and Information
 
 This course is co-scheduled with the [Experimental Weaving Talk Series](https://unstable.design/experimental-weaving-talks/). You can use the link from the talk series to learn more about each guest speaker and their work. 
+

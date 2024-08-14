@@ -1,6 +1,7 @@
 ---
-title: 9 - Make Layers
-weight: 9
+title: 7 - Design a Two Faced Structure
+weight: 7
+draft: true
 ---
 
 This weeks assignment is devoted to just spending time playing with multiple layer structures on the class floor looms

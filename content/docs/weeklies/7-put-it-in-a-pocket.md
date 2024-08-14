@@ -1,9 +1,9 @@
 ---
-title: 11 - Put it In a Pocket
-weight: 11
+title: 7 - Put it In a Pocket
+weight: 7
 ---
 
-# 11. Put It In A Pocket
+# 7. Put It In A Pocket
 This week, we'll combine routing via supplemental wefts and multi-layered structures to make a circuit that involves putting something in a pocket.
 
 

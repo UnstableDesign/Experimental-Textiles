@@ -1,6 +1,7 @@
 ---
 title: 10 - Functional Yarns
 weight: 10
+draft: true
 ---
 
 # 9. Weaving with Functional Yarns

@@ -1,6 +1,6 @@
 ---
-title: 8 - Multi-Shaft Album Weave
-weight: 8
+title: 6 - Multi-Shaft Album Weave
+weight: 6
 ---
 
 This weeks assignment is devoted to just spending time playing on a multi-shaft loom. 

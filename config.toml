@@ -6,7 +6,7 @@ theme = "hugo-book"
 
 # Book configuration
 disablePathToLower = true
-enableGitInfo = true
+enableGitInfo = false
 
 
 [markup.tableOfContents]
@@ -49,7 +49,7 @@ enableGitInfo = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/experimental-textiles'
+  # BookEditPath = 'edit/main/experimental-textiles'
 
   # Configure the date format used on the pages
   # - In git information

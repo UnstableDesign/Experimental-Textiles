@@ -13,10 +13,9 @@ Assistant Professor, ATLAS Institute & Dept. of Information Science
 laura.devendorf@colorado.edu  
 
 ## Location and Timing 
+Fall 2024 // Monday, Wednesday: 9:00am - 10:50am<br>
+ATLAS 1B25
 
-In person <br>
-Monday, Wednesday: 9:00am - 10:50am<br>
-ATLAS 1B21
 
 <!-- 
 ### Online Instruction Values and Commitments  as described by the class on the first day\*
