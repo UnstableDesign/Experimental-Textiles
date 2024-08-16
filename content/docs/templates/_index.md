@@ -1,4 +1,4 @@
 ---
 title: Templates
-weight: 10
+weight: 8
 ---

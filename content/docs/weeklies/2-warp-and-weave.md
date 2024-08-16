@@ -1,9 +1,9 @@
 ---
-title: 3 - Warp and Weave
-weight: 3
+title: 2 - Warp and Weave
+weight: 2
 ---
 
-# 3. Warp and Weave
+# 2. Warp and Weave
 This week, your goal is to work with your partner to warp your cricket loom with 3 - 4 yards of cloth, 4-5 inches wide. If you missed class, you can follow the instructions in [Resources->Warping Instructions](/docs/worksheets/warp/). You will need 1-2 hours for warping if it is your first time. 
 
 ## Materials

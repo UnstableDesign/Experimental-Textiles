@@ -15,9 +15,9 @@ This week will focus on color work and using different colors and environmental 
 | :--- | :--- | :-- 
 | Thermochromic or Photochromic Paint |  ?  | in class
 | Paint Brush |  1  | in class
-| Warped Cricket Loom | 1 | from weekly 3
+| Warped Cricket Loom | 1 | from weekly 2
 | Weft Yarns | 10 yds | in class
-| Connectors | 3 | from Weekly 2
+| Connectors | 3 | from Weekly 3
 | (optional) Statex Conductive Thread |  2 yards  | kit
 | (optional) 9V Battery | 1 | kit
 | Scissors | 1 | you

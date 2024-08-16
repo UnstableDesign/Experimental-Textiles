@@ -28,16 +28,17 @@ Essential materials are those **required to complete the course assignments**. W
 
 | Item | You | Course | Link to Product For Reference |
 | :--- | :--- | :--- | :--- |
-| Multimeter | X |  | [Amazon - 12.99](https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/ref=sr_1_1_sspa?dchild=1&keywords=Multimeter&qid=1597350720&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0Ukc3MkxFQjlHMDYmZW5jcnlwdGVkSWQ9QTAyNTIyMjgyOTNPQVZRUlFRMDEwJmVuY3J5cHRlZEFkSWQ9QTAwMzc3OTEzTTFNOU9XV0VYVjBEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) |
-| Sewing Needles | X |  | [Amazon - 3.99](https://www.amazon.com/30-Count-Assorted-Threaders-Meiho-Lives/dp/B07D8LKP1P/ref=sr_1_1_sspa?dchild=1&keywords=Sewing+Needles&qid=1597350770&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMklUV01VR0paQzBaJmVuY3J5cHRlZElkPUEwNTg5NzkzMUdYSklFTjY5VkU2TiZlbmNyeXB0ZWRBZElkPUEwODg1MTI2MkY4NjhMV0dQREQ5NSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=),  Local |
-| Fabric Scissors | X |  | [Amazon - 14.18](https://www.amazon.com/Fiskars-01-005437-Heritage-Seamstress-Scissors/dp/B003YKZ59Y/ref=sr_1_17?dchild=1&qid=1597351894&refinements=p_n_feature_keywords_browse-bin%3A3375237011&s=arts-crafts&sr=1-17),  Local |
+| Multimeter | X |  | [Amazon, ~$15](https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/ref=sr_1_1_sspa?dchild=1&keywords=Multimeter&qid=1597350720&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0Ukc3MkxFQjlHMDYmZW5jcnlwdGVkSWQ9QTAyNTIyMjgyOTNPQVZRUlFRMDEwJmVuY3J5cHRlZEFkSWQ9QTAwMzc3OTEzTTFNOU9XV0VYVjBEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) |
+| Sewing Needles | X |  | [Amazon - < $5](https://www.amazon.com/30-Count-Assorted-Threaders-Meiho-Lives/dp/B07D8LKP1P/ref=sr_1_1_sspa?dchild=1&keywords=Sewing+Needles&qid=1597350770&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMklUV01VR0paQzBaJmVuY3J5cHRlZElkPUEwNTg5NzkzMUdYSklFTjY5VkU2TiZlbmNyeXB0ZWRBZElkPUEwODg1MTI2MkY4NjhMV0dQREQ5NSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=),  Local 
+| Fabric Scissors | X |  | [Amazon - ~$20](https://www.amazon.com/Fiskars-01-005437-Heritage-Seamstress-Scissors/dp/B003YKZ59Y/ref=sr_1_17?dchild=1&qid=1597351894&refinements=p_n_feature_keywords_browse-bin%3A3375237011&s=arts-crafts&sr=1-17),  Local |
 | 10" Cricket Loom  | optional | X | Most of your projects will use this and you will share it with a partner. If you  want to buy one for yourself, you can do so here: [10" Schacht Cricket Loom - 200.00](https://www.amazon.com/Schacht-SCH-10-Cricket-Loom-10/dp/B00D31TE00?th=1)  |
-<!-- | Seeed Studio Microcontrollers  | X |  | [Amazon - 10.00](https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M/ref=sr_1_1_sspa?crid=3M49SJ7F802ES&keywords=seeed+studio+arduino&qid=1691103869&sprefix=seeed+studio+arduino%2Caps%2C86&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | -->
-| Flexible Tape Measure  | X |  |[Amazon - 3.59](https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW/ref=sxts_b2b_sx_fused_v3_desktop_ref-tab-0?content-id=amzn1.sym.97762c05-7545-47e0-ae5c-1110ba2791f0%3Aamzn1.sym.97762c05-7545-47e0-ae5c-1110ba2791f0&crid=IXNX2KWREKZC&cv_ct_cx=tape+measure&keywords=tape+measure&pd_rd_i=B07MT89MCW&pd_rd_r=889dcdb1-7582-441a-844a-0159c664838e&pd_rd_w=rqm6D&pd_rd_wg=NcVBQ&pf_rd_p=97762c05-7545-47e0-ae5c-1110ba2791f0&pf_rd_r=B9D4QSYQ72QP7MTR67HS&qid=1691104215&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=tape+measure%2Caps%2C91&sr=1-8-965fba24-1eed-4536-936e-b447f98a83bc)|
+| Flexible Tape Measure  | X |  |[Amazon - < $5](https://www.amazon.com/Measure-Flexible-Measurement-Centimetre-60-inch%EF%BC%88White%EF%BC%89/dp/B07MT89MCW/ref=sxts_b2b_sx_fused_v3_desktop_ref-tab-0?content-id=amzn1.sym.97762c05-7545-47e0-ae5c-1110ba2791f0%3Aamzn1.sym.97762c05-7545-47e0-ae5c-1110ba2791f0&crid=IXNX2KWREKZC&cv_ct_cx=tape+measure&keywords=tape+measure&pd_rd_i=B07MT89MCW&pd_rd_r=889dcdb1-7582-441a-844a-0159c664838e&pd_rd_w=rqm6D&pd_rd_wg=NcVBQ&pf_rd_p=97762c05-7545-47e0-ae5c-1110ba2791f0&pf_rd_r=B9D4QSYQ72QP7MTR67HS&qid=1691104215&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=tape+measure%2Caps%2C91&sr=1-8-965fba24-1eed-4536-936e-b447f98a83bc)|
 | Lighter  | X |  |Just grab one at your local grocery store |
 | Masking Tape  | X |  |Just grab some at your local grocery store |
 | Notebook with Sheet Protectors| X | | For storing worksheets and samples [Amazon - 6.64](https://www.amazon.com/Dunwell-Binder-Plastic-Sleeves-Presentation/dp/B0893XYRST/ref=sr_1_37?crid=1WKXCBZPOUAI6&keywords=notebook%2Bwith%2Bsheet%2Bprotectors&qid=1691104371&sprefix=notebook%2Bwith%2Bsheet%2Bprotectors%2Caps%2C89&sr=8-37&th=1)
 
+
+<!-- | Seeed Studio Microcontrollers  | X |  | [Amazon - 10.00](https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M/ref=sr_1_1_sspa?crid=3M49SJ7F802ES&keywords=seeed+studio+arduino&qid=1691103869&sprefix=seeed+studio+arduino%2Caps%2C86&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | -->
 
 ## Other Useful Materials 
 
@@ -45,11 +46,10 @@ You may find it useful to have other materials accessible but there are ways you
 
 | Item | Link to Product | Possible To Check Out? |
 | :--- | :--- | :--- |
-| T Pins | [Amazon - 5.69](https://www.amazon.com/Stainless-Needles-Blocking-Knitting-Modelling/dp/B09MFP1SS7/ref=sr_1_1_sspa?crid=2GVP2YS3JYHV&keywords=amazon+t+pins&qid=1691104081&sprefix=amazon+t+pins%2Caps%2C93&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1),  Local | No |
-| Needle Nose Pliers | [Amazon - 5.69](https://www.amazon.com/Stainless-Needles-Blocking-Knitting-Modelling/dp/B09MFP1SS7/ref=sr_1_1_sspa?crid=2GVP2YS3JYHV&keywords=amazon+t+pins&qid=1691104081&sprefix=amazon+t+pins%2Caps%2C93&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1),  Local | No |
-| Macro-lens for Smart Phone | [Order Here](https://www.amazon.com/Xenvo-iPhone-Camera-Lens-Clip/dp/B01A6D2JVI/ref=sr_1_1_sspa?crid=1BBQ02GFOFLZZ&dchild=1&keywords=iphone+macro+lens&qid=1598280446&sprefix=iphone+macro%2Caps%2C203&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUTkZJMEQxTFg4WEwmZW5jcnlwdGVkSWQ9QTAwODg2NTMzQTYxVzdOSjQ5Mk1IJmVuY3J5cHRlZEFkSWQ9QTA0NzU3MTJTSjIxU05XVjZXTkgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) | No |
+| T Pins | [Amazon - ~$5](https://www.amazon.com/Stainless-Needles-Blocking-Knitting-Modelling/dp/B09MFP1SS7/ref=sr_1_1_sspa?crid=2GVP2YS3JYHV&keywords=amazon+t+pins&qid=1691104081&sprefix=amazon+t+pins%2Caps%2C93&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1),  Local | No |
+| Needle Nose Pliers | [Amazon - ~$5](https://www.amazon.com/Stainless-Needles-Blocking-Knitting-Modelling/dp/B09MFP1SS7/ref=sr_1_1_sspa?crid=2GVP2YS3JYHV&keywords=amazon+t+pins&qid=1691104081&sprefix=amazon+t+pins%2Caps%2C93&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1),  Local | No |
+| Macro-lens for Smart Phone | [Amazon - ~$40](https://www.amazon.com/Xenvo-iPhone-Camera-Lens-Clip/dp/B01A6D2JVI/ref=sr_1_1_sspa?crid=1BBQ02GFOFLZZ&dchild=1&keywords=iphone+macro+lens&qid=1598280446&sprefix=iphone+macro%2Caps%2C203&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUTkZJMEQxTFg4WEwmZW5jcnlwdGVkSWQ9QTAwODg2NTMzQTYxVzdOSjQ5Mk1IJmVuY3J5cHRlZEFkSWQ9QTA0NzU3MTJTSjIxU05XVjZXTkgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) | No |
 | Soldering Iron, Helping Hands, Etc. |  | Yes |
-| USB Microscope | [Order Here](https://www.amazon.com/gp/product/B07BGT88QL/ref=crt_ewc_img_dp_3?ie=UTF8&psc=1&smid=AJ8JSI89WYKI) | No |
 | Assorted Yarns |  | Yes |
 | Assorted Threads |  |  |
 | Sewing Machine + Supplies |  | Yes |
@@ -68,27 +68,24 @@ As a member of this class you will have acces to different forms of textile prod
 
 
 ## Class Kits
-As a member of this class you will also be given a kit of consumable materials that will hlep you with class assignments. Please return the bags and the materials you did not use at the end of the semester. 
+As a member of this class you will also be given a kit of consumable materials that will help you with class assignments. Please return the bags and the materials you did not use at the end of the semester. 
 
 | Item | Qty  | Used In
 | :--- | :--- | :-- |
-| Statex Conductive Thread | 3 yards  | Weeklies 1, 5, and 6
-| Dowels | 3 | Weeklies 1 and 3
+| Statex Conductive Thread | 3 yards  | Weeklies 1, 5, and 7
+| Dowels | 3 | Weeklies 1 and 2
 | Popsicle Sticks | 2 | Weekly 1
-| Paracord | 10' | Weekly 2
-| Silicone Coated Wire | 15' | Weeklies 2 and 6
-| Shrink Tubing | 5 | Weekly 2
-| Quilt Clips | 10 | Weekly 2
-| Conductive Tape | 12" | Weekly 2
+| Paracord | 10' | Weekly 3
+| Silicone Coated Wire | 15' | Weeklies 3 and 7
+| Shrink Tubing | 5 | Weekly 3
+| Quilt Clips | 10 | Weekly 3
+| Conductive Tape | 12" | Weekly 3
 | Magnet Wire | 5 yds | Weekly 4
 | Magnetic Beads | 3 | Weekly 4
 | 9V Battery | 1 | Weeklies 4 and 5
 | 4.7 kOhm Resistor | 5 | Weekies 4, 5, 6
 | Needle | 1 | Several Weeklies
-| Photoresistors | 5 | Weekly 6
-| LED | 3 | Weekly 6
-| Elastic | 3 yds | Weekly 10
-
+| Colored Pencils | 12 | Class Activities
 
 
 

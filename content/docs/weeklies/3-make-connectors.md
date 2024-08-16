@@ -1,10 +1,12 @@
 ---
-title: 2 - Make Connectors
-weight: 2
+title: 3 - Make Connectors
+weight: 3
 description: Create custom connectors for testing textile-embedded electrical components
 ---
 
-# 2. Make Soft-to-Hard Connectors 
+# 3. Make Soft-to-Hard Connectors 
+
+![Connectors produced by students in Fall 2023](/images/connectors.jpg)
 
 One of the main challenges when making electronics embedded in textiles is getting accurate connections to the electronic components. Specifically, getting some material that can hold on tightly to a metal thread in a fabric on one side, and connect to a wire (which connects to a micro-controller or multimeter) on the other side. Irene Posch developed a series of novel connectors to solve this issue by modifying textile connectors (e.g. pins and quilt clips for instance) with conductive materials. In this weekly, make 4 Clip Probes following the instructions below: 
 [Irene Posch's DIY Clip Probe Instructions](https://ireneposch.net/clipprobe-diy/)

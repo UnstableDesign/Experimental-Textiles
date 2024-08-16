@@ -25,7 +25,7 @@ The method we'll use is a indirect back-to-front warping technique that I learne
 - warp yarn to wind
 - two dowels or dowel like objects (rulers, sticks, etc.) that are longer than your warp will be wide
 - scissors
-- tape or string for fasteining the dowels together
+- tape or string for fastening the dowels together
 - a friend of second person to help tension the warp while you wind. 
 - sheets of scrap paper
 
@@ -33,11 +33,11 @@ The method we'll use is a indirect back-to-front warping technique that I learne
 
 Winding the warp can be done on a warping board or with found materials. We'll use Irwin clamps clamped to tables but you can also use rules sticking out of a bookshelf, or any other configuration of pegs as long as they are organized in the same configuration of A, B, C, and D below. Pegs A and B should be as far away as you would like your warp. 
 
-![diagrams showing the configuration of pegs and path that the warp will travel around those pegs. The pegs are organized A, C, D, B in a line. with A and B on the ends, and C and D close to eachother about 3/4 of the way towards the end](/images/WarpingPath_Winding.jpg)
+![diagrams showing the configuration of pegs and path that the warp will travel around those pegs. The pegs are organized A, C, D, B in a line. with A and B on the ends, and C and D close to each other about 3/4 of the way towards the end](/images/WarpingPath_Winding.jpg)
 
-Start at peg A by knotting your warp yarn around the peg, then, just walk back and forth across the length making the figure eight that goes over A and C, under D and B, then over B and D, then under A and C, repeat. This figure 8 motion creaets a very important shpae between C and D called "the cross". The cross will keep your warp yarns organized by ensuring that they cannot travel out of their winding order. Wind out as many lengths as you want warp ends. Change colors as you like, but always obey the cross, making sure it maintains its order. Each path from A to B (or B to A) counts as 1 end. 
+Start at peg A by knotting your warp yarn around the peg, then, just walk back and forth across the length making the figure eight that goes over A and C, under D and B, then over B and D, then under A and C, repeat. This figure 8 motion creates a very important shape between C and D called "the cross". The cross will keep your warp yarns organized by ensuring that they cannot travel out of their winding order. Wind out as many lengths as you want warp ends. Change colors as you like, but always obey the cross, making sure it maintains its order. Each path from A to B (or B to A) counts as 1 end. 
 
-Tie the last warp to the peg where you are ending then "tie the cross" by inserting a string between A-C, then looping it around to pass through D-B and loosely tying it. Now you can shimmy the warp off the pegs and move it over to your loom. Insert insert two sticks or dowels into the openings on either side of your cross (one in the space between A and C, and the other in the space between D and B). These will serve as your "lease sticks" which will help you immensly in the warping process. Once you have inserted the lease sticks secure them together with string or tape, leaving a 1" gap between the sticks. Once your lease sticks are inserted and secure, you can cut the tie you created on the cross. The lease sticks have you covered now. Pro tip: keep the warp under tension as much as you can to prevent tangles. Use a "warp chain" to secture the warp if its too long to carry or you're warping alone. 
+Tie the last warp to the peg where you are ending then "tie the cross" by inserting a string between A-C, then looping it around to pass through D-B and loosely tying it. Now you can shimmy the warp off the pegs and move it over to your loom. Insert insert two sticks or dowels into the openings on either side of your cross (one in the space between A and C, and the other in the space between D and B). These will serve as your "lease sticks" which will help you immensely in the warping process. Once you have inserted the lease sticks secure them together with string or tape, leaving a 1" gap between the sticks. Once your lease sticks are inserted and secure, you can cut the tie you created on the cross. The lease sticks have you covered now. Pro tip: keep the warp under tension as much as you can to prevent tangles. Use a "warp chain" to secure the warp if its too long to carry or you're warping alone. 
 
 For a video showing how to tie the cross and chain the warp, see below. 
 {{< youtube xdS8Mo873Xo >}}

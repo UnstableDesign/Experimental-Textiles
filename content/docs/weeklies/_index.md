@@ -1,4 +1,4 @@
 ---
 title: Weeklies
-weight: 3
+weight: 5
 ---

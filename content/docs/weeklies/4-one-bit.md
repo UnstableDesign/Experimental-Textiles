@@ -4,7 +4,8 @@ weight: 4
 ---
 # 4. Make a 1-Bit Flipping Bead
 
-//TODO: Add Images from Last Year
+![gif of a flip bead created in Fall 2023](static/images/one-bit.gif)
+
 
 This week, we are going to work on making an electromagnet and weaving it into the cloth. 
 
@@ -18,9 +19,9 @@ This week, we are going to work on making an electromagnet and weaving it into t
 | 4.7 kOhm Resistor | 5 | kit
 | Thread | 12" | you or in class
 | Scissors | 1 | you
-| Warped Cricket Loom | 1 | from weekly 3
+| Warped Cricket Loom | 1 | from weekly 2
 | Weft Yarns | 10 yds | in class
-| Connectors | 3 | from Weekly 2
+| Connectors | 3 | from Weekly 3
 | Lighter | 1 | you
 | Multimeter | 1 | you
 
