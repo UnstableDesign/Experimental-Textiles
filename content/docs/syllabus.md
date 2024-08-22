@@ -97,7 +97,7 @@ This course has been developed as part of a larger grant studying smart textiles
 I  prefer that students utilize my office hours (link coming soon) with questions or comments about the class. Please send all email inquiries to laura.devendorf@colorado.edu. Please also put “\[**ExTx**\]” in the subject line so that I can easily recognize and respond to your email. I will do my best to respond to emails within one “business” day. For instance, if your message is sent during a regular school day \(weekday/non-holiday\), I will do my best to get back to you by the next regular school day. Due to my parenting duties, I check my email infrequently in the evenings and weekends. If you email me the night before an assignment is due, I am unlikely to be able to respond in time.
 
 ## Additional Policies
-
+<!-- 
 ### Classroom Behavior ###
 Both students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote or online. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy.  For more information, see the [classroom behavior policy](http://www.colorado.edu/policies/student-classroom-and-course-related-behavior) and the [Student Code of Conduct](http://www.colorado.edu/osccr/).
 
@@ -133,6 +133,55 @@ Please know that faculty and instructors have a responsibility to inform OIEC wh
 ### Religious Holidays
 
 Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance.  Please contact me via email or office hours by the end of the second week of the course with specific dates that present conflicts so that I have an opportunity to make systemic adjustments to the course requirements that will benefit all students. See the [campus policy regarding religious observances](http://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details.
+
+
+-------
+FALL 2024
+
+## Syllabus Statements -->
+
+### Classroom Behavior
+
+Students and faculty are responsible for maintaining an appropriate learning environment in all instructional settings, whether in person, remote, or online. Failure to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, marital status, political affiliation, or political philosophy. For more information, see the classroom behavior policy, the Student Code of Conduct, and the Office of Institutional Equity and Compliance.
+
+### Accommodation for Disabilities, Temporary Medical Conditions, and Medical Isolation
+
+If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities in the academic environment. Information on requesting accommodations is located on the [Disability Services website](http://www.colorado.edu/disabilityservices/students). Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance. If you have a temporary medical condition, see Temporary Medical Conditions on the Disability Services website.
+
+If you have a temporary illness, injury or required medical isolation for which you require adjustment, you must let Prof. Devendorf know as soon as you are able to coordinate alternative plans. Changes and accommodations cannot be provided retroactively. 
+
+### Preferred Student Names and Pronouns
+
+CU Boulder recognizes that students' legal information doesn't always align with how they identify. Students may update their preferred names and pronouns via the student portal; those preferred names and pronouns are listed on instructors' class rosters. In the absence of such updates, the name that appears on the class roster is the student's legal name.
+
+### Honor Code
+
+All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the Honor Code may include but are not limited to: plagiarism (including use of paper writing services or technology [such as essay bots]), cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. Understanding the course's syllabus is a vital part in adhering to the Honor Code.
+
+All incidents of academic misconduct will be reported to Student Conduct & Conflict Resolution: StudentConduct@colorado.edu. Students found responsible for violating the Honor Code will be assigned resolution outcomes from the Student Conduct & Conflict Resolution as well as be subject to academic sanctions from the faculty member. Visit Honor Code for more information on the academic integrity policy.
+
+### Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
+
+CU Boulder is committed to fostering an inclusive and welcoming learning, working, and living environment. University policy prohibits protected-class discrimination and harassment, sexual misconduct \(harassment, exploitation, and assault\), intimate partner abuse \(dating or domestic violence\), stalking, and related retaliation by or against members of our community on- and off-campus. The Office of Institutional Equity and Compliance (OIEC) addresses these concerns, and individuals who have been subjected to misconduct can contact OIEC at 303-492-2127 or email cureport@colorado.edu. Information about university policies, reporting options, and support resources including confidential services can be found on the [OIEC website](http://www.colorado.edu/institutionalequity/).
+
+Please know that faculty and graduate instructors must inform OIEC when they are made aware of incidents related to these policies regardless of when or where something occurred. This is to ensure that individuals impacted receive outreach from OIEC about resolution options and support resources. To learn more about reporting and support for a variety of concerns, visit the Don’t Ignore It page.
+
+### Religious Accommodations
+
+Campus policy requires faculty to provide reasonable accommodations for students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. Please communicate the need for a religious accommodation in a timely manner. In this class, please contact me via email or office hours by the end of the second week of the course with specific dates that present conflicts so that I have an opportunity to make systemic adjustments to the course requirements that will benefit all students. See the [campus policy regarding religious observances](http://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details. 
+
+### Mental Health and Wellness
+
+The University of Colorado Boulder is committed to the well-being of all students. If you are struggling with personal stressors, mental health or substance use concerns that are impacting academic or daily life, please contact Counseling and Psychiatric Services (CAPS) located in C4C or call (303) 492-2277, 24/7. Free and unlimited telehealth is also available through Academic Live Care. The Academic Live Care site also provides information about additional wellness services on campus that are available to students.
+
+
+### CU Community of Care 
+CU Boulder is committed to a community of care in which students are supported by faculty and staff throughout their college journey.  You don’t have to face academic challenges alone – CU and the college are here to help you learn and succeed in your coursework and campus life.  Part of this community of care is your connection to faculty and staff across campus.  Our college promotes and hopes you will connect with faculty or staff who may reach out during your educational journey at CU.
+ 
+
+### Course Alerts Syllabus Statement
+This course participates in the CU Course Alert process to help connect you with support resources and identify your barriers to success (colorado.edu/engineering-advising/coursealerts).  If you receive a course alert for this class, please plan to (identify and input the specific action you'd like the student to take for each class here, i.e., schedule a meeting with you, attend office hours, send you an email, connect with a TA, etc.).
+
 
 ## Acknowledgements
 

@@ -4,7 +4,7 @@ weight: 4
 ---
 # 4. Make a 1-Bit Flipping Bead
 
-![gif of a flip bead created in Fall 2023](static/images/one-bit.gif)
+![gif of a flip bead created in Fall 2023](/images/one-bit.gif)
 
 
 This week, we are going to work on making an electromagnet and weaving it into the cloth. 
