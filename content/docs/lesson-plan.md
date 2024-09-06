@@ -29,10 +29,10 @@ The goals for this week are to help you gain an embodied sense of what weaving i
 ### 8/28 - Design Philosophy & Documentation
 
 #### In class
+- History of Weaving and Weaving Machines
 - Discussion of Sampling and Materials-Led Design
 - How to Take Good Photos 
 - Review [Weeklies Templates](../templates/weeklies-template)
-- Equipment Checkout
 
 #### Begin Assignments
 - *Due 9/4 - [Begin First Weekly, Make a Book Loom](../weeklies/1-make-a-book-loom)*
@@ -43,9 +43,9 @@ The goals for this week are to help you gain an embodied sense of what weaving i
 ## Week 2 - Yarn
 Our goal this week is to get to know a bit more about yarn and how it behaves. We'll place a specific focus on conductive yarns and using a multimeter to understand their properties. The worksheet and activities will help you understand the electrical and mechanical properties of different yarns in order to understand how you can leverage those properties towards different applications. 
 
-### 9/4 - Labor Day, No Class
+### 9/2 - Labor Day, No Class
 
-### 9/6 - Lively Yarn
+### 9/4 - Lively Yarn
 
 #### Assignments Due 
 - [Weekly 1 - Make a Book Loom](../weeklies/1-make-a-book-loom)

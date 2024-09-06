@@ -11,6 +11,13 @@ description: ATLAS 4519-010 / 5519-010
 **Laura Devendorf**  
 Assistant Professor, ATLAS Institute & Dept. of Information Science  
 laura.devendorf@colorado.edu  
+office hours posted on canvas
+
+### Class Assistant ###
+**Lily Gabriel**
+Undergrad, Creative Technologies and Design
+lily.gabriel@colorado.edu
+office hours posted on canvas
 
 ## Location and Timing 
 Fall 2024 // Monday, Wednesday: 9:00am - 10:50am<br>
