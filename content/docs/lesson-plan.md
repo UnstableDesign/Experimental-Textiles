@@ -142,6 +142,7 @@ The goal this week is to add another dimension to our cricket loom weaving: colo
 #### In Class
 - Making Flip Dots
 - Broader Applications of Electromagnetism in Cloth
+- Prep Class Looms - Beam the Warp
 
 ### 10/2 - Color Work and Dynamic Color
 
@@ -151,7 +152,8 @@ The goal this week is to add another dimension to our cricket loom weaving: colo
 - Ikat 
 - Thermochromics, Photochromics
 - Resistive Heating
-- More Soft-to-Hard Connection Techniques
+- Prep Class Looms - Thread the Heddles, Sley the Reed
+
 
 #### Begin Assignments
 - [Weekly 5 - Color Change](../weeklies/5-changecolor)
@@ -189,17 +191,20 @@ This week we'll take the embodied understandings of weaving and electronics that
 ## Week 8 - More Shafts = More Structures
 We'll take a look beyond basic textile structures to explore different structural possibilities of wovens as well as helpful techniques and software for weaving such structures for floor looms. 
 
-### 10/14 - Drafting by Cross-Section and Color Effects 
+### 10/14 - Working with Tieups and Treadling + Satins
 
 #### In Class
-- Introduction to Drafting by Cross-Section
-- Double-Faced Cloth
+- How to adapt drafts to the class looms
+- How to work with treadling and Tieups
+- Intro to Satin Structure
+- Shaded Structures and Damask
 
-### 10/16 - Decomposing Drawdown to Threading and Treadling
 
+### 10/16 - Compound Structures
 #### In Class
-- Understanding Layers in Weaving
-- Drafting Multi-Layer Structures
+- Waffles + Crepes
+- 2-3 System Structures
+- Layers
 
 #### Begin Assignments
 none- keep working on [Weekly 6 - Album Weave ](../weeklies/6-album-weave)
@@ -221,7 +226,6 @@ This week we begin to get into more complex structures, specifically, the abilit
 ### 10/25 - Layers, Again
 
 #### In Class 
-- Experimental Weaving Talk Series: TBD
 - Thinking In Multiple Layers 
 
 #### Begin Assignments
@@ -276,7 +280,6 @@ The goal this week is to bring back materials into the formation of structure. S
 ### 11/6 - Sampling and Refining Samples
 
 #### In Class
-- Experimental Weaving Talk Series: TBD
 - Weaving with Elastics
 
 ---
