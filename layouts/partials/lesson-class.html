@@ -1,0 +1,88 @@
+{{/*
+  Renders one class day block.
+  Context: dict "class" ... "page" ... "defaults" ...
+*/}}
+{{- $c := .class -}}
+{{- $page := .page -}}
+{{- $defaults := .defaults -}}
+{{- $noClass := $c.no_class | default false -}}
+
+<article class="class-block{{ if $noClass }} class-block--no-class{{ end }}">
+  <h3 class="class-block__title">
+    {{- with $c.date }}{{ . }} — {{ end -}}
+    {{- $c.topic -}}
+  </h3>
+
+  {{- if $noClass }}
+  <p class="class-block__banner">No class</p>
+  {{- end }}
+
+  {{- with $c.note }}
+  <div class="class-block__note">{{ . | $page.RenderString }}</div>
+  {{- end }}
+
+  {{- /* Bring */ -}}
+  {{- if isset $c "bring_override" }}
+    {{- with $c.bring_override }}
+  <div class="class-block__section">
+    <h4>Bring</h4>
+    <ul>
+      {{- range . }}
+      <li>{{ . | $page.RenderString }}</li>
+      {{- end }}
+    </ul>
+  </div>
+    {{- end }}
+  {{- else }}
+    {{- $bring := slice -}}
+    {{- range ($defaults | default slice) }}
+      {{- $bring = $bring | append . -}}
+    {{- end }}
+    {{- range ($c.bring | default slice) }}
+      {{- $bring = $bring | append . -}}
+    {{- end }}
+    {{- if gt (len $bring) 0 }}
+  <div class="class-block__section">
+    <h4>Bring</h4>
+    <ul>
+      {{- range $bring }}
+      <li>{{ . | $page.RenderString }}</li>
+      {{- end }}
+    </ul>
+  </div>
+    {{- end }}
+  {{- end }}
+
+  {{- with $c.due }}
+  <div class="class-block__section class-block__section--due">
+    <h4>Due</h4>
+    <ul>
+      {{- range . }}
+      <li>{{ . | $page.RenderString }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+
+  {{- with $c.active }}
+  <div class="class-block__section class-block__section--active">
+    <h4>Active</h4>
+    <ul>
+      {{- range . }}
+      <li>{{ . | $page.RenderString }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+
+  {{- with $c.in_class }}
+  <div class="class-block__section">
+    <h4>In class</h4>
+    <ul>
+      {{- range . }}
+      <li>{{ . | $page.RenderString }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+</article>

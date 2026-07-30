@@ -1,0 +1,132 @@
+/* Lesson plan schedule (data/lesson-plan.yaml) */
+
+.lesson-defaults {
+  margin-bottom: 2rem;
+}
+
+.lesson-week {
+  margin: 2.5rem 0;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--gray-200, #e5e5e5);
+}
+
+.lesson-week:last-of-type {
+  border-bottom: none;
+}
+
+.lesson-week--break {
+  padding: 1.25rem 1rem;
+  background: var(--gray-100, #f5f5f5);
+  border: 1px solid var(--gray-200, #e5e5e5);
+  border-radius: 4px;
+}
+
+.lesson-week__desc {
+  margin: 0.5rem 0 1.25rem;
+  max-width: 50rem;
+}
+
+.lesson-week__desc > *:last-child {
+  margin-bottom: 0;
+}
+
+.lesson-week__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem 1.25rem;
+  align-items: stretch;
+}
+
+.lesson-week__col-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gray-500, #757575);
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--gray-200, #e5e5e5);
+}
+
+.class-block {
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--gray-200, #e5e5e5);
+  border-radius: 4px;
+  background: var(--body-background, #fff);
+  min-width: 0;
+}
+
+.class-block--empty {
+  border: none;
+  background: transparent;
+  padding: 0;
+}
+
+.class-block--no-class {
+  background: var(--gray-100, #f5f5f5);
+  border-style: dashed;
+}
+
+.class-block__title {
+  margin: 0 0 0.75rem;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.class-block__banner {
+  margin: 0 0 0.75rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.class-block__note {
+  margin: 0 0 0.75rem;
+  padding: 0.5rem 0.65rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  background: var(--gray-100, #f5f5f5);
+  border-left: 3px solid var(--gray-500, #757575);
+}
+
+.class-block__note > *:last-child {
+  margin-bottom: 0;
+}
+
+.class-block__section {
+  margin-top: 0.75rem;
+}
+
+.class-block__section h4 {
+  margin: 0 0 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--gray-500, #757575);
+}
+
+.class-block__section ul {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.class-block__section li {
+  margin: 0.2rem 0;
+}
+
+.class-block__section--due h4 {
+  color: var(--color-link, #0055bb);
+}
+
+@media (max-width: 56rem) {
+  .lesson-week__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lesson-week__col-label {
+    display: none;
+  }
+
+  .class-block--empty {
+    display: none;
+  }
+}

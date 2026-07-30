@@ -1,0 +1,47 @@
+{{/*
+Renders .Site.Data.lesson_plan as week sections.
+Each week is Tuesday (left) → Thursday (right).
+*/}}
+{{- $data := .Site.Data.lesson_plan -}}
+{{- $page := . -}}
+{{- $defaults := $data.default_bring -}}
+
+
+
+{{- range $data.weeks }}
+{{- if .break }}
+<section class="lesson-week lesson-week--break">
+  <h2 id="{{ anchorize .title }}">{{ .title }}</h2>
+  {{- with .description }}
+  <div class="lesson-week__desc">{{ . | $page.RenderString }}</div>
+  {{- end }}
+</section>
+{{- else }}
+<section class="lesson-week">
+  <h2 id="{{ anchorize (printf " week-%v-%s" (.number | default "" ) .title) }}">
+    {{- with .number }}Week {{ . }} — {{ end -}}
+    {{- .title -}}
+  </h2>
+  {{- with .description }}
+  <div class="lesson-week__desc">{{ . | $page.RenderString }}</div>
+  {{- end }}
+
+  <div class="lesson-week__grid">
+    <div class="lesson-week__col-label">Tuesday</div>
+    <div class="lesson-week__col-label">Thursday</div>
+
+    {{- with .tuesday }}
+    {{ partial "lesson-class" (dict "class" . "page" $page "defaults" $defaults) }}
+    {{- else }}
+    <div class="class-block class-block--empty" aria-hidden="true"></div>
+    {{- end }}
+
+    {{- with .thursday }}
+    {{ partial "lesson-class" (dict "class" . "page" $page "defaults" $defaults) }}
+    {{- else }}
+    <div class="class-block class-block--empty" aria-hidden="true"></div>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+{{- end }}

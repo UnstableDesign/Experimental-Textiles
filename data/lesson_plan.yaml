@@ -1,0 +1,429 @@
+# Experimental Textiles — Lesson Plan Schedule
+# Edit this file each year. The lesson-plan page renders it automatically.
+#
+# File: data/lesson_plan.yaml  →  available in templates as .Site.Data.lesson_plan
+#
+# Schema
+# ------
+# default_bring: items students bring every day (unless a class sets bring_override)
+#
+# weeks: each week is Tuesday → Thursday
+#   - number: week number (omit for breaks)
+#     title: short week title
+#     description: week goals (markdown ok)
+#     break: true              # optional — break banner, no class grid
+#     tuesday:                 # omit or null if no Tuesday meeting (e.g. semester starts Thu)
+#     thursday:                # omit or null if no Thursday meeting
+#       date: "M/D"
+#       topic: session title
+#       note: ""               # optional special note for the day (markdown ok)
+#       no_class: true         # holiday / reading day / instructor out
+#       active: []             # work in progress (not due today)
+#       due: []                # due today (markdown links ok)
+#       bring: []              # extras beyond default_bring
+#       bring_override: []     # replace default_bring entirely; use [] for none
+#       in_class: []           # activities (markdown links ok)
+
+year: 2026
+term: Fall
+
+default_bring:
+  - Your class kit
+
+weeks:
+  - number: 1
+    title: Welcome
+    description: >
+      This week we're introducing the class and basics about weaving.
+      *(Semester starts Thursday — no Tuesday meeting this week.)*
+    thursday:
+      date: "8/20"
+      topic: Class Introduction
+      note: First day of the semester — class meets Thursday only this week.
+      active:
+      due: []
+      bring: []
+      bring_override: []
+      in_class:
+        - Setting Community Norms
+        - Questions about How Class Will Take Place
+        - "[Paper Weaving](/pdf/PaperLoom.pdf)"
+        - "Review [Required Supplies](../material-list)"
+
+  - number: 2
+    title: Weaving and Materials-Led Design
+    description: >
+      This week we're starting our first experiments with weaving alongside and introduction to materials-led design methodologies.
+    tuesday:
+      date: "8/25"
+      topic: Design Philosophy
+      # bring_override: []
+      in_class:
+         - Discussion of Sampling and Materials-Led Design
+         - "Review [Weeklies Templates](../templates/weeklies-template)"
+         - Assemble Class Kit
+         - History Of Presentations
+    thursday:
+      date: "8/27"
+      topic: Looms and Weaving
+      bring: [a not-too-precious hard cover book of your choice]
+      # active:
+      due:
+         - 'Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89'
+      in_class:
+      #   - Reading Discussion
+      #   - History of Weaving and Weaving Machines
+      #   - How to Take Good Photos
+      #   - start [Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)
+
+  - number: 3
+    title: Finishing and Connecting
+    description: >
+      we'll finish our book looms and start making connectors to use in soft circuits.
+    tuesday:
+      date: "9/1"
+      topic: Finishing Techniques
+      active: []
+      due:
+        - "[Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)"
+    bring: [your completed book loom]
+    in_class:
+      - book loom share out
+      - finishing techniques (gluing/tying off, weaving in ends, etc.)
+      - methods for making/customizing conductive yarns (plying, braiding, etc.)
+ 
+    thursday:
+      date: "9/3"
+      topic: Conductive Yarns, Multi-meters, and Connectors
+      # active:
+      # due: []
+      # bring: []
+      in_class:
+        - How to use a Multimeter
+        - Understanding Resistance Worksheet
+        - Start [Weekly 2 — Make Connectors](../weeklies/2-make-connectors)
+
+  - number: 4
+    title: Warping and Weaving with Etta Sandry
+    description: > 
+      we'll start warping and weaving on our Cricket looms and exploring different methods for integrating conductive materials.
+    tuesday:
+      date: "9/8"
+      note: This class will be guest taught by Etta Sandry
+      topic: Warping and Weaving Tabby
+      # active: []
+      due:
+        - "[Weekly 2 — Make Connectors](../weeklies/2-make-connectors)"
+      bring: [
+        - your completed connectors
+        - your cricket loom]
+      in_class:
+        - Connector Share Out
+        - "[Parts of the Loom Quiz](../worksheets/parts-of-the-loom)"
+        - Start [Weekly 3 — Warp and Weave](../weeklies/3-warp-and-weave)
+      
+    thursday:
+      date: "9/10"
+      topic: Manipulating Tabby 
+      note: This class will be guest taught by Etta Sandry
+
+      active:
+         - "[Weekly 3 — Warp and Weave](../weeklies/3-warp-and-weave)"
+      # due: []
+      bring: [your cricket loom]
+      in_class:
+        - Tapestry Techniques (weft pile, looping, etc.)
+        - Leno and Lace Structures
+
+  - number: 5
+    title: Tabby Play
+    
+    description: >
+      We study variations on the tabby structure and supplemental weft techniques, which are especially
+      useful for integrating conductive materials.
+    tuesday:
+      date: "9/15"
+      no_class: true
+      bring_override: []
+    thursday:
+      date: "9/17"
+      note: This class will be guest taught by Steven Frost
+      topic: Supplemental Wefts
+      # active: []
+      due:
+        - "[Weekly 3 — Warp and Weave](../weeklies/3-warp-and-weave)"
+      bring: [
+        - your cricket loom
+        - your swatches]
+      in_class:
+        - Share Out
+        - Supplemental Weft Experimentation
+
+  - number: 6
+    title: Integrating Electronics
+    description: >
+      Apply the information we've learned earlier (largely supplemental wefts, etc) to integrate an electrical component into a cloth structure. We'll also start planning for your final projects. 
+    tuesday:
+      date: "9/22"
+      topic: Final Project Discussion 
+      # active: []
+      bring: []
+      in_class:
+        - Preview the Remaining Techniques We'll Learn
+        - Final Project Brainstorm
+        - Start Prepping Materials for Flip Bead and Dynamic Color 
+    thursday:
+      date: "9/24"
+      topic: Flip Beads
+      active:
+      in_class:
+      - Electromagnetics  
+      - Start [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
+  
+
+  - number: 7
+    title: Intro to Multi-Shaft Structures
+    description: >
+     We'll start thinking beyond tabby to consider other textile structures that require the use of multi-shaft table and floor looms. 
+    tuesday:
+      date: "9/29"
+      topic: Types of Looms and Drafting
+      # active: []
+      due:
+         - Final Project Concept
+         - Turn In [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
+      bring: [your flip bead swatches]
+      in_class:
+        - Flip Bead Share Out
+        - Introducing Shaft Looms
+        - Introduction To Drafting, Drawdown
+        - Drafting by Hand for Harness Looms
+    thursday:
+      date: "10/1"
+      topic: Twills
+      active:
+        - "[Weekly 5 — Album Weave](../weeklies/5-album-weave)"
+      due: []
+      bring: []
+      in_class:
+        - Introduction to Twills + Unbalanced Structures
+        - Complex Twills + Undulating Twills
+        - Shading
+        - Weaving with a Floating Selvedge
+        - "[AdaCAD](http://adacad.org)"
+
+  - number: 8
+    title: Satins
+    description: >
+      Structural possibilities beyond basic weaves, plus techniques and software for floor looms.
+      Thursday is CU's midsemester reading day.
+    tuesday:
+      date: "10/6"
+      topic: Working with Tieups and Treadling + Satins
+      active:
+        - "[Weekly 6 — Album Weave](../weeklies/6-album-weave)"
+      due: []
+      bring: []
+      in_class:
+        - How to adapt drafts to the class looms
+        - How to work with treadling and Tieups
+        - Intro to Satin Structure
+        - Shaded Structures and Damask
+    thursday:
+      date: "10/8"
+      topic: Midsemester Reading Day
+      note: CU Boulder midsemester reading day — no classes or exams.
+      no_class: true
+      active: []
+      due: []
+      bring_override: []
+      in_class: []
+
+  - number: 9
+    title: Multi-Layer 
+    description: >
+      Explore compound structures, then begin weaving multiple layers at once.
+    tuesday:
+      date: "10/13"
+      topic: Compound Structures
+      active:
+      due:
+        - "[Weekly 6 — Album Weave](../weeklies/6-album-weave)"
+      bring: []
+      in_class:
+        - Share Out
+        - Waffles + Crepes
+        - 2-3 System Structures
+        - Layers
+    thursday:
+      date: "10/15"
+      topic: Layers
+      active: []
+      bring: []
+      in_class:
+        - Intro to Weaving with Two Layers
+        - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+
+  - number: 10
+    title: TBD
+    description: >
+      Continue multilayer thinking, then shift toward synthesizing the semester into a final project
+    tuesday:
+      date: "10/20"
+      topic: Reverse Drafting
+      active: 
+       - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+      bring: []
+      in_class:
+         - "[Reverse Drafting Worksheet](../worksheets/reverse_drafting)"
+    thursday:
+      date: "10/22"
+      # topic: Introducing Final Project and Surveying Contemporary Weaving
+      # active: []
+      due:
+       - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+      bring: [your pocket swatches]
+      # in_class:
+      #   - "Surveying Different Weaving Practices along four axes: materials, ratio, structure, on-the-loom decisions"
+
+  - number: 11
+    title: Drafting by Cross Sections 
+    # description: >
+    #   Inlay for electrodes, then materials that change state — elastics, shrinking, dissolvability —
+    #   and how they can bring new functionality to woven structures.
+    tuesday:
+      date: "10/27"
+      topic: Drafting by Cross-Section I
+      note: Deanna Gelosi will join us to show us her cross-section design tool
+      # active:
+      #   - "[Final Proposal](../weeklies/final_proposal)"
+      # due: []
+      # bring: []
+      # in_class:
+      #   - Learning inlay techniques
+      #   - Customizing inlay in the context of electrodes
+    thursday:
+      date: "10/29"
+      topic: Drafting by Cross-Section II
+      note: Deanna Gelosi will join us to show us her cross-section design tool
+      # active:
+      #   - Final Samples, Set 1
+      # due:
+      #   - "[Final Proposal](../weeklies/final_proposal)"
+      # bring: []
+      # in_class:
+      #   - Present the first set of samples produced for the final project
+      #   - Customizing Conductive Yarn
+
+  - number: 12
+    title: TBD
+    # description: ""
+    tuesday:
+      date: "11/3"
+      # topic: Sampling and Refining Samples
+      # active:
+      #   - Final Samples, Set 1
+      # due: []
+      # bring: []
+      # in_class:
+      #   - Weaving with Elastics
+    thursday:
+      date: "11/5"
+      # topic: Laura Out
+      # note: Independent studio work day — keep progressing Final Samples, Set 1.
+      # no_class: true
+      # active:
+      #   - Final Samples, Set 1
+      # due: []
+      # bring_override: []
+      # in_class: []
+
+  - number: 13
+    title: TBD
+    # description: ""
+    tuesday:
+      date: "11/10"
+      # topic: Sample Crits
+      # active: []
+      # due:
+      #   - Final Samples, Set 1
+      # bring: []
+      # in_class:
+      #   - Sample critiques
+    thursday:
+      date: "11/12"
+      # topic: Sample Crits / In-House Play
+      # active:
+      #   - Final Samples, Set 2
+      # due: []
+      # bring: []
+      # in_class:
+      #   - Sample Crits / In-House Play
+
+  - number: 14
+    title: TBD
+    # description: ""
+    tuesday:
+      date: "11/17"
+      # topic: Sample Crits / In-House Play
+      # active: []
+      # due:
+      #   - Final Samples, Set 2
+      # bring: []
+      # in_class:
+      #   - Sample Crits / In-House Play
+      #   - "Experimental Weaving Talk Series: TBD"
+    thursday:
+      date: "11/19"
+      # topic: TBD
+      # active: []
+      # due: []
+      # bring: []
+      # in_class:
+      #   - TBD
+
+  - title: TBD
+    # break: true
+    # description: No class 11/23–11/27
+
+  - number: 15
+    title: TBD
+    # description: ""
+    tuesday:
+      date: "12/1"
+      # topic: TBD
+      # active: []
+      # due: []
+      # bring: []
+      # in_class:
+      #   - TBD
+    thursday:
+      date: "12/3"
+      # topic: TBD
+      # active: []
+      # due: []
+      # bring: []
+      # in_class:
+      #   - TBD
+
+  - number: 16
+    title: TBD
+    # description: ""
+    tuesday:
+      date: "12/8"
+      # topic: Final Presentations
+      # active: []
+      # due:
+      #   - "[Final Deliverables 1, 2, and 3](../docs/projects-assignments/final.md)"
+      # bring: []
+      # in_class:
+      #   - First set of students present about their sampling process and final outcome
+    thursday:
+      date: "12/10"
+      # topic: Final Presentations
+      # active: []
+      # due:
+      #   - "[Final Deliverable 4](../docs/projects-assignments/final.md)"
+      # bring: []
+      # in_class:
+      #   - Second set of students present about their sampling process and final outcome

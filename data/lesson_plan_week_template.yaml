@@ -1,0 +1,51 @@
+# Copy-paste template for a week entry in lesson_plan.yaml
+# This file is documentation only — the live schedule is lesson_plan.yaml
+#
+# Each week begins on Tuesday and ends on Thursday.
+
+example_week:
+  number: N
+  title: Week Title
+  description: >
+    One or two sentences about the week's goals.
+  tuesday:
+    date: "M/D"
+    topic: Session Title
+    note: "Optional special note for this day (markdown ok)."
+    active:
+      - "Work in progress (not due today)"
+    due:
+      - "[Assignment name](../weeklies/example)"
+    bring: []
+    in_class:
+      - Activity one
+      - "[Linked activity](../worksheets/example)"
+  thursday:
+    date: "M/D"
+    topic: Session Title
+    # note: ""
+    active: []
+    due: []
+    bring: []
+    in_class:
+      - Activity one
+
+# Semester starts on a Thursday — omit tuesday:
+example_week_thursday_only:
+  number: 1
+  title: Welcome
+  description: Semester starts Thursday.
+  thursday:
+    date: "M/D"
+    topic: Class Introduction
+    active: []
+    due: []
+    bring: []
+    in_class:
+      - Activity one
+
+# Breaks (no class grid):
+example_break:
+  title: Fall Break
+  break: true
+  description: No class M/D–M/D

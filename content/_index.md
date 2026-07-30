@@ -3,11 +3,11 @@ title: Experimental Textiles - Fall 2022
 ---
 
 # Experimental Textiles
-A textile describes any material made from fiber (which is any material with a high length with width ratio). While textiles are ubiquitous in our daily interactions, forming the basis of clothing and upholstery as well as communications cables, agricultural scaffolds and composites, interaction designs and engineers have not deeply explored their possibilities for interactive applications. 
+A textile describes any material made from fiber (which is any material with a high length with width ratio). While textiles are ubiquitous in our daily interactions, forming the basis of clothing and upholstery as well as communications cables, agricultural scaffolds and composites, interaction designers and engineers have not deeply explored their possibilities for interactive applications. 
 
-This course is intended to shed light on how textiles can be used to create functional systems and engineered for highly specific purposes. The goal is to encourage students outside of textiles to consider how they might integrate textile structures into their research and prototyping practice, or, for textiles experienced students to learn how their knowledges can be useful for producing new kinds of sensors, actuators, and otherwise "dynamic" textile systems. 
+This course is intended to shed light on how textiles can be used to create functional systems and can be engineered for highly specific purposes. The goal is to encourage students outside of textiles to consider how they might integrate textile structures into their research and prototyping practice, or, for textiles experienced students to learn how their knowledges can be useful for producing new kinds of sensors, actuators, and otherwise "dynamic" textile systems. 
 
-This semester will focus deeply on weaving with a deep look at the possibilities of woven structure as well as the ways in which structures can be designed and fabricated using many materials. This is a very central focus of Prof. Devendorf's Unstable Design Lab and we will invite students to investigate it alongside of our ongoing research.
+We focus deeply on weaving and possibilities of woven structures. This is a very central focus of Prof. Devendorf's Unstable Design Lab and we will invite students to investigate it alongside of our ongoing research.
 
 ## After Taking This Course
 Students will be able to: 
@@ -15,7 +15,7 @@ Students will be able to:
 - Design Custom Woven Structures to Suit Functional Requirements
 - Have a Broad Knowledge of Textile Techniques and their uses Through History
 - Have a Broad Knowledge of Textile Materials and their Functional Properties. 
-- Create electronic circuits integrated into textiles, at the yarn-level.
+- Embed interactivity into textiles, at the yarn-level.
 - Gain insight into the state of the art in textile structure design from leading experts. 
 
 
@@ -67,15 +67,38 @@ Systems, Association for Computing Machinery,
 
 - Oelsner, Gustaf Hermann. A handbook of weaves. Macmillan, 1915.
 
-- Julie Holyoke. 2021. Digital Jacquard Design.
-Bloomsbury Visual Arts.
+- Julie Holyoke. 2021. Digital Jacquard Design. Bloomsbury Visual Arts.
 
-- Peggy Osterkamp. 2005. Weaving & Drafting Your
-Own Cloth. UNICORN BOOKS & CRAFTS,
-Sausalito, Calif.
+- Peggy Osterkamp. 2005. Weaving & Drafting Your Own Cloth. UNICORN BOOKS & CRAFTS, Sausalito, Calif.
 
-- Madelyn Van Der Hoogt. 1993. The Complete Book
-of Drafting for Handweavers. Shuttle Craft Books,
-Coupeville, WA
+- Madelyn Van Der Hoogt. 1993. The Complete Book of Drafting for Handweavers. Shuttle Craft Books, Coupeville, WA
 
+### Course History
 
+Fall 2026 - ATLAS 4340/5340 - Experimental Textiles
+Taught by Laura Devendorf
+
+Spring 2026 - ATLAS 4340/5340 - Experimental Textiles
+Taught by Etta Sandry
+
+Fall 2024 - ATLAS 4519/5519 - Experimental Textiles *
+Taught by Laura Devendorf
+Support by Lily Gabriel
+
+Fall 2023 - ATLAS 4519/5519 - Experimental Textiles *
+Taught by Laura Devendorf
+Support from Lily Gabriel
+
+Fall 2022 - ATLAS 4519/5519 - Experimental Textiles *
+Taught by Laura Devendorf
+- shifted focus exclusively to weaving
+
+Fall 2020 - ATLAS 4519/5519 - Soft Object *
+Developed and Co-Taught by Laura Devendorf and Sasha de Koninck
+Support from Shanel Wu (led post-course student interviews)
+- Surveyed textile techniques from knitting to weaving to felting. Taught online during COVID lock-down.  
+
+### Support
+- Nathalie Smith (of LulaFaye Fibers) donated looms and materials in 2026
+- Schacht Spindle Company donated books and materials donated in 2022
+- NSF CAREER Grant #1943109 supported courses from 2020 - 2024. 

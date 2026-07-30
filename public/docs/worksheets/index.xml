@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Experimental Textiles</title>
+    <link>http://localhost:1313/docs/worksheets/</link>
+    <description>Recent content in Resources on Experimental Textiles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/worksheets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drafting By Cross-Section</title>
+      <link>http://localhost:1313/docs/worksheets/drafting-by-crosssection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worksheets/drafting-by-crosssection/</guid>
+      <description>&lt;h1 id=&#34;drafting-by-cross-section&#34;&gt;&#xA;  Drafting By Cross-Section&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#drafting-by-cross-section&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Drafting by cross-section allows you to think through the relationships between successive weft pics differently than the draft. It can also be helpful for planning and generating drafts from different layered cross sections. Here are some worksheets that can help you:&lt;/p&gt;&#xA;&lt;p&gt;For a quick slideshow on how to draft by cross section using these worksheets visit: &lt;a href=&#34;https://docs.google.com/presentation/d/1aqt-IFFygoOakidtWjEdAoKmtqMNVmI1aAtX_NPA4FI/edit#slide=id.g182c440fce5_0_562&#34;&gt;Drafting By Cross Section Tutorial&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;creating-cross-sections-for-single-layer-structures&#34;&gt;&#xA;  Creating Cross-Sections for Single Layer structures&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#creating-cross-sections-for-single-layer-structures&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This can be useful for understanding how different pics will stack upon each other or how color effects might emerge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paper Weaving</title>
+      <link>http://localhost:1313/docs/worksheets/paper-weaving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worksheets/paper-weaving/</guid>
+      <description>&lt;h1 id=&#34;paper-weaving&#34;&gt;&#xA;  Paper Weaving&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#paper-weaving&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This worksheet guides you through a first weave using a paper loom. Follow the instructions on the right.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/PaperLoom.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/paper-weaving.png&#34; alt=&#34;Paper Weaving Worksheet&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;mapping-your-experience-to-terminology&#34;&gt;&#xA;  Mapping your Experience to Terminology&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mapping-your-experience-to-terminology&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;When you were following the instructions, you were implicitly performing the movements and actions of both the weaver and loom. Specifically:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;you followed a &amp;ldquo;DRAFT&amp;rdquo; which was the grid of black and what cells that communicated the weaving process. You read the draft as a computer would, from bottom to top.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parts of the Loom</title>
+      <link>http://localhost:1313/docs/worksheets/parts-of-the-loom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worksheets/parts-of-the-loom/</guid>
+      <description>&lt;h1 id=&#34;parts-of-the-loom&#34;&gt;&#xA;  Parts of the Loom&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#parts-of-the-loom&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Understanding the structural possibilities of woven cloth depends on a deep understanding of the processes by which woven cloth is assembled. While, as Albers writes, “Any weaving, even the most elaborate, can be done, given time, with a minimum of equipment” [1], we focus on a class of equipment used primarily in industry and western weaving style: the horizontal or two-beam weaving loom. This is slightly different, but not incompatible with tapestry weaving, which is a more free-hand process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conductive Yarn Worksheet</title>
+      <link>http://localhost:1313/docs/worksheets/conductive-yarn-worksheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worksheets/conductive-yarn-worksheet/</guid>
+      <description>&lt;h1 id=&#34;understanding-conductive-yarn-structures-and-how-they-affect-resistance&#34;&gt;&#xA;  Understanding Conductive Yarn Structures (and how they affect Resistance)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#understanding-conductive-yarn-structures-and-how-they-affect-resistance&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Resistance is an important concept in e-textiles and particularly woven e-textiles. You will need a strong understanding of resistance in order to make your own sensors. To do this, we&amp;rsquo;ll get a sense of resistance as a quality of materials, not a mystical electrical number. A good working understanding of resistance for woven sensing is that its just about telling us how much metal will be touching metal. To develop this understanding you&amp;rsquo;ll need your multi-meter and several samples of conductive yarns. You will take measurements of your samples at different lengths and tensions, review the structural diagram of the yarn, and use it to come up with a possible explanation of why this material is measuring these specific values.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Warping Instructions</title>
+      <link>http://localhost:1313/docs/worksheets/warp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worksheets/warp/</guid>
+      <description>&lt;h1 id=&#34;warping-instructions&#34;&gt;&#xA;  Warping Instructions&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#warping-instructions&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Warping is one of the things that takes the most labor in weaving, so make it an adventure and try to find a way to love it. I reccomend podcasts or an album you haven&amp;rsquo;t heard in a long time. Take pleasure in the repetition and funny shapes and movements your hands learn to make.&lt;/p&gt;&#xA;&lt;p&gt;There are a million resources with information on how to warp, notably those by &lt;a href=&#34;https://harrisville.com/products/learning-to-weave-by-deborah-chandler&#34;&gt;Chandler&lt;/a&gt; and &lt;a href=&#34;https://peggyosterkamp.com/weaving-books-dvd/&#34;&gt;Osterkamp&lt;/a&gt;, and this certainly won&amp;rsquo;t live up to those, but I&amp;rsquo;ve come up with a few methods and diagrams that are specific to the looms and equipment available in this class or can be improvised if you don&amp;rsquo;t have the &amp;ldquo;official&amp;rdquo; weaving equipment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reverse Drafting</title>
+      <link>http://localhost:1313/docs/worksheets/reverse_drafting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/worksheets/reverse_drafting/</guid>
+      <description>&lt;h1 id=&#34;reverse-drafting-worksheet&#34;&gt;&#xA;  Reverse Drafting Worksheet&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#reverse-drafting-worksheet&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;With major inspiration from the &lt;a href=&#34;https://www.theweavingmill.com/reverse-drafting-club&#34;&gt;Weaving Mill&amp;rsquo;s Reverse Drafting Club&lt;/a&gt;, we created our own worksheet an activity you can follow here with your own fabric swatch.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/Reverse%20Drafting%20Worksheet.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/reversedrafting.png&#34; alt=&#34;Reverse Drafting Worksheet&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/Reverse%20Drafting%20Worksheet.pdf&#34;&gt;Download the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1j2uLIZfA-a7bwwISSsO788CdLPI-bh-V-y6ogFHDkHA/edit#gid=0&#34;&gt;Play with it on Google Drive&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
