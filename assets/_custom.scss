@@ -1,6 +1,7 @@
 /* Lesson plan schedule (data/lesson-plan.yaml) */
 
-a {
+.markdown a,
+.markdown a:visited {
   color: purple;
 }
 
@@ -136,7 +137,8 @@ h3.class-block__title {
 
 
 
-.class-block__section--due a {
+.class-block__section--due a,
+.class-block__section--due a:visited {
   color: violet;
 }
 

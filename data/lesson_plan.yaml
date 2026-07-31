@@ -357,7 +357,8 @@ weeks:
     tuesday:
       date: "11/3"
       topic: Sampling and Refining Samples
-      # active:
+      active:
+        - "[Sample Round 1 Report](../final/sample-round-1/)"
       # due: []
       bring: [materials you plan to use for your final project]
       in_class:
@@ -367,7 +368,7 @@ weeks:
       topic: Refining Samples
       # no_class: true
       active:
-      #   - Final Samples, Set 1
+        - "[Sample Round 1 Report](../final/sample-round-1/)"
       # due: []
       # bring_override: []
       in_class:
@@ -395,12 +396,14 @@ weeks:
          - Sample Crits / In-House Play
 
   - number: 14
-    title: TBD
-    # description: ""
+    title: Sampling Round 2
+    description: >
+      We'll spend the week weaving samples for our final project and exploring any emerging topics along the way.
     tuesday:
       date: "11/17"
       topic: Emerging Topics
-      # active: []
+      active:
+       - "[Sample Round 2 Report](../final/sample-round-2/)"
       # due:
       # bring: []
       in_class:
@@ -425,7 +428,10 @@ weeks:
     tuesday:
       date: "12/1"
       topic: Project Documentation Workshop
-      active: ["[Duplication Report](../final/duplication-report/)"]
+      active: 
+        - "[Duplication Report](../final/duplication-report/)"
+        - "[Presentation](../final/presentation/)"
+        - "[Final Swatch and Documentation Page](../final/swatches-swatch-book/)"
       # due: []
       # bring: []
       in_class:
@@ -433,7 +439,9 @@ weeks:
     thursday:
       date: "12/3"
       topic: In House Prep for Final Presentations
-      # active: []
+      active: 
+        - "[Presentation](../final/presentation/)"
+        - "[Final Swatch and Documentation Page](../final/swatches-swatch-book/)"
       due: ["[Duplication Report](../final/duplication-report/)"]
       # bring: []
       in_class:
