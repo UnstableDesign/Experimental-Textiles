@@ -20,6 +20,8 @@ example_week:
     in_class:
       - Activity one
       - "[Linked activity](../worksheets/example)"
+    history_of: 
+      - Topic 1
   thursday:
     date: "M/D"
     topic: Session Title
@@ -29,6 +31,8 @@ example_week:
     bring: []
     in_class:
       - Activity one
+    history_of: 
+      - Topic 1
 
 # Semester starts on a Thursday — omit tuesday:
 example_week_thursday_only:

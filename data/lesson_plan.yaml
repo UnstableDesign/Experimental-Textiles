@@ -60,41 +60,43 @@ weeks:
       # bring_override: []
       in_class:
          - Discussion of Sampling and Materials-Led Design
-         - "Review [Weeklies Templates](../templates/weeklies-template)"
+         - Review [Weeklies Templates](../templates/weeklies-template)
          - Assemble Class Kit
-         - History Of Presentations
+         - History Of Presentations Summary
     thursday:
       date: "8/27"
       topic: Looms and Weaving
       bring: [a not-too-precious hard cover book of your choice]
-      # active:
+      active:
+        - 'finding a partner and thinking of history of presentation topic'
       due:
          - 'Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89'
       in_class:
-      #   - Reading Discussion
-      #   - History of Weaving and Weaving Machines
-      #   - How to Take Good Photos
-      #   - start [Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)
+         - Reading Discussion
+         - History of Weaving and Weaving Machines
+         - How to Take Good Photos
+         - Start [Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)
 
   - number: 3
     title: Finishing and Connecting
     description: >
-      we'll finish our book looms and start making connectors to use in soft circuits.
+      we'll cut off and finish the swatches we created on our book looms and start making connectors to use in soft circuits.
     tuesday:
       date: "9/1"
       topic: Finishing Techniques
       active: []
       due:
         - "[Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)"
+        -  Sign up for your history of presentation topic and date on Canvas
     bring: [your completed book loom]
     in_class:
       - book loom share out
-      - finishing techniques (gluing/tying off, weaving in ends, etc.)
-      - methods for making/customizing conductive yarns (plying, braiding, etc.)
- 
+      - finishing technique workshop (gluing/tying off, weaving in ends, etc.)
+
+
     thursday:
       date: "9/3"
-      topic: Conductive Yarns, Multi-meters, and Connectors
+      topic: Conductive Yarns, Multimeters, and Connectors
       # active:
       # due: []
       # bring: []
@@ -106,7 +108,7 @@ weeks:
   - number: 4
     title: Warping and Weaving with Etta Sandry
     description: > 
-      we'll start warping and weaving on our Cricket looms and exploring different methods for integrating conductive materials.
+      This week we'll start warping and weaving on our Cricket looms and explore different methods for integrating conductive materials.
     tuesday:
       date: "9/8"
       note: This class will be guest taught by Etta Sandry
@@ -121,6 +123,8 @@ weeks:
         - Connector Share Out
         - "[Parts of the Loom Quiz](../worksheets/parts-of-the-loom)"
         - Start [Weekly 3 — Warp and Weave](../weeklies/3-warp-and-weave)
+      history_of: 
+        - TBD (topic and speaker)
       
     thursday:
       date: "9/10"
@@ -134,15 +138,18 @@ weeks:
       in_class:
         - Tapestry Techniques (weft pile, looping, etc.)
         - Leno and Lace Structures
+      history_of: 
+        - TBD (topic and speaker)
 
   - number: 5
-    title: Tabby Play
-    
+    title: Supplemental Weft Techniques
     description: >
       We study variations on the tabby structure and supplemental weft techniques, which are especially
       useful for integrating conductive materials.
     tuesday:
       date: "9/15"
+      topic: no class
+      note: Prof. Devendorf is traveling. You are welcome to use the classroom to work on Weekly 3 - Warp and Weave or other projects.
       no_class: true
       bring_override: []
     thursday:
@@ -158,6 +165,9 @@ weeks:
       in_class:
         - Share Out
         - Supplemental Weft Experimentation
+      history_of: 
+        - TBD (topic and speaker)
+
 
   - number: 6
     title: Integrating Electronics
@@ -169,9 +179,11 @@ weeks:
       # active: []
       bring: []
       in_class:
-        - Preview the Remaining Techniques We'll Learn
+        - "Surveying Different Weaving Practices along four axes: materials, ratio, structure, on-the-loom decisions"
         - Final Project Brainstorm
-        - Start Prepping Materials for Flip Bead and Dynamic Color 
+        - Start Prepping Materials for Flip bead and Dynamic Color
+      history_of: 
+        - TBD (topic and speaker)
     thursday:
       date: "9/24"
       topic: Flip Beads
@@ -179,6 +191,8 @@ weeks:
       in_class:
       - Electromagnetics  
       - Start [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
+      history_of: 
+        - TBD (topic and speaker)
   
 
   - number: 7
@@ -188,21 +202,23 @@ weeks:
     tuesday:
       date: "9/29"
       topic: Types of Looms and Drafting
-      # active: []
       due:
-         - Final Project Concept
+         - "[Project Proposal](../final/project-proposal/)"
          - Turn In [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
       bring: [your flip bead swatches]
       in_class:
         - Flip Bead Share Out
         - Introducing Shaft Looms
         - Introduction To Drafting, Drawdown
-        - Drafting by Hand for Harness Looms
+      history_of: 
+          - TBD (topic and speaker)
     thursday:
       date: "10/1"
       topic: Twills
       active:
         - "[Weekly 5 — Album Weave](../weeklies/5-album-weave)"
+        - "[Background Research](../final/background-research/)"
+
       due: []
       bring: []
       in_class:
@@ -210,18 +226,20 @@ weeks:
         - Complex Twills + Undulating Twills
         - Shading
         - Weaving with a Floating Selvedge
-        - "[AdaCAD](http://adacad.org)"
-
+      history_of: 
+        - TBD (topic and speaker)
   - number: 8
     title: Satins
     description: >
       Structural possibilities beyond basic weaves, plus techniques and software for floor looms.
-      Thursday is CU's midsemester reading day.
+      Thursday is CU's mid-semester reading day.
     tuesday:
       date: "10/6"
       topic: Working with Tieups and Treadling + Satins
       active:
-        - "[Weekly 6 — Album Weave](../weeklies/6-album-weave)"
+        - "[Weekly 5 — Album Weave](../weeklies/6-album-weave)"
+        - "[Background Research](../final/background-research/)"
+
       due: []
       bring: []
       in_class:
@@ -229,6 +247,8 @@ weeks:
         - How to work with treadling and Tieups
         - Intro to Satin Structure
         - Shaded Structures and Damask
+      history_of: 
+        - TBD (topic and speaker)
     thursday:
       date: "10/8"
       topic: Midsemester Reading Day
@@ -247,45 +267,57 @@ weeks:
       date: "10/13"
       topic: Compound Structures
       active:
+         - "[Background Research](../final/background-research/)"
       due:
-        - "[Weekly 6 — Album Weave](../weeklies/6-album-weave)"
+        - "[Weekly 5 — Album Weave](../weeklies/6-album-weave)"
       bring: []
       in_class:
         - Share Out
         - Waffles + Crepes
         - 2-3 System Structures
         - Layers
+      history_of: 
+        - TBD (topic and speaker)
     thursday:
       date: "10/15"
       topic: Layers
-      active: []
+      active:
+        - "[Background Research](../final/background-research/)"
       bring: []
       in_class:
         - Intro to Weaving with Two Layers
-        - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+        - Start [Weekly 5 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)
+      history_of: 
+        - TBD (topic and speaker)
 
   - number: 10
-    title: TBD
+    title: Replicating Designs and Final Project Discussion
     description: >
-      Continue multilayer thinking, then shift toward synthesizing the semester into a final project
+      We'll spend some time learning reverse drafting, which is a technique that you can use to "read" the pattern of a cloth that has already been produced. Then we'll shift toward synthesizing the semester into a final project.
     tuesday:
       date: "10/20"
       topic: Reverse Drafting
       active: 
-       - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+        - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+        - "[Background Research](../final/background-research/)"
       bring: []
       in_class:
          - "[Reverse Drafting Worksheet](../worksheets/reverse_drafting)"
+      history_of: 
+        - TBD (topic and speaker)
     thursday:
       date: "10/22"
-      # topic: Introducing Final Project and Surveying Contemporary Weaving
-      # active: []
+      topic: Final Project Research
       due:
-       - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
-      bring: [your pocket swatches]
-      # in_class:
-      #   - "Surveying Different Weaving Practices along four axes: materials, ratio, structure, on-the-loom decisions"
-
+        - "[Background Research](../final/background-research/)"
+      active: 
+        - "[Background Research](../final/background-research/)"
+        - '[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)'
+      in_class:
+        - Final Project Check In
+        - Final Project Discussion
+      history_of: 
+        - TBD (topic and speaker)
   - number: 11
     title: Drafting by Cross Sections 
     # description: >
@@ -295,135 +327,136 @@ weeks:
       date: "10/27"
       topic: Drafting by Cross-Section I
       note: Deanna Gelosi will join us to show us her cross-section design tool
-      # active:
-      #   - "[Final Proposal](../weeklies/final_proposal)"
-      # due: []
-      # bring: []
-      # in_class:
-      #   - Learning inlay techniques
-      #   - Customizing inlay in the context of electrodes
+      bring: 
+      [your pocket swatches]
+      due: 
+       - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
+      in_class:
+        - Pocket Share Out
+        - Drafting by Cross-Section Worksheets
+      history_of: 
+        - TBD (topic and speaker)
     thursday:
       date: "10/29"
       topic: Drafting by Cross-Section II
       note: Deanna Gelosi will join us to show us her cross-section design tool
-      # active:
-      #   - Final Samples, Set 1
-      # due:
-      #   - "[Final Proposal](../weeklies/final_proposal)"
-      # bring: []
-      # in_class:
-      #   - Present the first set of samples produced for the final project
-      #   - Customizing Conductive Yarn
+      active:
+        - "[Sample Round 1 Report](../final/sample-round-1/)"
+      due:
+      bring: []
+      in_class:
+        - Interactive Cross-Section Design Tool Demo
+        - Customizing Conductive Yarn
+      history_of: 
+        - TBD (topic and speaker)
 
   - number: 12
-    title: TBD
-    # description: ""
+    title: Sampling Round 1
+    description: >
+      We'll spend the week weaving samples for our final project.
     tuesday:
       date: "11/3"
-      # topic: Sampling and Refining Samples
+      topic: Sampling and Refining Samples
       # active:
-      #   - Final Samples, Set 1
       # due: []
-      # bring: []
-      # in_class:
-      #   - Weaving with Elastics
+      bring: [materials you plan to use for your final project]
+      in_class:
+         - Materials Deep Dive
     thursday:
       date: "11/5"
-      # topic: Laura Out
-      # note: Independent studio work day — keep progressing Final Samples, Set 1.
+      topic: Refining Samples
       # no_class: true
-      # active:
+      active:
       #   - Final Samples, Set 1
       # due: []
       # bring_override: []
-      # in_class: []
+      in_class:
+        - we'll address any emerging questions or challenges from sampling
 
   - number: 13
     title: TBD
     # description: ""
     tuesday:
       date: "11/10"
-      # topic: Sample Crits
+      topic: Sample Critiques
       # active: []
-      # due:
-      #   - Final Samples, Set 1
-      # bring: []
-      # in_class:
-      #   - Sample critiques
+      due:
+         - "[Sample Round 1 Report](../final/sample-round-1/)"
+      bring: [all completed samples]
+      in_class:
+        - Sample critiques
     thursday:
       date: "11/12"
-      # topic: Sample Crits / In-House Play
+      topic: Sampling Round 2 Begins
       # active:
-      #   - Final Samples, Set 2
       # due: []
-      # bring: []
-      # in_class:
-      #   - Sample Crits / In-House Play
+      bring: [all completed samples]
+      in_class:
+         - Sample Crits / In-House Play
 
   - number: 14
     title: TBD
     # description: ""
     tuesday:
       date: "11/17"
-      # topic: Sample Crits / In-House Play
+      topic: Emerging Topics
       # active: []
       # due:
-      #   - Final Samples, Set 2
       # bring: []
-      # in_class:
-      #   - Sample Crits / In-House Play
-      #   - "Experimental Weaving Talk Series: TBD"
+      in_class:
+         - Sample Crits / In-House Play
+         - Final Project Presentation Explainer
+         - Any Other Emerging Topics
     thursday:
       date: "11/19"
-      # topic: TBD
+      topic: Sampling Round 2 Critiques
       # active: []
-      # due: []
-      # bring: []
-      # in_class:
-      #   - TBD
-
-  - title: TBD
-    # break: true
-    # description: No class 11/23–11/27
+      due: ["[Sample Round 2 Report](../final/sample-round-2/)"]
+      bring: [all completed samples]
+      in_class:
+        - Sample Critiques
+        - Selecting your Final Sample
+        - Developing a Duplication Plan
 
   - number: 15
-    title: TBD
-    # description: ""
+    title: Document and Duplicate!
+    description: >
+      We'll spend the week documenting and duplicating our samples.
     tuesday:
       date: "12/1"
-      # topic: TBD
-      # active: []
+      topic: Project Documentation Workshop
+      active: ["[Duplication Report](../final/duplication-report/)"]
       # due: []
       # bring: []
-      # in_class:
-      #   - TBD
+      in_class:
+         - Project Documentation Workshop
     thursday:
       date: "12/3"
-      # topic: TBD
+      topic: In House Prep for Final Presentations
       # active: []
-      # due: []
+      due: ["[Duplication Report](../final/duplication-report/)"]
       # bring: []
-      # in_class:
-      #   - TBD
-
+      in_class:
+         - Documentation Studio
+         - In House Prep for Final Presentations
   - number: 16
-    title: TBD
-    # description: ""
+    title: Final Presentations
+    description: "Final Presentations"
     tuesday:
       date: "12/8"
-      # topic: Final Presentations
-      # active: []
-      # due:
-      #   - "[Final Deliverables 1, 2, and 3](../docs/projects-assignments/final.md)"
-      # bring: []
-      # in_class:
-      #   - First set of students present about their sampling process and final outcome
+      topic: Final Presentations
+      active: []
+      due:
+        - "[Presentation](../final/presentation/)"
+      bring: []
+      in_class:
+        - First set of students present about their sampling process and final outcome
     thursday:
       date: "12/10"
-      # topic: Final Presentations
-      # active: []
-      # due:
-      #   - "[Final Deliverable 4](../docs/projects-assignments/final.md)"
-      # bring: []
-      # in_class:
-      #   - Second set of students present about their sampling process and final outcome
+      topic: Final Presentations
+      active: []
+      due:
+        - "[Final Swatch and Documentation Page](../final/swatches-swatch-book/)"
+      bring: []
+      in_class:
+        - Second set of students present about their sampling process and final outcome

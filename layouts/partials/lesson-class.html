@@ -1,6 +1,6 @@
 {{/*
-  Renders one class day block.
-  Context: dict "class" ... "page" ... "defaults" ...
+Renders one class day block.
+Context: dict "class" ... "page" ... "defaults" ...
 */}}
 {{- $c := .class -}}
 {{- $page := .page -}}
@@ -23,7 +23,7 @@
 
   {{- /* Bring */ -}}
   {{- if isset $c "bring_override" }}
-    {{- with $c.bring_override }}
+  {{- with $c.bring_override }}
   <div class="class-block__section">
     <h4>Bring</h4>
     <ul>
@@ -32,16 +32,16 @@
       {{- end }}
     </ul>
   </div>
-    {{- end }}
+  {{- end }}
   {{- else }}
-    {{- $bring := slice -}}
-    {{- range ($defaults | default slice) }}
-      {{- $bring = $bring | append . -}}
-    {{- end }}
-    {{- range ($c.bring | default slice) }}
-      {{- $bring = $bring | append . -}}
-    {{- end }}
-    {{- if gt (len $bring) 0 }}
+  {{- $bring := slice -}}
+  {{- range ($defaults | default slice) }}
+  {{- $bring = $bring | append . -}}
+  {{- end }}
+  {{- range ($c.bring | default slice) }}
+  {{- $bring = $bring | append . -}}
+  {{- end }}
+  {{- if gt (len $bring) 0 }}
   <div class="class-block__section">
     <h4>Bring</h4>
     <ul>
@@ -50,7 +50,7 @@
       {{- end }}
     </ul>
   </div>
-    {{- end }}
+  {{- end }}
   {{- end }}
 
   {{- with $c.due }}
@@ -78,6 +78,17 @@
   {{- with $c.in_class }}
   <div class="class-block__section">
     <h4>In class</h4>
+    <ul>
+      {{- range . }}
+      <li>{{ . | $page.RenderString }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+
+  {{- with $c.history_of }}
+  <div class="class-block__section">
+    <h4>History of</h4>
     <ul>
       {{- range . }}
       <li>{{ . | $page.RenderString }}</li>
