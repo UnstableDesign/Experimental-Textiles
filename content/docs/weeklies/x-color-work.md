@@ -1,6 +1,5 @@
 ---
 title: 5 - Dynamic Color Work
-weight: 5
 ---
 
 # Dynamic Color Work

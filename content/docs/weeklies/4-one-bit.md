@@ -19,9 +19,9 @@ This week, we are going to work on making an electromagnet and weaving it into t
 | 4.7 kOhm Resistor | 5 | kit
 | Thread | 12" | you or in class
 | Scissors | 1 | you
-| Warped Cricket Loom | 1 | from weekly 2
+| Warped Cricket Loom | 1 | from Weekly 3
 | Weft Yarns | 10 yds | in class
-| Connectors | 3 | from Weekly 3
+| Connectors | 3 | from Weekly 2
 | Lighter | 1 | you
 | Multimeter | 1 | you
 

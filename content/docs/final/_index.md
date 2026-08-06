@@ -1,6 +1,6 @@
 ---
 title: Final Project
-weight: 5
+weight: 8
 description: Develop a textile swatch focusing on texture and behavior.
 ---
 

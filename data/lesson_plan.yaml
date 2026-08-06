@@ -123,8 +123,7 @@ weeks:
         - Connector Share Out
         - "[Parts of the Loom Quiz](../worksheets/parts-of-the-loom)"
         - Start [Weekly 3 — Warp and Weave](../weeklies/3-warp-and-weave)
-      history_of: 
-        - TBD (topic and speaker)
+
       
     thursday:
       date: "9/10"
@@ -138,8 +137,6 @@ weeks:
       in_class:
         - Tapestry Techniques (weft pile, looping, etc.)
         - Leno and Lace Structures
-      history_of: 
-        - TBD (topic and speaker)
 
   - number: 5
     title: Supplemental Weft Techniques
@@ -165,8 +162,6 @@ weeks:
       in_class:
         - Share Out
         - Supplemental Weft Experimentation
-      history_of: 
-        - TBD (topic and speaker)
 
 
   - number: 6
@@ -363,6 +358,8 @@ weeks:
       bring: [materials you plan to use for your final project]
       in_class:
          - Materials Deep Dive
+      history_of: 
+        - TBD (topic and speaker)
     thursday:
       date: "11/5"
       topic: Refining Samples
@@ -373,6 +370,8 @@ weeks:
       # bring_override: []
       in_class:
         - we'll address any emerging questions or challenges from sampling
+      history_of: 
+        - TBD (topic and speaker)
 
   - number: 13
     title: TBD
