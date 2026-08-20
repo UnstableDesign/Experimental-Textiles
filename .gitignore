@@ -3,6 +3,8 @@
 /resources/_gen/
 .hugo_build.lock
 
+upload.sh
+
 # OS
 .DS_Store
 Thumbs.db
