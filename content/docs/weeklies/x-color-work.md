@@ -1,5 +1,6 @@
 ---
 title: 5 - Dynamic Color Work
+draft: true
 ---
 
 # Dynamic Color Work

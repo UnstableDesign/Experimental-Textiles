@@ -57,7 +57,7 @@ weeks:
     tuesday:
       date: "8/25"
       topic: Design Philosophy
-      # bring_override: []
+      bring_override: []
       in_class:
          - Discussion of Sampling and Materials-Led Design
          - Review [Weeklies Templates](../templates/weeklies-template)

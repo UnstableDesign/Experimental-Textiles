@@ -15,7 +15,7 @@ We expect students to complete at least four high-quality swatches as part of th
 Your swatches should emerge from a challenge that you define. Specifically, you will set yourself up with a question and a heuristic* that you'll use to evaluate your responses to the question. The aim can change, but try to stick somewhat the the original question and heuristic. For your swatch book page, you must title your swatch and write a description of its behavior. You must include a list of the materials and tools used to create it as well as the draft or AdaCAD workflow you used to create it. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. The draft should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references.** 
 
 Maximum swatch dimensions: 5.5" x 7.75" x 0.25"  
-Quantity: 3 copies of the same swatch  
+Quantity: 2 copies of the same swatch  
   
 **You will keep one copy and give the other two to the instructor for grading**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
 
