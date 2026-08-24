@@ -72,20 +72,20 @@ As a member of this class you will also be given a kit of consumable materials t
 
 | Item | Qty  | Used In
 | :--- | :--- | :-- |
-| Statex Conductive Thread | 1 yard | Weeklies 1, 5, 6
-| Karl Grim Copper Thread | 1 
+| Statex Conductive Thread | 4 yard | Weeklies 1, 5, 6
+| Karl Grim Copper Thread | 1 yard 
 | Dowels | 2 | Weeklies 1 and 3
 | Popsicle Sticks | 2 | Weekly 1
-| Paracord | 60" | Weekly 2
-| Silicone Coated Wire | 60" | Weekly 2, 4, 6
+| Paracord | 1 bundle | Weekly 2
+| Silicone Coated Wire | 40" | Weekly 2, 4, 6
 | Shrink Tubing | 9" | Weekly 2
-| Quilt Clips | 12" | Weekly 2
+| Quilt Clips | 6 | Weekly 2
 | Conductive Tape | 12" | Weekly 3
 | Magnet Wire | 5 yds | Weekly 4
-| Magnetic Beads | 3 | Weekly 4
+| Magnetic Beads | 2 | Weekly 4
 | 9V Battery | 1 | Weekly 4
-| 4.7 kOhm Resistor | 5 | Weekly 4
-| Needle | 1 | Several Weekly 4
+| 4.7 kOhm Resistor | 2 | Just in Case
+| Needle | 1 | Several
 
 <!-- ## Other Class Provided Materials
 - Colored Pencils 

@@ -15,8 +15,8 @@ One of the main challenges when making electronics embedded in textiles is getti
 
 | Item | Qty  | Used In
 | :--- | :--- | :-- |
-| Paracord | 60" (cut into 3 equal pieces) | kit
-| Silicone Coated Wire | 60" (cut into 3 equal pieces) | kit
+| Paracord | 30" (cut into 3 equal pieces) | kit
+| Silicone Coated Wire | 30" (cut into 3 equal pieces) | kit
 | Shrink Tubing | 9" (6, 1.5" pieces) | kit
 | Quilt Clips | 6 | kit
 | Conductive Tape | 12" (cut into smaller pieces) | kit
