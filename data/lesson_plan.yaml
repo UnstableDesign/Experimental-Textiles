@@ -70,7 +70,7 @@ weeks:
       active:
         - 'finding a partner and thinking of history of presentation topic'
       due:
-         - 'Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89'
+         - CANCELED - 'Annie Albers, On Weaving, "The Loom", pp 23-43 and images on pp 83-89'
       in_class:
          - Reading Discussion
          - History of Weaving and Weaving Machines
@@ -88,6 +88,7 @@ weeks:
       due:
         - "[Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)"
         -  Sign up for your history of presentation topic and date on Canvas
+        - Read Chapter Six, "Early Techniques of Thread Interlacing" in Annie Albers On WeavingDownload Annie Albers On Weaving, p. 53-58 and plates (graphics) on pages 108-114. 
     bring: [your completed book loom]
     in_class:
       - book loom share out
@@ -200,6 +201,7 @@ weeks:
       due:
          - "[Project Proposal](../final/project-proposal/)"
          - Turn In [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
+         
       bring: [your flip bead swatches]
       in_class:
         - Flip Bead Share Out
@@ -214,7 +216,9 @@ weeks:
         - "[Weekly 5 — Album Weave](../weeklies/5-album-weave)"
         - "[Background Research](../final/background-research/)"
 
-      due: []
+      due: [         
+        - Read Chapter Three and Four, Draft Notation and The Fundamental Constructions in Annie Albers On Weaving, p. 38-47 and plates (graphics) on pages 89-96.
+      ]
       bring: []
       in_class:
         - Introduction to Twills + Unbalanced Structures
