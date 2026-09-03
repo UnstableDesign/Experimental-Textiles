@@ -88,7 +88,7 @@ weeks:
       due:
         - "[Weekly 1 — Make a Book Loom](../weeklies/1-make-a-book-loom)"
         -  Sign up for your history of presentation topic and date on Canvas
-        - Read Chapter Six, "Early Techniques of Thread Interlacing" in Annie Albers On WeavingDownload Annie Albers On Weaving, p. 53-58 and plates (graphics) on pages 108-114. 
+        - Read Chapter Six, "Early Techniques of Thread Interlacing" in Annie Albers On Weaving, p. 53-58 and plates (graphics) on pages 108-114. 
     bring: [your completed book loom]
     in_class:
       - book loom share out
@@ -115,14 +115,9 @@ weeks:
       note: This class will be guest taught by Etta Sandry
       topic: Warping and Weaving Tabby
       # active: []
-      due:
-        - "[Weekly 2 — Make Connectors](../weeklies/2-make-connectors)"
       bring: [
-        - your completed connectors
         - your cricket loom]
       in_class:
-        - Connector Share Out
-        - "[Parts of the Loom Quiz](../worksheets/parts-of-the-loom)"
         - Start [Weekly 3 — Warp and Weave](../weeklies/3-warp-and-weave)
 
       
@@ -172,12 +167,16 @@ weeks:
     tuesday:
       date: "9/22"
       topic: Final Project Discussion 
+      due:
+        - "[Weekly 2 — Make Connectors](../weeklies/2-make-connectors)"
       # active: []
-      bring: []
+      bring: [
+        - your completed connectors]
       in_class:
+        - Connector Share Out
+        - Guest Lecture with Corey Takara: "Surveying Different Weaving Practices along four axes: materials, ratio, structure, on-the-loom decisions"
         - "Surveying Different Weaving Practices along four axes: materials, ratio, structure, on-the-loom decisions"
         - Final Project Brainstorm
-        - Start Prepping Materials for Flip bead and Dynamic Color
       history_of: 
         - TBD (topic and speaker)
     thursday:
@@ -188,7 +187,7 @@ weeks:
       - Electromagnetics  
       - Start [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
       history_of: 
-        - TBD (topic and speaker)
+        - Hannah and Liam on Indigo
   
 
   - number: 7
@@ -201,14 +200,13 @@ weeks:
       due:
          - "[Project Proposal](../final/project-proposal/)"
          - Turn In [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
-         
       bring: [your flip bead swatches]
       in_class:
         - Flip Bead Share Out
         - Introducing Shaft Looms
         - Introduction To Drafting, Drawdown
       history_of: 
-          - TBD (topic and speaker)
+          - Zhiman and Yunessa on Natural Dye
     thursday:
       date: "10/1"
       topic: Twills
@@ -216,9 +214,7 @@ weeks:
         - "[Weekly 5 — Album Weave](../weeklies/5-album-weave)"
         - "[Background Research](../final/background-research/)"
 
-      due: [         
-        - Read Chapter Three and Four, Draft Notation and The Fundamental Constructions in Annie Albers On Weaving, p. 38-47 and plates (graphics) on pages 89-96.
-      ]
+      due: [Read Chapter Three and Four, Draft Notation and The Fundamental Constructions in Annie Albers On Weaving, p. 38-47 and plates (graphics) on pages 89-96.]
       bring: []
       in_class:
         - Introduction to Twills + Unbalanced Structures
@@ -226,7 +222,7 @@ weeks:
         - Shading
         - Weaving with a Floating Selvedge
       history_of: 
-        - TBD (topic and speaker)
+        - Elliot and Kurtis on Scottish Tartans
   - number: 8
     title: Satins
     description: >
@@ -247,7 +243,7 @@ weeks:
         - Intro to Satin Structure
         - Shaded Structures and Damask
       history_of: 
-        - TBD (topic and speaker)
+        - Jadynn and Delaney on Velvet
     thursday:
       date: "10/8"
       topic: Midsemester Reading Day
@@ -276,7 +272,7 @@ weeks:
         - 2-3 System Structures
         - Layers
       history_of: 
-        - TBD (topic and speaker)
+        - Ethan and Coral on Bolillo Lace
     thursday:
       date: "10/15"
       topic: Layers
@@ -287,7 +283,7 @@ weeks:
         - Intro to Weaving with Two Layers
         - Start [Weekly 5 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)
       history_of: 
-        - TBD (topic and speaker)
+        - Mija and Kate on Naqsheh-khani
 
   - number: 10
     title: Replicating Designs and Final Project Discussion
@@ -303,7 +299,7 @@ weeks:
       in_class:
          - "[Reverse Drafting Worksheet](../worksheets/reverse_drafting)"
       history_of: 
-        - TBD (topic and speaker)
+        - Allie and Carrie on Women and Weaving 
     thursday:
       date: "10/22"
       topic: Final Project Research
@@ -316,7 +312,7 @@ weeks:
         - Final Project Check In
         - Final Project Discussion
       history_of: 
-        - TBD (topic and speaker)
+        - Aaliyah and Lesley on Bobbin Lace
   - number: 11
     title: Drafting by Cross Sections 
     # description: >
@@ -334,7 +330,7 @@ weeks:
         - Pocket Share Out
         - Drafting by Cross-Section Worksheets
       history_of: 
-        - TBD (topic and speaker)
+        - Emma and Sapna on History of Sewing Machines
     thursday:
       date: "10/29"
       topic: Drafting by Cross-Section II
@@ -347,7 +343,7 @@ weeks:
         - Interactive Cross-Section Design Tool Demo
         - Customizing Conductive Yarn
       history_of: 
-        - TBD (topic and speaker)
+        - Finn and Gideon on Denim
 
   - number: 12
     title: Sampling Round 1
