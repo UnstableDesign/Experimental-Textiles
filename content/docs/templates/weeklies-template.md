@@ -4,7 +4,27 @@ description: Please use this template for each of your weekly assignments.
 
 # Weeklies Template
 
-Each weekly will give you a prompt to explore. In your assignment turn in, you'll will describe what you did in response to that prompt. This template is about process. Process means the journey you follow when attempting an assignment, not just the ending point. All the things that you do that go well, inspire a next step, or go not as you planed and either cause you to change your direction. All these experiences are equally valuable as long as we document and share them with each other. To borrow, again, from Corita Kent's rules for an art studio, "the only rule is work". With that in mind, we want you to submit the following for each of your weeklies: 
+Each weekly will give you a prompt to explore. In your assignment turn in, you'll will describe what you did in response to that prompt. 
+
+This template is about process. Process means the journey you follow when attempting an assignment, not just the ending point. All the things that you do that go well, inspire a next step, or go not as you planed and either cause you to change your direction. All these experiences are equally valuable as long as we document and share them with each other. To borrow, again, from Corita Kent's rules for an art studio, "the only rule is work". With that in mind, we want you to submit the following for each of your weeklies: 
+
+### General  Tips
+
+#### Approach Each Weekly as an Experiment
+What I mean by this is that when you talk about what you set out to do, and what you are doing at each point in the process, I want you to lead with a question. In this class, you are all materials-led researchers and I'd like you to present your work that way. Rather than transcription (e.g. I did this, then this, etc),  I'm looking for a set of tests and outcomes - what did you try?, why did you try it?, what were you hoping would happen?, what really happened?
+
+
+
+#### Use a Formal Writing Tone
+
+It's important in this class to represent your work, no matter how casual or experimental, in professional terms as a means of honoring the work you have completed and making it accessible and actionable to others. Also, it's just good practice for future professional communications. My formal tone, I mean full sentences; spelling out acronyms (I don't know vs. idk); and proper terminology for the techniques and styles that you are referencing (as best as you are able). 
+
+
+#### It's Okay for the Material Outcomes to be Messy
+
+Sometimes people rework the entire project to achieve a particular result. This is okay if its how you are wired, but it is also a way that you might end up spending too much time on these assignments. It's okay for things not to work, and in this class, we might learn more from the failures as we work on our way to successes. Sharing your failures is also humanizing for others who are learning. 
+
+
 
 ## Template
 
@@ -19,6 +39,20 @@ Before you start working, tell us where you are starting: Give us a 2-3 sentence
 ### Process Notes
 
 Its critical to make observations and take time while you are exploring materials and techniques. We want to submit a collection \(at least three, but more are welcome\) of your notes on process. Each note should include a photo and a short description of the observation or idea that emerged. 
+
+#### Don't Forget Photograph as you Go
+
+Take pictures of your work as you are working. If you notice that a technique revealed an unintended outcome, take a photo of that outcome and include it alongside the process note. 
+
+#### A Suggested Structure for Each Process Note
+1. what are you going to attempt - please describe the techniques in their proper terms
+
+2. what do you expect to happen when you do this thing (e.g. your hypothesis)
+
+3. what actually happened: use phrases like "I noticed" and describe the outcome, both in terms of your experience (e.g. it was easy, hard, fun, laborious) and the product (e.g. functions as expected, not as expected, does part of what I want, but had unintended side-effect). 
+
+4. what purpose do you think the thing you noticed might have - what might the technique be good for? how does it shape what you are going to try next?
+
 
 ### Reflection: 
 
