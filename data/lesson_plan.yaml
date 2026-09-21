@@ -171,18 +171,19 @@ weeks:
         - "[Weekly 2 — Make Connectors](../weeklies/2-make-connectors)"
       # active: []
       bring: [
-        - your completed connectors]
+        - your completed connectors
+        - your swatches from weekly 2]
       in_class:
         - Connector Share Out
-        - Guest Lecture with [Corey Takara](https://www.okadadesign.com/upcoming-and-latest)
-        - "Surveying Different Weaving Practices along four axes: materials, ratio, structure, on-the-loom decisions"
+        - Share out from Laura's travels to Haystack and Textile Intersections
         - Final Project Brainstorm
+        - Winding Electromagnets
     thursday:
       date: "9/24"
       topic: Flip Beads
       active:
       in_class:
-      - Electromagnetics  
+      - Experimental Weaving Talk Series with [Corey Takara](https://www.okadadesign.com/upcoming-and-latest)
       - Start [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
       history_of: 
         - Hannah and Liam on Indigo
