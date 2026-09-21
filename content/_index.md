@@ -63,7 +63,6 @@ Systems, Association for Computing Machinery,
 
 - Albers, Anni. "On weaving." On Weaving. Princeton University Press, 2017.
 
-- [Documents on Weaving, Textiles, and Related Topics Created for On-Line Publication](https://smsf.cs.arizona.edu/patterns/weaving/index.html)
 
 - Oelsner, Gustaf Hermann. A handbook of weaves. Macmillan, 1915.
 
