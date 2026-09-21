@@ -16,43 +16,10 @@ laura.devendorf@colorado.edu
 By Appointment, Wednesdays 3:15-4:15 & Thursdays, 11-12
 [Schedule an Office Hour](https://calendly.com/lauradevendorf/oh)
 
-<!-- ### Class Assistant ###
-**Lily Gabriel**
-Undergrad, Creative Technologies and Design
-lily.gabriel@colorado.edu
-office hours posted on canvas -->
 
 ## Location and Timing 
-Fall 2026 // Tuesday, Thursday: 8:55am - 10:45am<br>
+Fall 2026 // Tuesday, Thursday: 8:55am - 10:45am
 ATLAS 1B31
-
-
-<!-- 
-### Online Instruction Values and Commitments  as described by the class on the first day\*
-
-#### Be Present: 
-
-being present was seen to mean having your camera on, not getting distracted by your phone \(putting it in another room if needed\), being responsive within the Zoom chat window. 
-
-#### Lets Stay Together:
-
-we agreed that staying together was building communication and community through shared spaces. In response, [we set up a slack channel for the class](https://app.slack.com/client/T0197GVSCKY/C018ZGHGDQX). We also agreed that we would all need to bring some vulnerability to the group, sharing our successes as well as the things we are struggling with. The space should be a kind space to listen and provide support to each other. 
-
-#### Differences of Opinion:
-
-we agreed that we need to be respectful and empathetic when listening to and responding to each other. A "yes, and...." strategy should be used when providing feedback. We also recognize that perception is different for everyone and we come from different lenses and experiences. 
-
-#### Everyone Belongs: 
-
-we interpreted this to mean that we should be interested in put in effort to the work in the class; that everyone is learning \(and ought to be learning given the unfamiliar-ness of the space\). We should attempt to treat others equally regardless of background, skills or knowledge. We should also build each other up when at all possible. 
-
-#### Step Up, Step Back:
-
-we agreed that we should be reflective  of how much "space" we are taking in the class and step up if we have a relevant experience or expertise. Laura noted that self-evaluations of expertise vary social category and encouraged us to be generous with our own evaluations of our expertise and offer up what we know. Be wanted to create a space where we could take risks exploring something we don't know well \(textiles or otherwise\). We acknowledged that the willingness to step up tends to come from a position of privilege and how that becomes present in the classroom. Ask yourself how you can swing privilege to make space for others. 
-
-#### Privacy
-
-we agreed that activities and narratives of what happens in class should stay in class because we need to build a culture of trust to ensure that each of us feels ok being vulnerable about the things we are thinking and making \(acknowledging that a creative practice is rooted in vulnerability and not-knowing\). Our work may be personal and each of us, via Zoom, can see into a slice of everyone else's' personal life, we can keep the personal things we learn about people to ourselves.  -->
 
 
 
@@ -104,8 +71,6 @@ Because this is a small studio-style class that is very much centered on materia
 All students will have 2 absences excused automatically. Any additional absences and make up points will need to be coordinated with the instructor.  
 
 
-<!-- ## Research Activities ##
-This course has been developed as part of a larger grant studying smart textiles collaboration. In week two, the instructor or one of her students will describe how research will take place in the class and give you the opportunity to opt into or out of those research activities. Your participation in the research activities will have no effects on your grade.    -->
 
 ## Contacting Prof. Devendorf ##
 I  prefer that students utilize my office hours (link coming soon) with questions or comments about the class. Please send all email inquiries to laura.devendorf@colorado.edu. Please also put “\[**ExTx**\]” in the subject line so that I can easily recognize and respond to your email. I will do my best to respond to emails within one “business” day. For instance, if your message is sent during a regular school day \(weekday/non-holiday\), I will do my best to get back to you by the next regular school day. Due to my parenting duties, I check my email infrequently in the evenings and weekends. If you email me the night before an assignment is due, I am unlikely to be able to respond in time.
@@ -155,12 +120,8 @@ CU Boulder is committed to a community of care in which students are supported b
  
 
 ### Course Alerts Syllabus Statement
-This course participates in the CU Course Alert process to help connect you with support resources and identify your barriers to success (colorado.edu/engineering-advising/coursealerts).  If you receive a course alert for this class, please plan to (identify and input the specific action you'd like the student to take for each class here, i.e., schedule a meeting with you, attend office hours, send you an email, connect with a TA, etc.).
+This course participates in the [CU Course Alert process to help connect you with support resources and identify your barriers to success ](colorado.edu/engineering-advising/coursealerts).  If you receive a course alert for this class, please plan to (identify and input the specific action you'd like the student to take for each class here, i.e., schedule a meeting with you, attend office hours, send you an email, connect with a TA, etc.).
 
 
 ## Acknowledgements
-
 Thank you Sasha de Koninck for her time and effort developing the course and the many online resources.  Feedback for this course has also been provided by Etta Sandry.
-
-<!-- \*The values and commitments activity that generated the content in this syllabus \(specifically the main points of presence, differences of opinion, ....\) was directly inspired by the organization of an online workshop led by the [OpEd project](https://www.theopedproject.org/). 
- -->

@@ -8,6 +8,9 @@ theme = "hugo-book"
 disablePathToLower = true
 enableGitInfo = false
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
 
 [markup.tableOfContents]
   startLevel = 1
