@@ -183,7 +183,7 @@ weeks:
       topic: Flip Beads
       active:
       in_class:
-      - Experimental Weaving Talk Series with [Corey Takara](https://www.okadadesign.com/upcoming-and-latest)
+      - Experimental Weaving Talk Series with [Corinne Takara](https://www.okadadesign.com/upcoming-and-latest)
       - Start [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
       history_of: 
         - Hannah and Liam on Indigo
@@ -198,38 +198,41 @@ weeks:
       topic: Types of Looms and Drafting
       due:
          - "[Project Proposal](../final/project-proposal/)"
-         - Turn In [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
-      bring: [your flip bead swatches]
+      bring: []
+      active: 
+        - "[Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)"
       in_class:
-        - Flip Bead Share Out
+        - Background Research Project Description
         - Introducing Shaft Looms
         - Introduction To Drafting, Drawdown
+
       history_of: 
-          - Zhiman and Yunessa on Natural Dye
+          - Zhiman and Yunessa on Henna
     thursday:
       date: "10/1"
       topic: Twills
       active:
         - "[Weekly 5 — Album Weave](../weeklies/5-album-weave)"
         - "[Background Research](../final/background-research/)"
-
-      due: [Read Chapter Three and Four, Draft Notation and The Fundamental Constructions in Annie Albers On Weaving, p. 38-47 and plates (graphics) on pages 89-96.]
-      bring: []
+      due: 
+      - Read Chapter Three and Four, Draft Notation and The Fundamental Constructions in Annie Albers On Weaving, p. 38-47 and plates (graphics) on pages 89-96.
+      - Turn In [Weekly 4 - One Bit Flip Bead](../weeklies/4-one-bit)
+      bring: [your flip bead swatches]
       in_class:
-        - Introduction to Twills + Unbalanced Structures
-        - Complex Twills + Undulating Twills
-        - Shading
-        - Weaving with a Floating Selvedge
+        - Flip Bead Share Out
+        - Introduction to Fundamental Constructions
+        - Twills
+        - Drafting Twills and Intro to AdaCAD
       history_of: 
         - Elliot and Kurtis on Scottish Tartans
   - number: 8
-    title: Satins
+    title: Weaving on Multiple Shafts
     description: >
       Structural possibilities beyond basic weaves, plus techniques and software for floor looms.
       Thursday is CU's mid-semester reading day.
     tuesday:
       date: "10/6"
-      topic: Working with Tieups and Treadling + Satins
+      topic: Working with Tieups and Treadling
       active:
         - "[Weekly 5 — Album Weave](../weeklies/6-album-weave)"
         - "[Background Research](../final/background-research/)"
@@ -238,9 +241,10 @@ weeks:
       bring: []
       in_class:
         - How to adapt drafts to the class looms
+        - Practical Considerations for Class Looms (reservations, advancing warp, etc.)
         - How to work with treadling and Tieups
-        - Intro to Satin Structure
-        - Shaded Structures and Damask
+        - Understanding a Floating Selvedge
+       
       history_of: 
         - Jadynn and Delaney on Velvet
     thursday:
@@ -254,49 +258,50 @@ weeks:
       in_class: []
 
   - number: 9
-    title: Multi-Layer 
+    title: Structure Play
     description: >
-      Explore compound structures, then begin weaving multiple layers at once.
+      Open the door to a broader range of structures that are weavable on the class looms, specifically tabby variations, satins, and compound structures.
     tuesday:
       date: "10/13"
-      topic: Compound Structures
+      topic: More Structures
       active:
          - "[Background Research](../final/background-research/)"
       due:
         - "[Weekly 5 — Album Weave](../weeklies/6-album-weave)"
       bring: []
       in_class:
-        - Share Out
-        - Waffles + Crepes
-        - 2-3 System Structures
-        - Layers
+        - Share Out Album Weave
+        - Tabby Variations
+        - Satin Structures
       history_of: 
         - Ethan and Coral on Bolillo Lace
     thursday:
       date: "10/15"
-      topic: Layers
+      topic: Compound Structures
       active:
         - "[Background Research](../final/background-research/)"
       bring: []
       in_class:
+        - Waffle Weaves + Beyond
         - Intro to Weaving with Two Layers
         - Start [Weekly 5 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)
       history_of: 
         - Mija and Kate on Naqsheh-khani
 
   - number: 10
-    title: Replicating Designs and Final Project Discussion
+    title: More Compound Structures
     description: >
-      We'll spend some time learning reverse drafting, which is a technique that you can use to "read" the pattern of a cloth that has already been produced. Then we'll shift toward synthesizing the semester into a final project.
+     we'll continue our exploration of compound structures that are weavable on the class looms
     tuesday:
       date: "10/20"
-      topic: Reverse Drafting
+      topic: Layers and Interlacing
       active: 
         - "[Weekly 6 - Put it in A Pocket](../weeklies/6-put-it-in-a-pocket)"
         - "[Background Research](../final/background-research/)"
       bring: []
       in_class:
-         - "[Reverse Drafting Worksheet](../worksheets/reverse_drafting)"
+         - More Description of an Practice with Layers (including up to 4 layers)
+         - Interlacing Structures to Create Sided-Ness
       history_of: 
         - Allie and Carrie on Women and Weaving 
     thursday:
@@ -358,7 +363,7 @@ weeks:
       in_class:
          - Materials Deep Dive
       history_of: 
-        - TBD (topic and speaker)
+        - Gwyn and Grace on E-Textiles
     thursday:
       date: "11/5"
       topic: Refining Samples

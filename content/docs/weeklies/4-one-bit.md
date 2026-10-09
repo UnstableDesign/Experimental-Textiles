@@ -28,10 +28,11 @@ This week, we are going to work on making an electromagnet and weaving it into t
 ## Requirements
 Wrap the magnet wire provided in class about 200 times around a pencil or pen, leaving each end of the wire loose, about 12" long. Gently pull the coil of wire off of the pen and use a piece of thread and your needle to tie the coil together.  You have just created an electromagnetic coil. Repeat this process so you have 2 coils. 
 
-Your weekly this week will focus on how you might integrate these coils into your weaving using supplemental weft techniques. Make at least 2 swatches that explore supplemental weft techniques (e.g. inlay or overshot shown in class). Integrate 1 coil into each swatch. 
+
+Your weekly this week will focus on how you might integrate these coils and magnetic beads into your weaving using supplemental weft techniques. Make 1 swatch that integrates 2 coils, or 2 swatches that explore different supplemental weft techniques (e.g. inlay). You'll want to create integrations that are easy to connect to, and if possible, also have a mechanism that will hold the magnetic bead in the center of the coil. 
 
 ## What To Document In Your Weekly
-Your weekly should focus on experimentation integrating the coils and developing your draft: Consider how you can make the traces of the coil easy to connect to, how they can be decorative, or how they can be entirely hidden while secure to the cloth. 
+Your weekly should focus on experimentation integrating the coils and beads: Consider how you can make the traces of the coil easy to connect to, how they can be decorative, or how they can be entirely hidden while secure within the cloth. 
 
 ## Turn In
 Turn your documentation into Canvas. Cut and finish your swatches and bring them to class. Also bring your lighter to class. When you bring your swatches to class, we will hook them up to the battery and resistor to show how they can be used to create a [1-bit flipping switch](https://ireneposch.net/1-bit-textile/). 
